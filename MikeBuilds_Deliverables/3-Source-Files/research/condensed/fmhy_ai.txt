@@ -1,0 +1,577 @@
+TITLE: Artificial Intelligence
+CHARS: 19088
+URLS: 0
+HTML_HEADINGS: 30
+MD_HEADINGS: 0
+
+== HTML SECTION MAP ==
+Base64 Encoded Link
+Wiki
+Tools
+More
+Artificial Intelligence
+AI Chatbots ​
+Official Model Sites ​
+Multiple Model Sites ​
+Specialized Chatbots ​
+Local AI Frontends ​
+Self-Hosting Tools ​
+Roleplaying Chatbots ​
+Grammar Check ​
+AI Coding Tools ​
+Video Generation ​
+Image Generation ​
+Local Frontends ​
+Guides / Tools ​
+Image Restoration ​
+Audio Generation ​
+Text to Speech ​
+Voice Change / Clone ​
+Voice Removal / Separation ​
+AI Agents ​
+AI Tools ​
+AI Prompts ​
+AI Indexes ​
+AI Benchmarks ​
+Specialized Benchmarks ​
+Coding Benchmarks ​
+
+== FULL TEXT ==
+Artificial Intelligence • freemediaheckyeah
+
+ Base64 Encoded Link 
+ The link you clicked leads to a Base64 encoded string. 
+To decode it, you can use:
+ An online tool: Base64 Decode 
+ A userscript: FMHY Base64 Auto Decoder (using a userscript manager ) 
+ For more options: Base64 Decoders 
+ Don't show again 
+ Cancel Open Link 
+
+Skip to content 
+FMHY 
+
+SearchK
+
+ Main Navigation 📑 Changelog 📖 Glossary 💾 Backups 🌱 Ecosystem🌐 Search 
+❓ FAQs 
+🔖 Bookmarks 
+✅ SafeGuard 
+🚀 Startpage 
+🔎 SearXNG 
+💡 Site Hunting 
+😇 SFW FMHY 
+🏠 Selfhosting 
+🏞 Wallpapers 
+💙 Feedback 
+
+Appearance
+
+MenuOn this page
+
+ Sidebar Navigation 
+ Beginners Guide
+
+ Posts
+
+ Contribute
+
+Wiki
+
+ Adblocking / Privacy
+
+ Artificial Intelligence
+
+ Movies / TV / Anime
+
+ Music / Podcasts / Radio
+
+ Gaming / Emulation
+
+ Books / Comics / Manga
+
+ Downloading
+
+ Torrenting
+
+ Educational
+
+ Android / iOS
+
+ Linux / macOS
+
+ Non-English
+
+ Miscellaneous
+
+Tools
+
+ System Tools
+
+ File Tools
+
+ Internet Tools
+
+ Social Media Tools
+
+ Text Tools
+
+ Gaming Tools
+
+ Image Tools
+
+ Video Tools
+
+ Audio Tools
+
+ Educational Tools
+
+ Developer Tools
+
+More
+
+ NSFW
+
+ Unsafe Sites
+
+ Recently Removed
+
+ Storage
+
+ Emoji Legend 
+
+Indexes
+
+Section Links
+
+Recommendations
+
+Options
+
+Toggle Starred
+
+Toggle Indexes
+
+Theme:Swarm
+
+On this page
+AI Chatbots Official Model Sites 
+Multiple Model Sites 
+Specialized Chatbots 
+Local AI Frontends 
+Self-Hosting Tools 
+Roleplaying Chatbots 
+Grammar Check 
+
+AI Coding Tools 
+Video Generation 
+Image Generation Local Frontends 
+Guides / Tools 
+Image Restoration 
+
+Audio Generation Text to Speech 
+Voice Change / Clone 
+Voice Removal / Separation 
+
+AI Agents 
+AI Tools AI Prompts 
+
+AI Indexes 
+AI Benchmarks Specialized Benchmarks 
+Coding Benchmarks 
+
+Artificial Intelligence
+Chatbots, Text Generators, Image Generators, Chatbot Tools
+
+Got feedback?
+ We'd love to know what you think about this page. 
+
+ Share Feedback 
+
+AI Chatbots ​ 
+TIP
+It's never a good idea to upload anything personal or confidential to cloud-based AIs, as many of them use your prompts for data collection or training purposes. If you want privacy, it's best to run LLMs locally. If a site does not state that sign-up is required, you can still use it without logging in, but you will face stricter limits and have access to fewer models.
+
+Official Model Sites ​ 
+ DeepSeek - DeepSeek-V4.1-Flash / Sign-Up / Unlimited / Add Features / / / 
+ Qwen Studio - Qwen3.8 Max / Qwen3.7 Plus / Sign-Up / / / 
+ ⁠Z.ai - GLM 5.3 / GLM 5.3 Flash / Agent / Slides / Sign-Up / / 
+ Google AI Studio - Gemini 3.8 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Google Sign-Up / Add Features / / 
+ Gemini - Gemini 3.6 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Add Features / Limits / / 
+Meta AI - Muse Spark 1.2 / Muse Glimmer 30B / Meta Sign-Up / Unlimited
+Kimi , 2 - Kimi K3 / Slides / Google Login or Phone # Required / / / 
+ChatGPT - GPT-5.6 Luna / Unlimited / Add Features / Limits / r/OpenAI / r/ChatGPT / 
+⁠LongCat - LongCat 2.0 / Sign-Up / Unlimited / 
+Tencent AI Studio - ⁠Hy3 / Unlimited / Sign-Up
+⁠MiMo Studio - MiMo-V2.6-Pro / MiMo-V2.6 flash / Sign-Up
+Grok - Grok 4.5 / Agent / Traffic-Based / Rate Display , 2 / / 
+Microsoft Copilot - GPT-5.1 (Think Deeper) / Sign-Up / Unlimited
+Claude - Claude Sonnet 5 / Requires Sign-Up + Sometimes Phone # / Add Features / Resources / Learning , 2 / Usage Tracker / / 
+⁠Chat Motif - Motif 3 / Unlimited
+MiniMax AI - MiniMax M3 / Agent / Sign-Up / 
+Mistral or Mistral Studio - Mistral Medium 3.5 / / 
+⁠Ai2 Playground - Olmo 3.1 32B Think / No Sign-Up / Unlimited / 
+⁠Solar - Solar Pro 4 / No Sign-Up / 
+⁠Solar Playground - Solar Pro 4 / No Sign-Up / 
+ArceeAI - Trinity Large Thinking / Unlimited / 
+Sarvam - Sarvam 105B / Unlimited / Sign-Up
+⁠Poolside AI - Laguna S 2.1 / Laguna XS 2.1
+⁠Inception - Mercury 2 / Unlimited
+Multiple Model Sites ​ 
+ ⁠Together.ai - GLM-5.3 / Kimi K3 / Qwen3.8 2.4T A95B / DeepSeek V4 Pro 0813 / Up To 110 Daily / 
+NVIDIA NIM - Kimi K3 / DeepSeek V4 Pro 0813 / MiniMax M3 / Unlimited / No Sign-Up
+⁠Tryingopen - DeepSeek V4 Pro / Qwen3.8 27B / GLM-5.3-Flash / Unlimited (12 per chat) / OpenAI Bridge 
+⁠ISH - Claude Opus 5 / GPT-5.6 Sol / Kimi K3 / 50K Tokens Daily / / 
+Arena , 2 - Multiple Models / Agent / Sign-Up / / 
+⁠ChatWave - Claude Opus 5 / Claude Fable 5 / GPT 6 Astra / GPT-5.6 Sol / 
+⁠Lumo - Qwen3.5 122B A10B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / OpenAI Bridge / 
+
+⁠Ecosia AI - Mistral Small 4 / Mistral Small 3.2 / Unlimited
+AI Assistant - GLM 4.7 / gpt-oss-120b / No Sign-Up
+Apertus , 2 - Apertus v1.5 70B Thinking / ALIA 40B (Spain) / Apertus v1.5 8B Thinking (No Sign-Up)
+Specialized Chatbots ​ 
+ Awesome AI Web Search , 2 - AI Search Engine Index
+ Gemini Notebook - Document Chatbot / Note-Taking / Slides / Anki Export / / / 
+ Google AI Mode - AI Search Engine / 5 Daily / Pro (Google Sign-Up) / Fast (No Sign-Up)
+ ⁠Ask Brave - AI Search Engine
+ TextFX / , NeverWrite / , Toolbaz / 2 or Rytr - AI Creative Writing Tools
+Perplexity - AI Search Engine / Enhancements / 
+Arena , 2 - AI Search Engine / Sign-Up / / 
+⁠Exa - AI Search Engine
+Vane - FOSS AI Search Engine / Self-Hosted / 
+Learn About or Learning Coach - Google's Educational Search AIs
+⁠Sci-Bot - Sci-Hub Research Chatbot
+Alphaxiv - Research Chatbot
+⁠Bohrium - Research Chatbot
+SciSpace - Research Chatbot / 
+Scinito - Research Chatbot
+⁠Sakana Chat - Research Chatbot
+Elicit - Research Chatbot / 
+PrivateGPT - Document Chatbot / Note-Taking / / 
+Onyx - Document Chatbot / Note-Taking / / 
+DocsGPT - Document Chatbot / Note-Taking / / 
+⁠Anara - Document Chatbot
+⁠Paper2Gal - Turn Academic Papers into Visual Novels via AI
+Hyperspace - P2P AI Network / 
+Local AI Frontends ​ 
+ SillyTavern - Desktop App / Presets / Themes / / / 
+ Open WebUI - Web UI / / 
+ Jan - Desktop App / / 
+ LM Studio - Desktop App / Self-Hosted Models Only / / 
+ TextGen - Web UI / Self-Hosted Models Only / Colab / / 
+ Cherry Studio - Desktop App / Mobile / / 
+ ⁠Unsloth - Desktop App / Self-Hosted / Notebooks / Guide / 
+GobboNet - Desktop App / 
+GPT4Free - Desktop App / Web / / 
+Msty - Desktop App / 
+⁠Locally Uncensored - Desktop App
+⁠Lemonade - Desktop App / / 
+Chatbox - Desktop App / 
+LobeHub - Desktop App / Requires Sign-Up / / 
+Noi - Desktop App / / 
+⁠Odysseus - Web UI / 
+LibreChat - Web UI / / 
+LoLLMs - Web UI / 
+AnythingLLM - Desktop App / / 
+⁠Colibri - Run GLM 5.2 w/ 24GB RAM
+tgpt - Command-Line Interface
+⁠ch.at - Language Model Bridge / Lightweight / Minimal
+Self-Hosting Tools ​ 
+ Awesome Local LLM - Local LLM Platforms / Resources
+ llama.cpp - Self-Hosted Transformer-Based LLMs / 
+ KoboldCpp - llama.cpp with API + GUI / ROCm / Colab 
+ ⁠Unsloth - Self-Hosted / Notebooks / Guide / 
+ Sonar - Serve LLMs at Scale with Kobold & OpenAI APIs / Colab / 
+Leon - Self-Hosted / / 
+Ollama - Self-Hosted / / 
+GPT4All - Self-Hosted / / 
+llamafile - Run LLM with Single Files / 
+LLM-API-Key-Proxy - LLM API Key Proxy
+⁠Can I Run AI Locally or What Models? - Determine Which AI Models You Can Run Locally
+⁠LocalAI - Self-Hosted Models / 
+Roleplaying Chatbots ​ 
+ Sukino-Findings - AI Roleplay Resources
+ Perchance , 2 or Custom Api - Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / Resources / Lemmy / / 
+ SillyTavern - Self-Hosted Roleplaying Models / Presets / Themes / / / 
+ PygmalionAI - Roleplaying Chatbots / Unlimited (Free Models) / Sign-Up / Guide / Resources / / / 
+ Agnai - Chatbot Builders + Roleplaying + Images / Unlimited / Some NSFW / 
+ FlowGPT - Roleplaying Chatbots / Unlimited (Model-Ares) / Some NSFW / 
+HammerAI - Chatbot Builder + Roleplaying + Images / Unlimited / Some NSFW / Local / / / 
+Miku / Live Demo / Open-Source / Roleplaying / Some NSFW / 
+4thWall AI / or WyvernChat - Roleplaying Chatbots / No Sign-Up
+AI Dungeon / / or Spellbound or FictionLab / - Roleplaying + Story Chatbot / No Sign-Up
+KoboldAI Web - Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / 
+Verba - Roleplaying + Images / Unlimited / 
+TavernAI - Roleplaying / Story Chatbot / Colab / / 
+KoboldAI - GUI for Roleplaying Chatbots / No Sign-Up / / 
+Crossing the Uncanny Valley - Realistic AI Voice Chatlooks
+⁠your ai slop bores me - Interactive Human AI Roleplaying / 
+GobboNet - Self-Hosted Roleplaying Models / 
+⁠Lumiverse - Self-Hosted Roleplaying Models
+Marinara Engine - Self-Hosted Roleplaying Models
+Grammar Check ​ 
+AI Coding Tools ​ 
+Video Generation ​ 
+TIP
+Keep in mind that most of these will require signup, and in most cases can only generate relatively short videos.
+
+ VBench - Video Generation Model Leaderboard
+ ⁠Snapgen AI - Veo 3.1 / Sora 2 / Grok / Meta (Image to Video) / Sign-Up / 
+ Google Flow - Veo 3.1 / Veo 3.1 Lite / Omni Flash / 50 Credits Daily / Google Sign-Up / Android / 
+Vibes - Unlimited / Meta Sign-Up
+Arena , 2 - 2 Daily / Sign-Up / Random Models / End-Watermark / / 
+Design Arena - Multiple Models / Video Editing / Random Models / Reset Limits / w Temp Mail / / 
+Wan AI - Wan 2.7 / Image to Video / 10 Credits Daily (Fast Credit Based, Slow Unlimited) / 
+Dreamina / Seedance 2.0 (Mini, Fast) / Cost Varies / 120 Credits Daily
+⁠Klipy - Veo 3 / GIF Only / 4s-5s / 4 Daily / Sign-Up
+Qwen - 5/12 Per Hour / / 
+AIFreeVideo - Unlimited / MiniMax Video-01 / Sign-Up
+ModelScope Video - Wan 2.2 14B / 3 Daily / 
+
+PixVerse - 3 Daily / 
+FramePack - Desktop App / Local Models / Requires NVIDIA GPU
+⁠Amuse - Desktop App / Local Models / 
+Eggnog - AI Character Video Remixer + Editor
+⁠Pinokio - Plugin-Based / Self-Hosted / NVIDIA Required
+Image Generation ​ 
+ Arena Text to Image or Arena Editing - Image Gen Benchmarks / Leaderboards
+ Google Flow - Nano Banana Pro / 20+ Per Day (Varies) / Nano Banana 2 / Unlimited / Google Login / Android / / Remove Watermarks , 2 , 3 
+ Gemini - Nano Banana 2 / 20 Per Day / Google Login / Remove Watermarks , 2 , 3 / Add Features / 
+ Dreamina - GPT Image 2 / Seedream 5.0 Pro / Nano Banana / 120 Credits Daily / Cost Varies / Sign-Up
+Meta AI - Muse Image / Generating + Editing / Unlimited / Meta Sign-Up
+Bing Create - Unlimited / MAI-Image-2.5-Flash / Editing / Generating / Sign-Up
+Snapgen AI - GPT Image 2 / Nano Banana Pro / Nano Banana 2 / Sign-Up / 
+Design Arena - Multiple Generators / Editing / Sign-Up / Random Models / Reset Limits / w Temp Mail / 
+Google AI Studio - Nano Banana 2 Lite / Editing / Google Login / 
+⁠Ecosia AI - Flux.2 Dev / Unlimited
+Perchance / 2 - Chroma-Based / Unlimited / Resources / Lemmy / / 
+Google AI Mode / - Nano Banana 2 Lite / 20 Per Day / Google Login
+⁠ChatWave Image - GPT Image 2 / Nano Banana 2
+Qwen - 30 Per 24 Hours / Editing / Sign-Up / / 
+Wan AI Image - Wan 2.7 Pro / Wan 2.6 / 10 Credits Daily (Fast Credit Based, Slow Unlimited) / Sign-Up
+OpenSourceGen - Hunyuan Image 3.0 / Z-Image Turbo / 1500 Credits Per Day / Sign-Up / 
+Recraft - 30 Daily / Sign-Up / 
+TheresAnAIForThat or ⁠Vheer / / - Editing / Unlimited / Flux Kontext Dev
+⁠PhotoGPT - 8 Daily / Multiple Generators / Reset Limits w/ VPN
+⁠MAI Playground - MAI-Image-2.5 / MAI-Image-2.5 Flash / MAI-Image-2.5-Pro / 10 Daily / Sign-Up
+ModelScope Images - Qwen Image Edit / Z-Image Turbo / 100 Credits Daily / Model Cost Varies / 
+
+Z-GEN TURBO , ImageFree , Freegen or AIGazou / or AIFreeForever - Z-Image Turbo
+ERNIE (HF) Editing / Sign-Up
+LongCat AI - 100 Daily / Editing
+⁠ChatGPT Images - GPT Image 2 / 8 Daily / Sign-Up
+Arena , 2 - Multiple Generators / Editing / 15 Daily / Sign-Up / / 
+Mage / , ⁠Tater AI , Loras / / , AI Gallery / , or Art Genie - Flux Schnell
+⁠Coze - Seadream 4.0 / 50 Daily / Sign-Up with Phone # / US Select CA
+Diffusers Image Outpaint - AI Image Extender / 
+
+Genie / or threestudio / Colab / - 3D Image Generators
+Interactive Scenes - Generate Interactive Scenes / 
+Illusion Diffusion - Illusion Artwork Generator / 
+
+Local Frontends ​ 
+ Stability Matrix / / 
+ Invoke / / 
+ ComfyUI / / / 
+ Fooocus , 2 / Colab 
+ ⁠Unsloth / Notebooks / Guide / 
+ Mochi Diffusion - Stable Diffusion for Mac / 
+ ⁠Amuse - Stable Diffusion / 
+SDNext / Colab / Upscaling 
+Easy Diffusion / / 
+Makeayo / 
+biniou 
+Sygil WebUI / Colab / / 
+Radiata 
+SD WebUI Forge 
+ComfyUI-Zluda 
+⁠Pinokio - Plugin-Based / Self-Hosted / NVIDIA Required
+Guides / Tools ​ 
+ Paper2GUI , sdg-link , LocalModelsLinks or SDTools - AI Image Resources
+ Civitai - SD Model Index / Archive / / / 
+ ⁠Prompy , Awesome Nano Banana Pro Prompts or promptoMANIA - Image Prompt Indexes
+ A Traveler's Guide to the Latent Space - AI Art Guide
+⁠ImagePromptGuru or CLIP Interrogator / Colab , 2 - Determine Image Prompts
+SD Dynamic Prompts - Extension for Automatic1111
+AI Horde - Stable Diffusion GPU Hoarde / Interface , 2 , 3 / / 
+IOPaint - Image Fill / Item Removal / Colab 
+Generative AI for Beginners - Generative AI Guides
+Image Restoration ​ 
+Audio Generation ​ 
+ Suno - 10 Daily / Guide / 
+Treblo / Unlimited / 
+FlowMusic / Region-Based
+WolframTones / No Sign-Up
+Stable Audio / 10 Monthly / 
+MusicGen / No Sign-Up / Colab / 
+
+Waveformer 
+SOUNDRAW / No Sign-Up
+⁠YuE2-3B / No Sign-Up
+⁠ACE-Step 1.5 / No Sign-Up / 
+Mubert 
+⁠Amuse - ACE-Step 1.5 / 
+AIVA / 
+Boomy / 
+⁠MusicGPT 
+AI Jukebox / No Sign-Up / 
+
+Eapy - MIDI Sample Generator
+Pack Generator - Sample Pack Generator
+MMAudio - Generate Audio for Silent Videos / Demo / Colab / 
+Text to Speech ​ 
+ Awesome AI Sound - TTS + Voice Generation Model Index
+ Arena TTS - Text to Speech Model Benchmarks / Leaderboards
+ TTS Online / No Sign-Up
+ ⁠Unsloth / Notebooks / Guide / 
+Audiblez , Ebook2Audiobook / 2 , ElevenReader , ⁠Paper2Audio or ReadWise (reset trial) - Convert Books / Documents to Audiobooks
+Google Illuminate - Generate AI Conversations
+ElevenLabs / No Sign-Up / / 
+Google Speech Gen 
+TTS-WebUI / No Sign-Up / Colab / / 
+FakeYou / No Sign-Up / 
+OpenAI.fm / No Sign-Up / OpenAI's Bot
+⁠GPT-SoVITS / No Sign-Up
+Kyutai TTS / No Sign-Up
+⁠KittenTTS / No Sign-Up
+Zyphra / / 
+⁠KikiVoice / No Sign-Up
+AudioArena / No Sign-Up
+LazyPy / No Sign-Up / 
+⁠Echo TTS / No Sign-Up
+Kokoro TTS or ⁠Kokoro-82M / No Sign-Up / / / 
+
+Ondoku / No Sign-Up
+⁠Speechma / No Sign-Up
+⁠Chatterbox / No Sign-Up / / 
+
+⁠Audio.Z.AI 
+AnyVoiceLab / No Sign-Up
+VoiceCraft / Colab 
+EmotiVoice 
+⁠Cartesia 
+Fish Audio / 
+Audio-WebUI / No Sign-Up / Colab / 
+VanillaVoice / No Sign-Up
+SoundofText / No Sign-Up
+FreeTTS 
+NaturalReaders / No Sign-Up
+AIVocal / Requires Google Account
+Moe TTS / No Sign-Up / Colab / 
+
+Voice Change / Clone ​ 
+ Applio - Voice Cloning / No Sign-Up / / / 
+ 
+ RVC V2 - RVC V2 Voice Cloning (Locally) / / 
+Voice Changer - Real-Time Voice Changer (W-Okada) / / Colab / 
+ 
+⁠VoiceStudio - Voice Cloning / 
+ / 
+Voice Models - AI Voice Models and Guides / 
+AnyVoiceLab - Voice Cloning / No Sign-Up / 
+AllVoiceLab - Voice Cloning / 
+Voice Removal / Separation ​ 
+ MultiSong Leaderboard - Music & Voice Separation AI Leaderboards
+ MVSEP - 50 Daily / 
+
+Splitter / Requires Sign-Up
+VocalRemover 
+Audacity Effects / 
+Ultimate Vocal Remover / Colab 
+Remove Vocals , 2 
+Vocali.se 
+Mazmazika 
+Ezstems 
+AI Agents ​ 
+TIP
+Keep in mind many agents run in root, so it's best to avoid giving them full drive / root access to avoid any sort of issues or accidental deletions as they can modify files and execute terminal commands without permission if not set up correctly and securely. Agents also tend to have lots of vulnerabilities so it's best to not put the agent on a machine with anything important on it. Running in a container, VPS, or VM is strongly recommended.
+
+ Hermes Agent - General Purpose Agent / Docs / / 
+OpenClaw - General Purpose Agent / Docs / / 
+Goose - General Purpose Agent / 
+AI Tools ​ 
+ AI Price Compare , LLM Pricing / or PricePerToken - AI / LLM API Price Comparisons
+ sindresorhus's Awesome ChatGPT or Awesome ChatGPT - AI Resources
+ Every ChatGPT GUI - ChatGPT GUI Index
+️ AI API Tools 
+tldraw computer - Create Component Workflows to Generate or Transform Data / / 
+⁠Page Assist , ChatGPT Box or KeepChatGPT - Extensions
+LLM - LLM CLI / / 
+⁠LightSession - Fix ChatGPT Lag
+⁠Privatiser - Anonymize Sensitive Data for AI
+⁠Agent Reach - Connect AI Agents to Popular Internet Platforms
+MassiveMark - Convert LLM Chats to DOCX / 
+screenpipe - AI Screen Recorder / No Sign-Up / / 
+ChatGPT Exporter - Export Chats / 
+GPThemes - ChatGPT Themes
+⁠WhichLLM - LLM Performance Comparison Tool
+LLM Model VRAM Calculator - LLM Requirement Calculators
+AI Prompts ​ 
+TIP
+Bypassing chatbot safeguards (aka jailbreaking) is against the TOS of most AI, so use them at your own risk.
+
+ L1B3RT4S - Jailbreak Prompts / / 
+ BlackFriday GPTs Prompts - Prompt Directory
+ Leaked Prompts - Prompt Directory
+ Prompt Engineering Guide / / , Google Whitepaper , Prompt_Engineering , LearnPrompting , OpenAI Guide or Claude Prompts / - Prompting Guides
+ChatGPT System Prompt - Prompt Directory
+⁠system-prompts - Prompt Directory
+The Big Prompt Library - Prompt Directory
+Jailbreak Listings - Prompt Directories / Jailbreaks
+⁠System Prompts Leaks - AI System Prompts
+InjectPrompt Companion - AI Jailbreak Prompt Assistant
+⁠Heretic - AI Jailbreak / Anti-Censorship Tool / 
+promptfoo - Prompt Playgrounds / / 
+Tensor Trust / or Gandalf / - Prompting Skill Games
+Gobble Bot - Generate Text Files for Chatbots
+AI Indexes ​ 
+ ⁠LLM Explorer , Wiki LLM List or LifeArchitect - LLM Databases / Indexes
+ FutureTools - AI Directory / 
+ Google Labs or Google Labs FX - Google AI Experiments / / 
+Models.dev - AI Model Database / Pricing / 
+LLM Resources Hub - AI Directory
+It's Better With AI - AI Directory
+GPT Demo - AI Directory
+ArtificialStudio - Multi-Tool Browser AIs / 
+AI Benchmarks ​ 
+ ⁠LM Council - AI Benchmark Index / Comparisons
+ Artificial Analysis - Chatbot, Image, and Video Benchmarks / / 
+ ⁠Kaggle Benchmarks - Chatbot Leaderboards / Benchmarks
+ Arena , 2 - Chatbot Leaderboards / Benchmarks / / 
+OpenRouter - Chatbot Popularity Rankings / / 
+SEAL LLM Leaderboards - Chatbot Leaderboards
+Context Arena - Chatbot Leaderboards / Benchmarks
+⁠RankedAGI - Chatbot Leaderboards / Benchmarks
+LLM Stats - Chatbot Leaderboard / / 
+OpenLM Arena - Chatbot Leaderboard
+Wolfram LLM Benchmarking Project - Chatbot Leaderboards / Benchmarks
+⁠Epoch AI - Combines Multiple AI Benchmarks
+Specialized Benchmarks ​ 
+ Open VLM Leaderboard - VLM Benchmark Leaderboard Aggregator
+⁠DesignArena - AI Design Benchmarks / / 
+⁠EQ-Bench - AI Emotional Intelligence Benchmarks / 
+MathArena - AI Mathematics Benchmarks / Competitions
+⁠Vals AI - AI Finance / Tax / Law Benchmarks
+⁠UGI Leaderboard - AI ERP Writing & Censors Benchmark
+⁠Simple Bench - AI Human Reasoning Benchmarks
+⁠SpeechMap.AI - AI Free Speech Benchmarks / 
+⁠Tripstitch - AI Trip Planning Benchmarks
+⁠LLMs Bullshit Benchmark - Broken Premise Detection Benchmarks
+⁠VoxelBench - Minecraft AI Generation Benchmark
+Coding Benchmarks ​ 
+ DeepSWE - Coding AI Leaderboard / Benchmarks / 
+ SWEBench - Software Engineering AI Leaderboard / Benchmarks / 
+WebDev Arena - Coding AI Leaderboard / Benchmarks
+Aider LLM Leaderboards - Coding AI Leaderboard / Benchmarks
+⁠Vals AI - Coding AI Leaderboard / Benchmarks
+
+ 📝 Edit this page 
+
+PagerPrevious page Adblocking / Privacy 
+Next page Movies / TV / Anime 
+
+Made with ❤ (rev: 0cae6407 )
+© 2026, Estd 2018. 
+ This site does not host any files.
+
+== URL LIST ==

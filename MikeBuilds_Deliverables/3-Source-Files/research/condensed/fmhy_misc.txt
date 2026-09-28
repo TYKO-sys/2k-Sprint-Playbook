@@ -1,0 +1,1844 @@
+TITLE: Miscellaneous
+CHARS: 73859
+URLS: 0
+HTML_HEADINGS: 80
+MD_HEADINGS: 0
+
+== HTML SECTION MAP ==
+Base64 Encoded Link
+Wiki
+Tools
+More
+Miscellaneous
+Indexes ​
+Git Project Indexes ​
+Random Sites / Discovery ​
+Free Stuff ​
+Free Games ​
+Assistance / Charity ​
+Food ​
+Recipes ​
+Drinks ​
+Fashion / Clothing ​
+Household ​
+Gardening / Agriculture ​
+Vehicle ​
+Sports ​
+Travel ​
+Flights ​
+Maps ​
+Navigation / Transport ​
+Railway Maps ​
+Climate / Weather ​
+Geography Maps ​
+Geology Maps ​
+Historical Maps ​
+Infrastructure Maps ​
+Satellite / Earth Data ​
+News ​
+Aggregators ​
+Tech News ​
+Hacker News Tools ​
+Science News ​
+Health ​
+Mental Health ​
+Physical Health ​
+Workout / Exercise ​
+Nutritional Health ​
+Sexual Health ​
+HRT / Trans Health ​
+Detoxing / Sobriety ​
+Porn Quitting ​
+Career ​
+Job Search / Application ​
+Resume / Portfolio ​
+Remote Jobs ​
+Tech Jobs ​
+Startup ​
+Collaboration Platforms ​
+Finance / Savings ​
+Crypto ​
+Shopping ​
+Electronics / Tech ​
+Mobile / Phones ​
+Cameras ​
+PC Hardware / Building ​
+TV / Monitors ​
+Audio Equipment ​
+Keyboards / Mice ​
+Gaming Equipment ​
+Games ​
+Apps ​
+Books / Audiobooks ​
+Toys / Collectibles ​
+Price Tracking ​
+Useful Sites ​
+Multi Tool Sites ​
+Productivity / Time Tracking ​
+Calendars / Events ​
+Fun Sites ​
+Chat / Forums ​
+Image / Video ​
+Interactive ​
+Interesting ​
+Media / Lore ​
+Mysteries / Paranormal ​
+Live Cameras ​
+Random ​
+
+== FULL TEXT ==
+Miscellaneous • freemediaheckyeah
+
+ Base64 Encoded Link 
+ The link you clicked leads to a Base64 encoded string. 
+To decode it, you can use:
+ An online tool: Base64 Decode 
+ A userscript: FMHY Base64 Auto Decoder (using a userscript manager ) 
+ For more options: Base64 Decoders 
+ Don't show again 
+ Cancel Open Link 
+
+Skip to content 
+FMHY 
+
+SearchK
+
+ Main Navigation 📑 Changelog 📖 Glossary 💾 Backups 🌱 Ecosystem🌐 Search 
+❓ FAQs 
+🔖 Bookmarks 
+✅ SafeGuard 
+🚀 Startpage 
+🔎 SearXNG 
+💡 Site Hunting 
+😇 SFW FMHY 
+🏠 Selfhosting 
+🏞 Wallpapers 
+💙 Feedback 
+
+Appearance
+
+MenuReturn to top
+
+ Sidebar Navigation 
+ Beginners Guide
+
+ Posts
+
+ Contribute
+
+Wiki
+
+ Adblocking / Privacy
+
+ Artificial Intelligence
+
+ Movies / TV / Anime
+
+ Music / Podcasts / Radio
+
+ Gaming / Emulation
+
+ Books / Comics / Manga
+
+ Downloading
+
+ Torrenting
+
+ Educational
+
+ Android / iOS
+
+ Linux / macOS
+
+ Non-English
+
+ Miscellaneous
+
+Tools
+
+ System Tools
+
+ File Tools
+
+ Internet Tools
+
+ Social Media Tools
+
+ Text Tools
+
+ Gaming Tools
+
+ Image Tools
+
+ Video Tools
+
+ Audio Tools
+
+ Educational Tools
+
+ Developer Tools
+
+More
+
+ NSFW
+
+ Unsafe Sites
+
+ Recently Removed
+
+ Storage
+
+ Emoji Legend 
+
+Indexes
+
+Section Links
+
+Recommendations
+
+Options
+
+Toggle Starred
+
+Toggle Indexes
+
+Theme:Swarm
+
+On this page
+
+Miscellaneous
+Extensions, Indexes, News, Health, Food, Fun
+
+Got feedback?
+ We'd love to know what you think about this page. 
+
+ Share Feedback 
+
+Indexes ​ 
+ Awesome List Index , GitHub Topics / 2 - All Awesome Lists
+ Lists - List of Lists Index
+️ AI Indexes 
+️ Privacy Indexes 
+ Ripped - Site Index / 
+ r/PiratedGames Megathread - Game Site Index / 
+ CS.RIN Mega - Game Site Index
+ Dan's Guides - List of Guides by Dan
+ privateersclub - Game Site Index / 
+ Wotaku - Otaku Index / 
+ EverythingMoe , 2 - Otaku Media Index / / 
+ The Index - Japanese Site Index / Bookmarking Site / Wiki / 
+ Awesome Search - Awesome List Search
+ Couleur Tweak Tips - Comprehensive Hub of Resources and Tools / 
+ r/InternetIsBeautiful - Helpful / Fun Sites
+ FMHY Search - Search the Wiki
+Wispy Docs - List of Guides by Wispy
+Track Awesome List - Daily Awesome List Updates
+⁠ForumDirectory - Forum Directory
+theindex.fyi , ooh.directory or ⁠Kagi Small Web - Find Random Small / Indie Sites
+xRanks , Start.me Stats , StatCrop , HypeStat , 10 Million Sites or CuteStat - Site Rankings
+Store.app , NoSignups / , SaaS Discovery or Electron - Web App Indexes
+⁠JustIndex - Site Index / Mirrors / 
+ibiblio - Site / Tool Index
+unapothecary's terminal - Site / Tool Index
+mw.rat.bz - Site / Tool Index
+OneMillionScreenshots - Website Snapshot Map
+Archive-It - Archive.org Collections
+Single Serving Sites - Single-Purpose Sites
+Clone Wars - Site Clone Index / 
+Open Sustainable Technology - Sustainable Tech Project Index
+DeletedCity or Restorativland - Geocities Site Indexes
+The National Archives - UK Government Site Archive / 
+Gazetteer of Wikis , Wiki Stats or WikiDiscover - Miraheze Wiki Indexes
+Creative Commons - Creative Commons Content Sites
+IndieBlogs - Random Indie Blogs
+OldSchoolSitesCatalogue , 404PageFound or href.cool - Oldschool Site Indexes
+Funny / Useless - Funny / Useless Websites
+Websites From Hell - Sites with Questionable Designs
+Git Project Indexes ​ 
+Active GitHub Forks - Active Fork Index
+Lovely Forks - Fork Repo Index
+OSS Insight - Project Index
+sourcehut - Project Index
+Awesome Made by Brazilians - Project Index
+Awesome Opensource Apps - Project Index
+LibHunt - Project Index
+bestofjs - Project Index
+git.news - Project Index
+GitPlanet - Project Index
+GitHub Rankings - Git Project Rankings / 
+Random Sites / Discovery ​ 
+ Vijay's Virtual Vibes - Find Random Sites / iFrame Version 
+ Random FMHY Sites - Find Random Sites Listed on FMHY / Works Per Page / Use Button , 2 
+Chance - Find Random Sites
+Visit A Random Website - Find Random Sites
+BoredButton - Find Random Sites
+Mx Tynehorne’s Cabinet - Find Random Sites
+The Useless Web , 2 - Find Random Sites
+JumpStick - Find Random Sites
+Trilzo - Find Random Sites
+OpenBulkURL - Find Random Sites
+ViralWalk - Find Random Sites
+The Forest - Find Random Sites
+PortalPioneer - Find Random Sites
+WhatsMYIP - Find Random Sites
+Random-Website - Find Random Sites
+Wilderness Land - Find Random Sites
+CloudHiker - Find Random Sites
+WebRelic - Find Random Retro Sites
+Wiby - Find Random Retro Sites
+HyperText - Random Sites / TV Channel Style / 
+Free Stuff ​ 
+AppAgg - Multi-Platform / Apps / / 
+FreeCycle , TrashNothing or Freegle - Free Stuff Exchange / Gifting Communities
+r/GooglePlayDeals - Free / Cheap Apps / Games / Reddit Bot 
+App Sales - Free / Cheap Apps / Games
+r/AppHookup - Free / Cheap Software & Apps / Games
+AppRaven - Apple Platform Apps / Games / / / 
+BAEN - Books
+FreeForStudent or ⁠Student Offers - Free Student Deals / Discounts
+FreeReadFeed or eReaderIQ - Free Kindle Releases
+r/FREE 
+⁠r/freebies 
+r/eFreebies 
+r/udemyfreebies 
+r/FreeEBOOKS 
+Free Games ​ 
+ IsThereAnyDeal - Games / Extension / 
+FreeToGame or Acid Play - F2P Games / Trackers 
+Free Games Claimer - Auto-Claim Free Epic, Amazon, and GOG Games
+epicgames-freegames-node - Auto-Claim Free Epic Games
+Free250 , r/FreeGamesOnSteam or SteamDB - Steam Games
+SteamGifts , SteamDrops or Key Hub - Steam Key Giveaways / 
+IndieGala - Games
+FreeGameCodes - Games / 
+r/freegames - Games
+FreeToKeep - Games / 
+r/RandomActsOfGaming - Games
+TemporarilyFreeGames - Games
+GG.deals Free - Games
+GamerPower - Games
+GrabFreeGames - Games / Steam Group / 
+Epic Games Free or Epic Free Games - Free Epic Games
+EpicFreeGamesList - Epic Free Games List
+Steam Mods - Steam Mods
+Freetchio - itch.io Games
+⁠VRDB or QuestStoreDB - VR Games
+NobsGames - Game APKs
+MiniReview - Mobile Game Recommendations / 
+Games Radar - Games / Android App
+r/FreeGameFindings / Socials 
+r/Freegamestuff 
+Free Packages - Mass Activate All Free Steam Games / $5 Account Min / Guide 
+Assistance / Charity ​ 
+ Global Crisis Support Resources 
+ GiveWell , CharityNavigator , Effective Altruism Funds , Arab.org , CharityWatch or ProPublica - Charity Ratings / Resources
+ ⁠FindHelp - Find Free or Reduced-Cost Resources / US Only
+⁠Single Mother Guide - Single Mother Government Benefits Guide / US Only
+Be My Eyes - Assist the Visually Impaired
+r/Assistance or r/borrow - Assistance / Donation Subreddits
+r/Homeless - Homeless Assistance Subreddit
+r/Random_Acts_Of_Pizza - Pizza Donation Subreddit
+TinyKitten - Kitten Rescue / Donation
+Free Rice - Earn Rice for the World Food Programme / Trivia
+⁠Folding@home - Donate Idle PC to Disease Research
+⁠e-NABLE - Volunteer Own 3D Printer for use in Prosthetic Limb Printing
+Food ​ 
+ /m/food - Food Multireddit
+ Dolici - Top Restaurant List
+ Baking Calculators - Measurement System Conversion Calculators
+ Grocy / Android / / or Listonic - Grocery / Pantry Managers
+ Too Good To Go - Surplus Food Marketplace / 
+
+ Sporked or ⁠Taquitos - Packaged Food & Snack Reviews / Databases
+ Still Tasty or EatByDate - Shelf Life Guides
+ OpenTable - Restaurant Reservation Search
+⁠LocalHarvest , ⁠Local Picks or ⁠USDA Local Food Portal - Find Local Farms / Farmers' Markets / US Only
+⁠CheapFoodMap - Find Cheap (Under $10 Meals) / US Only
+⁠Produce Converter - Produce Converter / Calculator
+DoesItGoBad.com - Food Storage Tips
+FoodExpirationDates or Fridgey - Food Expiration Trackers
+⁠Lowtein - Meat / Dairy Grocery Deal Comparisons
+⁠Cook Well - Cooking Lessons / Science
+Parsnip - Cooking Lessons / Skill Tracking App
+r/Cooking - Cooking Discussion / Tips
+r/AskCulinary - Get Cooking Advice
+⁠Apple Rankings - ⁠Apple Rankings / Reviews
+Crispy Creations - Potato Chip Info / Guides
+FermenThings - Fermentation Wiki
+⁠SaltYourMeat - Dry Brining Calculator
+HackTheMenu - Fast Food Secret Menu Items
+Boycott Buddy - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
+⁠Slave Free Chocolate - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
+⁠The Food Historian - Food History Blog
+Recipes ​ 
+ TheGreatestCookbooks - Expert Recommended Cookbooks
+ Tandoor Recipes , Mealie / , ⁠RecipeSage / , Cooked , ⁠GrubPick or ManageMeals - Recipe Managers
+ Noods.io , ⁠Gobsmacked , Just the Recipe , WheresTheDish , ⁠Forkestrate , Copy Me That , drizzlelemons or PlainOldRecipe - Extract Recipes from Sites / Firefox / Chrome 
+ SuperCook - Recipe Search
+MyFridgeFood , RecipeRadar or WhiskIt - Find Recipes Based on Ingredients
+Food Mood - Blend Two Cuisines for Recipes
+⁠RecipeTables - Convert Recipes to Prep Tables
+Fit Men Cook or PunchFork - Recipes
+Search-22 - Multi-Site Recipe Search
+Wikibook Recipes - Recipe Wiki
+Epicurious - Recipe Search / Index
+PublicDomainRecipes - Recipe Search / 
+Recipe Search - Recipe Search
+Hari Recipes - Recipe Search
+⁠Delicious Recipes - Recipe Search
+KitchenAid - Recipe Search
+⁠Budget Bytes - Budget Recipes
+Recipeeper - Dietary-Based Recipes
+⁠DAREBEETS - Plant-Based Recipes
+TasteAtlas - Recipe Map
+AmazingRibs - Rib Recipes
+The Bread Code Manifesto - Bread Baking Recipes
+Historical Recipes or Tasting History - Historical Recipes
+⁠Gode Cookery - Authentic Medieval Recipes & Historical Info
+r/GifRecipes - Recipes in GIF Format
+r/recipes - Share Recipes
+Drinks ​ 
+ /coffee/ or Coffee Time General - Coffee Brewing Masterlists / Guides
+ Beanconqueror / or Timer.Coffee / - Coffee Tracking Apps / Timers
+Cofi - Coffee Brew Timer / 
+
+Brew Great Coffee - Espresso / Pour-Over Brewing Tools + Tips
+The Minimal Pour - Pour-Over Coffee Calculator
+Notbadcoffee - Interactive Coffee Flavor Wheel
+Nahbucks! - Find Local Non-Starbucks Coffee Shops (US)
+⁠Aeromatic - AeroPress Recipe App
+/tea/ - Tea Brewing Masterlist / Guide
+⁠Difford's Guide - Cocktail Recipe Guide
+Drinkable - Create Cocktails from Home Ingredients
+Make Me a Cocktail - Cocktail Builders
+Fashion / Clothing ​ 
+ Sewing Pattern Sites - Sewing Pattern Site Index
+⁠firstVIEW - Archive of Fashion Runway Show Images + Videos
+Archive Fashion for the World - Fashion Magazines
+⁠Fashion History Timeline or Historical Fashion - Historical Fashion Resources / History
+r/MaleFashionAdvice Spreadsheet - Male Clothing Brand / Price Spreadsheet
+r/FashionReps - Replica Clothing Community / 
+GoodOnYou - Clothing Brand Sustainability Ratings
+⁠Run Repeat - Shoe Shopping Guide / Reviews
+A Bra That Fits or BraMetric - Bra Size Calculators
+cholyknight or FreeSewing / Forum / - Free Clothing Sewing Patterns
+PinDIY - Free Crochet / Knitting Patterns and Magazines
+⁠Craft Yarn Council - Knitting + Crochet Learning
+Antique Pattern Library - Antique Pattern Library
+⁠RSN Stitch Bank - Embroidery Stitches / Lessons
+PEmbroider - Embroidery Generator
+⁠BraceletBook - DIY Bracelet Pattern Database
+Ravelry - Fiber Artist Tools
+TMHunt - Clothing Trademark Search
+Household ​ 
+️ Raspberry Pi Tools 
+ Home Assistant - Home Assistant / IoT / Tracker / Appliances / GUI / Mobile Apps 
+ Grocy - Grocery / Household Management Tool / Android / / 
+OpenHab - Home Assistant / IoT / Setup / Mobile 
+Esphome - Home Assistant / IoT / / 
+ioBroker - Home Assistant / IoT / / 
+⁠Tasmota - Local Smart Home Firmware
+OpenIPC - Open-Source Firmware for Closed-Source IP Cameras
+BudgetDuo - Split Household Expenses / 
+OpenVoiceOS - Custom Voice-Controlled Interfaces / 
+Sweet Home 3D , ⁠Planner5D or Homestyler - Interior Design Apps
+BlockLayer - Construction / Remodeling Calculators
+PlanYourRoom - Visualize PC Setups
+Gardening / Agriculture ​ 
+ Awesome Agriculture - Agriculture Resources
+ Agriculture / Gardening Subreddits 
+ Cannabis Growing Subreddits or Marijuana Subs - Marijuana Subreddits
+ EarthEasy , How To Garden , HappySprout , Growing Guide , GrowStuff or GrowVeg - Gardening Guides
+ r/Gardening - Gardening Community
+ r/Whatsthisplant - Plant Identification Community
+PictureThis or Pl@ntNet - Plant Identification Tools / Android / iOS 
+WildFlowerSearch - Flower Identifier
+Permapeople - Garden Plant Info
+How Many Plants - House Plant Information
+Florae or Plant-it - Plant Care Reminders
+WorldOfSucculents - Succulent Database
+MyGarden - Garden Management App
+Gardenia or Garden Design - Garden Design Resources
+r/UrbanGardening - Urban Gardening Community
+r/Farming - Farming Community
+Backyard Chickens - Chicken Raising Forum
+Composting - Composting Guides
+Modern Farmer - Agricultural News
+Chip Drop - Free Mulch
+World Hardiness Zones or Plantmaps - Global Map of Hardiness Zones
+r/Microgrowery or GrassCity - Cannabis Growing Communities
+SeedFinder - 35500+ Strain Database
+Vehicle ​ 
+ Awesome Vehicle Security - Vehicle Security Resources
+ Operation CHARM , LEMON Manuals , JDMFSM , CarPDFManual , iFitIt Vehicle or ProCarManuals - Auto Repair Manuals
+Startmycar , CarCareKiosk or CarComplaints - Car Repair Sites
+Ownersman.com - Car Owner Manuals
+PremierProduct or Auto Manual - Vehicle Manuals
+⁠Auto Catalog Archive - Vehicle Brochures
+Cars.com - Vehicle Reviews / Comparisons
+WebAutoCats - Vehicle Parts Database
+⁠CarSized - Vehicle Size Comparisons
+How a Car Works - Car Mechanics / Automotive Engineering Guides
+Internet Movie Cars Database - Movie Vehicle Database
+Internet Game Cars Database - Game Vehicle Database
+PlateRecognizer - License Plate Recognition
+GasPrices - Gas Price Tracker
+Fuel.io - Vehicle Fuel Tracking
+LubeLogger - Self-Hosted Maintenance + Fuel Mileage Tracker / 
+Headunit Revived - Turns Android into an Android Auto Head Unit / Display / Wireless Helper 
+EV-Map - Electronic Vehicle Charging Map
+Alibi or DroidDashcam - Mobile Dashcams
+Sports ​ 
+ Sports Stat Sites - Stat Sites Index
+ /sport calendars/ or ⁠EntertainMe - Sports Calendars
+ Sports Games - Mock Sports Draft Game Index
+️ Live Sports / Replays 
+Sofascore or ⁠FlashScore - Sport Scores, Standing & Schedules
+⁠Sports Reference or Opta Analyst - Sports Stats / Analytics
+The Athletic - Sports News / Bypass Paywall / Mobile (search)
+⁠spotrac - Sports Financial Database / Contracts
+The Number Wall - Jersey Number Database
+⁠PROGRID - NFL Calendar / Schedule Chart
+⁠CFB.guide - College Football Schedule / Scores
+Tapology - Combat Sports Predictions
+dropkickd - Rate / Track Wrestling Events
+CageMatch - Wrestling Promotion Database
+⁠FotMob - Football Stats Platform
+⁠MatchSimulator - Football League Simulator
+HatTrick - Multiplayer Football League Manager
+⁠Futez - Rate / Review Football Matches
+⁠raceweek.io - Motorsports Calendar
+Formula Timer or Nitrous / - F1 Live Stats Dashboards
+Calendario Ciclismo - Cycling TV Schedule / Calendar
+Travel ​ 
+️ Concerts / Live Shows 
+ Atlas Obscura / Mobile , Wikivoyage or WikiTravel - Travel Guides / Roadside Attraction Lists
+⁠CozyCozy - Compares 100+ Travel Accommodation Sites
+⁠Cultural Atlas - World Culture / Religion Guides
+UNESCO World Heritage - World Heritage Location Index
+⁠Ikuyo - Trip / Travel Planning
+Roadside America - Roadside Attraction Guides
+RCDB - Roller Coaster Database
+DRdb - Dark Ride Database / 
+⁠IMAX Guide - Database of IMAX Theatres / 
+FindFright - Spooky Attractions / Walkthroughs
+Bike Sharing - Bike Rental Map
+Seat61 - Train Travel Guide
+⁠Trustroots - Traveler Hospitality Community
+SitInShade - Avoid the Sun While Traveling
+⁠EntryConditions - Passport Requirements Database
+eSIMDB - Compare eSIM Prices
+⁠StationView - Live UK Train Schedule / Tracker
+Flights ​ 
+TIP
+Remember it's always good to cross-check flight prices across multiple providers + the airline's site itself to be sure you're getting the best deal.
+
+ ADS-B Exchange , FlightRadar24 , PlaneFinder , Airplanes.live / Mobile , ⁠Flight Viz , Radarbox , Air Loom or FlightAware - Live Flight Trackers
+VisaIndex - Worldwide Travel Visa Guides
+Google Flights or ⁠SkyScanner - Compare / Book Flights
+AZair - Find Budget European & Middle East Flights
+⁠AeroLOPA or ⁠SeatMaps - Flight Seat Maps / Features / Reviews
+seats.aero - Flight Search Engine / / 
+Matrix - Airfare Search
+FlightConnections - Interactive Flight Routes
+SkyVector - Flight Planner
+⁠OpenAirportMap - Airport Maps
+⁠METAR-TAF - Airport Weather Tracking Tool
+⁠ADSB.im - ADSB Tracking for Single Board Computers
+⁠Notamify - Decode NOTAMs / Track Flight Delays
+Maps ​ 
+ Awesome Maps - Online Map Resources
+ Soar , ArcGIS Living Atlas , ⁠WorldAtlas or Cool Maps - Atlases
+ Maps and Geospatial Products - All NCEI Maps
+ nakarte - Multi-Map Aggregator
+ CrisisWatch , ⁠Institute for the Study of War , ACLED , Global Conflict Tracker , LiveUAMap , ⁠World-Monitor , ⁠SitDeck , ⁠Iran War Map , ⁠Conflictly or Israeli-Palestine Conflict - Global Conflict Maps
+Maps.com - Interesting / Educational Maps
+Terraink / , ⁠CartoArt or Map to Poster - Map Poster / Art Generators
+FreeMapTools - Map Tools
+Kiwix Maps - Offline Downloadable Maps
+The Cartographers' Guild - Cartography Forum
+TextToMap - Text-Based Map Search
+Local Map - Explore a Map with Wikipedia
+Flickr Map - Flickr Map
+r/MapPorn - Reddit Map Community
+NearbyWiki - Explore Interesting Places Near You
+Urbex , ⁠TrespassersHQ / or UER / Forum - Urban Exploration / Abandoned Place Maps
+⁠Arcade Database - Arcade Game Map + Database
+Wikimapia - Online Editable Map
+Orhyginals Map - Online Editable Map
+MapChart or Qgis - Create Custom Maps
+⁠d-maps - Free Blank Maps / Outlines / Printable
+There to Where - Find Apartments Near Important Things
+⁠WikiMapped , Wiki-Map or ⁠Wikimap / - Wikipedia Articles Geolocated on Map
+Scribble Maps - Custom Location Map
+Dawarich - Self-Hosted Google Maps Timeline Alternative / 
+gpx.studio - GPX File Editor
+Mobac - Mobile Atlas Creator
+⁠Opportunity Atlas - Interactive Future Success Impact Map
+Linguistic Maps - World Linguistic Maps
+Freedom House or Civicus Monitor - Freedom Maps
+⁠CrashAtlas - Aviation Accident Database / Map
+Skimap.org - Detailed Ski Maps
+LGA World Database - LGBT Legal Rights Map / Policy Tracking
+Trans Rights Map - Trans Legal Rights Map / Policy Tracking
+Erin's Informed Consent HRT Map - Gender Identity Clinics / Maps
+BlueW - Free Water Refill Map
+Notable People or People Map - Notable People Maps
+NUKEMAP , NukeSim , Bomb Blast or MISSILEMAP - Interactive Damage Effect Maps
+Navigation / Transport ​ 
+ Google Maps , Apple Maps , Bing Maps , Vela , OsmAnd , FacilMap , OsmAPP or Mapy - Online / Offline Maps
+ CoMaps / or Organic Maps / / / - Offline Maps
+ OpenStreetMap or MapComplete / - Open Community Maps
+ StreetComplete - OpenStreetMap Surveyor App / Quests / 
+ OpenStreetMap Tools - Resources / Features / Advanced Search / Advanced Editor / AI Editor / Overpass API GUI 
+Waze - Driving / Navigation Focused Map / Editor 
+GMaps WV - Restricted Google Maps WebView Wrapper / 
+CubeTrek - GPS Track Manager
+⁠GPS Visualizer - Create Maps + Profiles from GPS Data
+Wikiroutes , ⁠Travic or CityMapper - Public Transport Maps
+AnyTrip - Australia & New Zealand Public Transport Maps
+⁠London Live - London Public Transport Map
+Mini Tokyo 3D - Tokyo Public Transport Map / 
+⁠Hong Kong Transit 3D - Hong Kong Public Transport Map
+Mini Map Macau - Macau Public Transport Map / 
+rasp.yandex - Russia Public Transport Map
+kakaomap - Map of South Korea
+ALPR Watch , ⁠FlockHopper , ⁠Flock Surveillance Map , DeFlock / / or Panopti / (Canada) - AI Automated License Plate Reader Cameras / ALPR Maps
+⁠Atlas of Surveillance - Police / Surveillance Tech Map
+⁠Sparrow Map - Police Vehicle Map / Community Camera Network
+People Over Papers or ICE Map - ICE Activity Information / Maps
+⁠Geo Share - Open Map Links in Alt Map Apps / Copy Coordinates
+Railway Maps ​ 
+OpenRailwayMap , 2 - World's Railway Infrastructure
+trains.fyi - Real-Time North America Train Tracker
+amtrak explorer - North America Railway Map
+⁠UrbanRail.Net - Railway Maps
+Vanshnookenraggen Track Maps - Detailed Subway Maps / History
+AP Transit - NYC Live Subway Map
+Swiss Railways Network - Switzerland Railway Map
+vr.fi - Finland Train Tracker Map
+⁠MTR Map - Hong Kong Railway Map
+SignalBox or Live Tube Map - UK Live Train Maps
+carto.tchoo - France Live Train Map
+RailRadar , 2 - India Live Train Map
+⁠Rail Island - Taiwan Live Train Map
+⁠MiniLondon3D - Real-time 3D map of the London Underground
+Train positions - Netherlands Train Info Map
+Chronotrains - European Train Distances
+Abandoned Rails - Abandoned US Railroad Routes
+Climate / Weather ​ 
+ Windy , Ventusky , Xweather , ⁠WXCharts , Earth Observatory , Zoom Earth , ⁠WunderMap , Weatherwise , Earth Now or Earth - General Weather / Climate Maps
+⁠CyclonicWx - Tropical Weather Tracking Tools / Plotting
+Netweather - Global Jetstream Forecast Map
+Cyclocane - Cyclone and Hurricane Tracker Map
+Supercell Wx - Visualize / Archive NEXRAD Data + Weather Alerts / 
+tornado.live - Real-Time US Severe Weather Alerts Map
+Weather Lab - AI Weather Model Map / Visualization
+Tropical Tidbits - Hurricane Forecast Models
+FloodMap - Sea Level / Flood Map
+Snow Forecast - Snow Forecast Maps
+AtticRadar - Advanced Weather Radar / NOAA Stations
+Tornado Archive - Tornado Archive Data Explorer
+Find Your Tornado Shelter - Tornado Shelter Map
+Blitzortung.org or Lightning Maps - Lightning / Thunderstorms Maps
+ClearOutside - Weather Visibility Tracker
+aqicn.org - Air Quality Map
+CPRE - England Light Pollution and Dark Skies
+Electricity Maps - Electricity CO₂ Emissions Map
+SaveEcoBot - Radioactivity / Air Quality in Ukraine
+Geography Maps ​ 
+⁠Ecoregions - World Biomes Map
+Falling Fruit - Urban Harvesting Map
+⁠Tangram Heightmapper or Oilslick - World Terrain Height / Elevation Maps
+Global Fishing Watch - Fishing Activity Map
+OCEARCH - Shark Tracker
+MarineTraffic , CruiseMapper or MyShipTracking - Live Ship Trackers
+EuroBirdPortal - European Bird Distribution Map
+Global Forest Watch - Interactive Forest & Tree Cover Map
+Sounds of the Forest - Forest Sounds Map
+Aporee - World Map of Sounds
+ExoRoad - Find Places to Live via Description
+Beacon - Property Info / Map Search
+World Population Density - Population Density Map
+Language Map - Language Locations Map
+FIRMS - Fire / Thermal Anomalies Map
+Native Land - Indigenous Territory Map
+⁠NYC Tree Map or London Tree Map - City Tree Maps
+kepler.gl - Geospatial Analysis Tool / 
+Geology Maps ​ 
+ ⁠NGMDB - Geologic Map Database
+USGS Maps - Geologic Maps / 3-D Geologic Frameworks
+Macrostrat - Geological Data Map
+Fishermap - Water Depth Maps
+River Runner / 3D Map - Raindrop Tracking Map
+Global Wetlands - Wetlands Map
+Mindat - Mineral Deposits Map
+PeakFinder - Mountain Names Map
+topographic-map , ⁠Caltopo or OpenTopoMap - Topographic Map
+KCG2 - Ionospheric Conditions Map
+VolcanoDiscovery - Volcano Activity Map
+USGS , EMSC or Seismic Explorer - Earthquake Activity Maps
+GPlates - Plate Tectonics Simulator
+Historical Maps ​ 
+ David Rumsey Map Collection - Historical Map Indexes
+ Running Reality , World History Maps , ⁠Globe of History (desktop), Chronas or OldMapsOnline - Interactive Historical Maps
+HMDB - Historical Marker Database / Map
+⁠London Remembers - London Historical Marker Database
+⁠Castle Map - World Map of Castles & Fortresses
+Harvard WorldMap - ArcGIS Map Archive
+Cronobook - Historic Street View
+EuraAtlas - Historical Atlas of Europe
+r/oldmaps or r/papertowns - Historical Maps Community
+Historical City Maps - Collection of Historical City Maps
+Library of Congress - LOC Historic Maps Archive
+⁠Maptism - Archaeological Culture Maps
+American Panorama - Interactive US History Maps
+⁠Historic Aerials - US Historical Aerial Imagery / Maps
+Mused - Text to 3D Historical Simulation Map
+NLS Maps - Historical Maps of Scotland
+Imperium - Digital Atlas of the Roman Empire
+ORBIS - Interactive Simulation of Roman Trade & Travel Logistics
+Ancient Earth - Globe of Ancient Earth
+⁠Theban Mapping Project - Theban Necropolis / Valley of the Kings Mapping Project
+1940s NYC - Explore 1940's New York
+ORBAT Mapper - Recreate Historical Battle Maps / / 
+⁠Project ’44 - World War II Historical Map / / 
+Project Athena - War in Afghanistan Historical Map / / 
+HK Battle 1941 - The Battle of Hong Kong 1941 Interactive Map
+Japanese Occupation of HK - Japanese Occupation of Hong Kong Interactive Map
+⁠Maritime Stepping Stones or ⁠Wrecksite - Historical Maritime Wreck Maps / Info
+Medieval Murder Maps - Interactive Medieval Murder / Death Maps
+⁠Map Myths - Historical Map Myths
+Infrastructure Maps ​ 
+Open Infrastructure Map - Global Infrastructure Map / 
+⁠IODA - Internet Infrastructure Outage Map
+⁠Open Grid Work - Global Electricity Infrastructure Map
+PowerOutage.us - US Power Outage Map
+CoverageMap - Cell Coverage Map
+CellMapper or OpenCelliD - Cell Tower Maps
+Spectrum Ownership Map - Cell Carrier FCC Spectrum Map
+WiGLE - Wireless Networks Map
+⁠Community Network Map - Municipal Networks Map
+Starlink Coverage - Starlink Coverage Map / Tracker
+broadbandmap.fcc.gov - FCC National Broadband Map
+Submarine Cable Map - Undersea Internet Cable Map
+Fossil Fuel Map - Fossil Fuel Map Dependency Map
+Satellite / Earth Data ​ 
+ Google Earth - Earth Viewer
+Huge Earth Maps - High Res Earth Maps
+GeoHack - Uncensored Google Satellite View / Coordinates Info / 
+⁠GeoWhisperer - Compare Satellite Images from Different Times
+OpenMapTiles - Self-Hosted Map Tools
+NASA Earthdata - Earth Data Archive
+Copernicus Browser - Copernicus Satellite Image Map / Database
+glifwc - Map with Data
+Mapillary or Mapcarta - Open Street View Data
+Instant Street View - Instantly Load Street View
+MapCrunch or Random Street View - Random Street View
+city roads - City Roads Map
+Land Lines - Explore Google Earth via Gestures
+News ​ 
+ AllYouCanRead - Worldwide News Sites Index
+️ Newspaper Sites 
+️ Bypass Article Paywalls 
+ TorrentFreak - Piracy News / 
+ Current Events Wiki or News as Facts - Breaking News
+ Good News Network or Happy Daze - Uplifting News
+Google Alerts - News Alerts by Topics
+CBM - Comic / Movie / TV News
+Anime News Network - Anime News
+Anime Corner - Anime / Manga News
+ArtDaily - Art News
+Codrops - Design News
+The Athletic - Sports News / Bypass Paywall / Mobile (search)
+EventMap - Emergency and Disaster Maps
+Interactive News Map - Geolocated News Alerts / Headlines U.S.
+MedicineNet , MedPageToday , EverydayHealth , Medscape , Healthline , Medicalxpress or WebMD - Health News
+MathURLs - Math News
+Dailynous - Philosophy News
+Medievalists - Medieval History News
+FinURLs - Finance & Business News
+⁠NCS - Television Broadcast Network News
+⁠Podnews - Podcast News
+Web3 Is Going Great - Web3 Disaster News
+CivicTracker or GovData - Government Executive Orders, Location & more
+Aviation Safety Network / , PlaneCrashInfo or AVHerald - Aviation Accidents / News
+Read Something Wonderful , Read Something Great or BoredReading - Random Articles / Blog Posts
+Media Bias Fact Check or HonestyMeter - Media Bias Checkers
+Scribe or LibMedium - Medium Frontends
+Firefox Reader , Tranquility , txtdot / Instances / or Reader Mode - Browser Read-Mode / Text-Only Tools
+Aggregators ​ 
+️ RSS Readers 
+QotNews - Hacker News / Reddit / Lobsters / Tildes
+Kagi News - Aggregator / Summaries / 
+NewsMinimalist - Aggregator / Summaries
+⁠Particle - Aggregator / Summaries
+Spike News , 2 
+Upstract - Single Page News Aggregator
+newstel - Telegram Channel News Aggregator
+AllSides or ⁠100.news - Political News Aggregators
+AlDaily - Art / Philosophy / Literature News
+Ground.news - Requires Sign-Up
+World Monitor / Tech Version / , ⁠Conflictly or ⁠World-Monitor - Real-Time News Aggregators / Monitors / Maps
+SPIDR 
+NewsNow 
+SkimFeed 
+Google News 
+sumi.news 
+AllTop 
+Tech News ​ 
+️ Dev / Cybersecurity News 
+ ⁠GamersNexus - PC Gaming News
+ Hacker News - Tech News / Tools 
+World Monitor - Real-Time Tech News Aggregator / Monitor / Map / 
+AlternativeTo Aggregator - Tech News Aggregator
+⁠DeadStack - Tech / AI News Aggregator
+TechURLs - Tech News
+Techmeme - Tech News
+The Brutalist Report - Tech News
+Techxplore - Tech News
+⁠ThisWeekInVideoGames - Gaming News
+⁠GamingOnLinux - Linux Gaming News
+TuxURLs , phoronix or ⁠LWN - Linux News
+Liliputing - Hardware / Linux Mobile News
+Geeks3D , Toms Hardware or Overclock3D - Hardware News / Reviews
+⁠IEEE Spectrum - Engineering Magazine / News
+EmergentMind , ⁠TestingCatalog , Singularity Hub or Dupple - AI News
+GamesRecap - Game Announcements / Trailers
+Internet Society - Internet Infrastructure News
+⁠FilterWatch - Censorship News / Articles
+RestorePrivacy or Privacy International - Privacy / Security News
+Hacker News Tools ​ 
+ Awesome Hacker News - HN Apps & Resources Index
+ Newsit - Webpage Comments Widget / 
+ Modern HN / 2 - Modern UI Extension
+Hacki or Harmoni / - Android Hacker News Apps
+ZCombinator , HACK , Octal , Hackers or Hacki - iOS Hacker News Apps
+The Hacker Herald , ⁠Brutalist HN , unslop.news or hckrnws - HN Frontends
+Alexandria Library - HN Search Frontend
+HNRankings - Best of / Top Posts Aggregator
+⁠Hacker Smacker - Filter / Mark HackerNews Posters
+⁠Hacker Book - Hacker News Posts + Comment Archive
+Hacker News RSS - HN RSS Feeds
+Science News ​ 
+ Phys - Physics News / Articles
+SciURLs 
+NewScientist 
+PopSci 
+ScienceDaily 
+EurekAlert 
+LiveScience 
+ScienceNews 
+IFLScience 
+⁠Nature This Week - View Nature / Biology News from any Location
+Health ​ 
+Mental Health ​ 
+ Awesome Mental Health or mentalillnessmouse - Mental Health Resources
+️ Relaxation / Ambient 
+ Medito or ⁠Plum Village - Meditation Apps
+ Breath Ball - Guided Breathing Practice App
+ /mental health/ - Mental Help Tips
+Health Assessment Tools - General Health Tools
+How We Feel / iOS , Nomie , Koduko - Wellbeing Apps / Journals
+You feel like shit. , 2 - Interactive Self-Care Guide
+deskspace - Self-Care App
+Mindfulness Coach - Mindfulness / Stress Reduction App
+Coping Skills Masterlist - Mental Health Coping Skills
+The FM Project - Guided Mindfulness Exercises
+IIB Mindfulness - Meditation Techniques / Infographic
+⁠Pause Point - Add Breathing / Activity Pause Before Site Entrances
+Conversations - Mental Health Conversation Practice
+TripSit / , Drugs.com or DrugBank - Drug Information / Side Effects
+Physical Health ​ 
+ Sleeping Guide or Insomnia Guide - Sleep Hygiene Guides / Tips
+ Simple Science Fitness - Fitness Calculators
+ BMI Chart - BMI Range Graph
+ Standard BMI Calculator , CDC Adult or CDC Teen - BMI Calculator
+openScale or trale - Weight & Body Metrics Trackers
+AMMFitness - Fitness / Nutrition Info
+The Fitness Wiki - Fitness Information Wiki
+FitoTrack , Flexify or MyFitnessPal - Fitness Apps
+NOOP - Offline WHOOP Companion App
+⁠Bevel - Wearable Watch Health Data App
+SailRabbit - BMR / TDEE Calculator
+Bodyweight Fitness Progressions 
+r/LoseIt - Weight Loss Subreddit
+MOVE! Coach - Weight Loss Program
+Weight Loss Side Effects - Weight Loss Side Effect Mitigation
+r/GainIt - Healthy Weight Gain Subreddit
+r/Flexibility - Flexibility Subreddit
+Healthdirect , epocrates , MedlinePlus , Merck Manuals , Mayo Clinic , RxList , NEJM , PubMed Central , HHS , NIH or CDC - Government Health Resources
+oshaction - Occupational Health and Safety Resources
+⁠OpenPrescribing - Track NHS Prescription Trends & Spending
+CancerFactFinder - Cancer Fact Search
+⁠INCIDecoder - Skincare Cosmetics Ingredients Databases / Search
+Kids Health - Kids Health Information
+Workout / Exercise ​ 
+ ExRx.net - Exercise Resources
+ DAREBEE - Workout Plans
+ r/BodyweightFitness Wiki - Bodyweight Fitness Routines / Android 
+ /u/KNightNox Diagram , 2 , 3 - Zoomable Exercise Diagram
+ Boostcamp , Hevy , ⁠Tracked , ⁠Hybrid Calisthenics , FitNotes , ⁠Strong App or FitHero - Workout Trackers
+Fitness Blender or ⁠Muscle & Strength - Workout Videos
+Calistree - Exercise Search / Workout Tracker
+FitnessProgramer - Workout Plans
+Workout.cool or Workout.lol - Custom Workout Plans
+MuscleWiki or The Casual Gym - Muscle / Exercise Information Tool
+Liftosaur , LiftLog or StrongLifts - Weightlifting Trackers
+BuffBook - Strength Training Booklet / 
+Liftvault - Weightlifting Programs / Spreadsheets
+Google Fit - Activity Coach
+Impakt - AI Fitness Coach / Social Platform
+OpenTracks - Sports Tracking App
+ACTIVE - Find Local Races & Events
+Runlytics - Running Analytics
+RunnerUp or Strava - Run Trackers
+MapMyWalk - Walking Tracker
+GoldenCheetah , AAT - Cycling / Biking Trackers
+AllTrails , Wikiloc or TrailRouter - Hiking / Trail Routes
+Wanderer - Self-Hosted Trail Database
+⁠OpenClimbing - Editable Climbing Map / 
+fastnfitness or PFCTE - Exercise & Activity Trackers
+wger - Self-Hosted Workout, Nutrition / Weight App / Fitness / 
+Feeel - Home Workout App
+Nutritional Health ​ 
+ r/Nutrition - Nutrition Subreddit
+ Caffeine Calculator - Caffeine Intake Calculator
+ Urine Color Chart - Levels of Dehydration
+ OpenFoodFacts - Food Database & Health Information / Scanner 
+Waistline , Energize , Cronometer or Nutritionix - Nutrition, Diet, and Calorie Tracking Apps
+NutritionFacts.org - Video Library for Latest Health-Based Research / Vegan-Focused
+The Nutrition Source - Harvard University Health Website
+Liquid Drink - Liquid Intake Tracker
+Daily Dozen - Daily Diet Recommendations / 
+Eat This Much , Mealime or MealPrepPro / Android - Meal Prep & Planning Apps / 
+Calories-In - Meal Prep & Planning / 
+Nosh - Food Management App
+Edamam - Food-Related APIs
+⁠CaffeineHealth - Caffeine Intake Calculator / 
+Examine.com - Supplement & Nutrition Analysis
+MyFoodData - Food Nutrition Info
+Nutrient Sorter - Vegan Food Nutrient Sorter
+FoodStruct - Food Encyclopedia & Comparison
+Sexual Health ​ 
+ PlannedParenthood , Abortion Resources / 2 or Safe2Choose - Abortion Resources
+ WomenOnWeb - Free Abortion Pills
+babycenter - Pregnancy and Parenting Resources
+Pregnancy Calculator - Due Date Calculator
+Scarleteen - Sex Education Resources
+Euki - Sexual / Reproductive Health App
+Tubal Sterilization - Tubal Sterilization Gynecologists
+HRT / Trans Health ​ 
+ Trans Healthcare Resources or TFS Tools 
+ Trans Papers - Academic Papers on Transgender Health & Sociology
+ Gender Dysphoria Bible - Gender Dysphoria Learning / Guidance / 
+Trans Harm Reduction , PGHRT , Valerie or DIY HRT Directory 2.0 - HRT Safety Guides / Testing 
+Erin's Informed Consent HRT Map or ⁠Trans Clinic Index (UK) - Gender Identity Clinics / Map
+FTM Resource Guide - FTM Resources / Guidance
+⁠Trans Voice Party - Trans Voice Therapy Resources / 
+Acoustic Gender or Voice Tools - Voice Therapy
+Trans Rights Map - Trans Legal Rights Map / Policy Tracking
+Detoxing / Sobriety ​ 
+ r/NoSurf - Digital Detox Community / 
+Farhan , LockMeOut , DetoxDroid or StopScroll - Control Phone Addiction
+Sobriety - Sobriety Tracker
+I Am Sober - Sobriety Tracker / Community
+Petals - Quit / Reduce Marijuana Usage
+DrugFree - Drug Abuse Prevention & Recovery Help
+Porn Quitting ​ 
+ Porn Addiction Recovery Resources 
+️ Site Blocking 
+ EasyPeasy , 2 / Audiobook or QuitPornEasily - Painlessly Quit Pornography
+⁠FreeLife - Porn Blocking Guide
+Plucky - Content Filter
+CleanBrowsing - Family DNS Filters
+cringeMDb , Age Rating JuJu , Common Sense Media or Unconsenting Media - Find SFW Movies
+Movie Parser - Detect NSFW Scenes in Movies
+Wingman or HaramBlur / 2 - Block NSFW Images
+SAA Recovery , Cosa Recovery or Smart Recovery - Find Sex Addiction Meetings
+Career ​ 
+ Common Q&As - Interview Questions Index
+ Comparably or GoodFirms - Compare Companies / Salaries
+ Reverse Interview - Questions to Ask Potential Employers
+ Kimai / or Clockify - Work Hour Trackers
+80,000 Hours , O*NET , Career Dreamer or MyNextMove - Explore Career Options
+r/careerguidance - Career Guidance Subreddit
+UseThis - Career Interviews
+Science Career General - PhD / STEM Career Study Guides
+LibreTexts Business - Business Learning / Guides
+Space Crew - Find Space Related Jobs
+US Job Market Visualizer - US Job Market Statistics + Visualization / 
+BLS - U.S. Bureau of Labor Statistics
+MedusaJS - Open Source Commerce Store
+Contact Card - Contact Card Generator
+MS Word Cover Page Templates - Cover Page Templates
+Linkedin Preview - Preview Linkedin Posts
+WhoPaysWriters - Freelance Writing Publications
+Creator Monetization Platforms - Monetization Platforms Comparisons
+Gale Presents: Udemy - Business Courses / Requires Library Card
+Pimp My Money (Torrent) or HubSpot Academy - Digital Marketing Courses
+Statista - Market Statistic Search
+Systeme or SendPulse - Marketing Tools
+Marmof - Creator / Marketing AI
+MMAGlobal - View Past Marketing Reports
+Annual Reports - Annual Company Reports
+LeanTime - Project / Delivery Manager
+Twain , WriteCream or Textcortext - AI Communication Outreach Assistants
+Cody - Company Management AI
+PHPCRM , Monday or Twenty - Company Management Tools
+⁠Invoify / , EasyInvoicePDF / , Invoicely , InvoiceNinja or Akaunting - Invoice Generators
+Google Patents - Searchable Patents Database
+Layoffs.fyi or ⁠WarnTracker - Live Layoffs Trackers
+GoodJobsFirst - Subsidy Tracker
+QR Menu Creator - Convert Menu to QR Codes
+CandidateChecker - User Backgrounds for Hiring
+Job Search / Application ​ 
+ ⁠CareerPanels - Index of Job Boards
+ 4-Day Week - Find Jobs with 4-Day Weeks
+OnSites - View / Share Interview Experiences
+50WaysToGetAJob - Interactive Job Search Guide
+⁠Welcome To The Jungle , JobBoardSearch , ⁠HiringCafe , JobsFromSpace , CyberCoders , whoishiring , Toby Tools , The Muse , Indeed or EuroJobs - Job Search
+Hiring Without Whiteboards - Find Straightforward Hiring Processes
+RolePad or JobSync - Job Search Managers
+DoorsOpen - Music Industry Jobs
+Job Shell - Scrape Job Postings
+SpeedyApply or AIHawk - Job Application Autofill Tools
+Resume / Portfolio ​ 
+ ⁠r/Resumes Wiki - Resume Resources / Guides
+ RX Resume / , FlowCV , HeyCV , EZCV or Sheets - Resume / CV Builders
+ KickResume Samples - Resume Samples
+ResumGO - Resume Templates
+⁠YAMLResume / or RenderCV / - YAML Based Resume Builders
+IntelligentCV - Resume Builder Mobile App
+ChatProfolio or PeerList - Portfolio Builders
+CoFolios - Portfolio Samples
+Remote Jobs ​ 
+ Awesome Remote Jobs or Established Remote - Remote Job Resources
+ ⁠remote-jobs - Remote Friendly Company Index / 
+ Real Work From Anywhere - Global "Work-From-Anywhere" Job Board
+Overemployed - Discuss Working 2+ Remote Jobs / / 
+r/RemoteJobs - Remote Jobs Subreddit / Check "Job Posts" Flag
+⁠Volunteers Base - Volunteer Work Exchange / Work for Stay Network
+NoCommute - Remote Job Notifications
+WeNomad or Nomad List - Remote Work Ratings
+Jobspresso - Remote Jobs
+Remote Jobs - Remote Jobs
+himalayas - Remote Jobs
+We Work Remotely - Remote Jobs
+TangerineFeed - Remote Jobs
+RemoteYeah - Remote Jobs / / 
+CareerVault - Remote Jobs
+NoDesk - Remote Jobs
+Remote OK - Remote Jobs
+JobsCollider - Remote Jobs
+Dynamite Jobs - Remote Jobs
+Working Nomads - Remote Jobs
+Remotive - Remote Jobs
+DailyRemote - Remote Jobs
+HireBasis - Remote Jobs
+Tech Jobs ​ 
+ 30-sec - Tech Interview Questions Indexes
+ Summer 2026 Internships - Tech Internships List / Notifications 
+ TheRemoteFreelancer - Remote Tech Jobs Index
+️ Learn Programming 
+️ Learn Computer Science 
+ Tech Interview Handbook or Frontend Interview Handbook - Interview Handbooks / 
+⁠2026-SWE-College-Jobs - Software Engineering Internship & New Grad Positions
+MoAiJobs - Find Jobs in AI Companies
+FOSS Jobs - FOSS Project Jobs
+⁠Hiresail - Freelance Work / Swipe Style Search / Resume Generator
+⁠Remote Frontend Jobs , Remote Backend Jobs or Remote Java jobs - Find Developer Jobs
+Authentic Jobs - Find Developer / Designer Jobs
+Dribbble - Designer Jobs
+r/DesignJobs - Designer Jobs Subreddit
+Best PM Jobs - Tech Firm Night Jobs
+JS Remotely - Find Remote JavaScript Jobs
+larajobs - Find Laravel Jobs
+Python Job Board - Find Python Jobs
+Levels.fyi - Tech Career Salaries
+Interviews.school - Interview Preparation Guides
+Interview Warmup - Interview Practice
+Cyberseek - Cybersecurity US Job Market Info
+NIST - Find NICE Cybersecurity Apprenticeship Programs
+Data.gov Resources - Data Management Tools / Training
+AWS re/Start or AWS Training - Cloud Career Training
+9Tut - CCNA Certification Training
+CompTIA / Practice , Cisco Training or UI.com - Training / Certifications
+web3.career or FindWeb3 - Find Web3 Jobs
+Startup ​ 
+ Awesome Startup , Awesome Launching Platforms , Awesome Launch or Tools for Startups - Startup Resources Indexes
+ moreThanFAANGM - Good Companies / Startups Index
+Best Pitch Deck or Pitch Deck Hunt - Successful Pitch Deck Examples
+⁠Awesome OSS Monetization - Monetization Approaches for OSS Projects
+⁠Startups RIP or Failory - Learn Why Startups Failed
+280+ Websites to Submit Your Startup or PlacesToPostYourStartup - Startup Submission Sites
+WellFound - Find Employees for Startups
+Business Card Generator or Haystack - Business Cards
+Collaboration Platforms ​ 
+ NextCloud - Collaboration Platform / File Sharing / 
+Teams for Linux - Unofficial Teams Client / 
+ 
+Atlassian - Collaboration Platform
+Twake - Collaboration Platform / 
+Mattermost - Self-Hosted Collaboration Platform / 
+LucidSpark , Creately or Miro - Idea / Collaboration Whiteboards
+ScreenRec - Screen Recording for Collaboration
+Zulip - Team Chat / 
+Freedcamp - Project / Task Organization
+Asana - Project / Task Organization
+Linear - Project / Task Organization
+Factsplat - Project Manager
+Mural - Project Manager
+Nino - Task Manager
+Trello - Task Manager
+WeKan , Kanboard or Planka - Kanban Boards / Task Managers
+Airtable - Spreadsheet-Database Hybrid for Team Workflows
+Finance / Savings ​ 
+ r/PersonalFinance Wiki / Countries or UK Personal Finance - Financial Advice / Resources
+ TradingView , GoCharting , ticker or finviz - Market Charting & Analysis Platforms
+ StockTicker or Candle - Mobile Market Charting & Analysis Platforms
+ Ghostfolio / Import , Paisa / , HomeBank , Bagels , GnuCash , Firefly III , Money Manager EX or Actual / - Finance / Expense Managers
+⁠Infolib - Customizable Dashboard w/ Financial News, Crypto Tracking, & Trading Tools
+Weekly Market Recap - Weekly Stock Market Recaps
+⁠Free File , FreeTaxUSA (state is paid) or US Taxes - File Taxes for Free / Get Pin / Form Calc 
+money-manager , Buckwheat , My Expenses or Cashew / iOS - Mobile Finance / Expense Managers
+GreenStash - Savings Tracking App
+Denaro - Linux Finance Managers
+Ledger or hledger - Accounting Systems
+PortfolioVisualizer - Visualize Portfolio
+r/povertyfinance wiki - Financial Tips / Resources
+Simul8or - 100K Trading Simulator
+r/BeerMoney - Online Money Making Community / Wiki 
+Compound Interest Calculator - Determine Compound Interest Money Growth
+⁠Bogleheads - Investing Advice Inspired by John Bogle
+GamestonkTerminal , OpenBB Terminal or KoyFin - Investment Research Tools
+Portfolio Performance - Portfolio Investment Tracker / 
+Financials Extension - Stock Market Data for LibreOffice Calc
+YieldFinder - Rates for Savings Accounts, Market Funds, and Treasuries
+Quiver Quantitative - Stock Trading Research
+TradingView Webhook Bot / Index - Send TradingView Alerts to Various Apps
+tickrs - Ticker Data in Terminal
+ETFDB - ETF Databases
+DeFi Derivative Landscape - DeFi Derivative Guide
+Kitco - Gold Rate Calculators
+MortgageCalculator - Mortgage Calculator
+Crypto ​ 
+TIP
+It's recommended to store cryptocurrency offline in cold wallets, rather than exchanges like Binance or others. This increases security and gives you full control of your assets.
+
+ ChainList - EVM RPC List / 
+ WalletExplorer - Bitcoin Block Explorer / Wallet Index
+ KYCNOT.ME / i2p / / or NotKYC - Non-KYC Exchanges / Services
+ WalletScrutiny - Verify Crypto Wallets are Open-Source / Secure / / / 
+ Rotki - Portfolio Manager / / 
+BitcoinTalk - Bitcoin Forum
+BTCPay - FOSS Bitcoin Payment Processor
+BitcoinWhosWho - Bitcoin Address Scanner
+BlockChain , Velo , CoinWatch , Hivexplorer , BlockChair , Mempool , L2BEAT , HiveblockExplorer or LiveCoinWatch - Live Crypto Prices / Blockchain Explorers
+Privacy Watch - Privacy Crypto Price Tracker
+CoinGlass - Crypto Derivatives Data
+DefiLlama - TVL Aggregator
+Cryptopedia or Crypto Canon - Crypto Learning Resources
+IQ.Wiki - Crypto Encyclopedia
+Traders Video Library - Crypto Trading Courses
+HiveRSS - Create Hive RSS Feeds
+Shopping ​ 
+TIP
+Make sure to install a adblocker when using these sites.
+
+ ⁠Monerica - Monero-Friendly Site Index
+ Consumer Rights Wiki - Documents Practices That Impact Consumer Rights / Extension / 
+ Dark Patterns Tip Line or Dark Patterns - Deceptive Services to Avoid
+ Fragrantica , Basenotes or Parfumo - Perfume / Fragrance Databases
+⁠Worse on Purpose - Brand Product Quality Tracking / Investigations
+Dark Patterns Detective - Learn to Avoid Deceptive Services
+Boycott Buddy - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
+⁠Slave Free Chocolate - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
+ProductHunt - Product / Service Reviews
+RTINGS - Product Comparisons / Reviews
+Pepper or SlickDeals - Shopping Deal Communities
+⁠BangYourBuck - Unit Shopping Calculator / Comparisons for Amazon
+Hagglezon - Price Comparisons for Amazon Stores Across Europe
+Knockoff - Remove Trademark-Squat Brands from Amazon Results / 
+⁠RedRecs or RedditRecs - Reddit Product Rankings, Summaries, and Comments
+ThisIsWhyImBroke - Find Interesting Things to Buy
+⁠BuyItForLife - Durable Product Shopping Guide / 
+⁠NoBids , ⁠BuyMap or WatchCount - eBay Advanced Search
+Typo Hound or FatFingers - eBay Typo Search
+PicClick - eBay Quick Search
+⁠a view from my seat / UK - See Event Views Before Buying Tickets
+Blu Ray Deals - Blu Ray Price Comparisons / Deals
+JustWatch Deals - Digital Movie + Show Deals
+⁠Suppose - Compare TV Providers (US Only)
+⁠IPTV Surf - IPTV Service Guide / Toolkit
+⁠StreamCheck - IPTV Provider Channel Checker
+Desenmascara - Spot Counterfeit Sites
+r/MaleFashionAdvice Spreadsheet - Male Clothing Brand / Price Spreadsheet
+r/FashionReps - Replica Clothing Community / 
+⁠Carryology - Baggage, Luggage and Everyday Carry Reviews
+Best Damn EDC - Everyday Carry Reviews / Blog 
+⁠PackHacker - Everyday Carry and Travel Gear Reviews / YouTube 
+⁠OutdoorGearLab - Outdoor Gear Comparisons / Reviews
+⁠Everyday Commentary - Flashlight and Knife Reviews / YouTube 
+⁠Run Repeat - Shoe Shopping Guide / Reviews
+⁠Lowtein - Meat / Dairy Grocery Deal Comparisons
+⁠The Gentleman Stationer - Writing Instrument and Stationery Reviews
+Unsharpen - Mechanical Pencil Reviews / Blog 
+JetPens Blog - Mechanical Pen / Pencil Guides / Shopping / YouTube 
+⁠Knockology or r/mechanicalpencils / Wiki / - Mechanical Pencil Communities
+⁠Pen Addict - Mechanical Pencil and Stationery Reviews
+⁠UK Fountain Pens - Fountain Pen Reviews
+WornOnTV or ShopYourTV - Find Outfits from TV Shows
+GoodOnYou - Clothing Brand Sustainability Ratings
+BabyGearLab - Baby Product Comparisons / Reviews
+Cars.com - Vehicle Reviews / Comparisons
+⁠CarSized - Vehicle Size Comparisons
+⁠INCIDecoder - Skincare Cosmetics Ingredients Databases / Search
+Models.dev - AI Model Database / Pricing / 
+Build List or USA Parts Made Fast / - On-Demand Online Manufacturers
+Electronics / Tech ​ 
+ NanoReview - Tech / Hardware Comparisons
+ TechPowerup - Tech / Hardware Comparisons
+RTINGS - Tech / Hardware Comparisons
+⁠LTT Labs - In-Depth Hardware / Tech Reviews
+TechGearLab - Tech / Hardware Comparisons
+ProductChart - Tech / Hardware Comparisons
+Octoparts - Tech / Hardware Comparisons
+Technical City - Tech / Hardware Comparisons
+Techspecs - Tech / Hardware Comparisons
+ComparisonTabl.es - Compare E-Readers, Phones, Speakers, etc.
+VRcompare - VR & AR Headset Comparisons
+⁠The Great MicroSD Card Survey - MicroSD Tests / Comparisons
+DrawTab - Drawing Tablet Info / Wiki
+⁠OscarLiang.com - FPV Drone Equipment Reviews
+3D Printer Recs - Hobbyist 3D Printer Recommendations
+⁠SpoolScout - Search / Compare 3D Printing Filament Prices
+⁠RackRat - eBay Rackmount Server Prices / Comparisons
+Mobile / Phones ​ 
+ GSMArena / Guide , PhoneDB , GSMChoice , ⁠Antutu or Kimovil - Compare Phones / Prices
+Dumbphone Finder - Compare Dumbphones (Non-Smartphones) / Prices / Quiz 
+Prepaid Compare - Compare Prepaid Phones / Prices
+PhoneSized or HotSpot3D - Phone Size Comparisons
+Don’t kill my app! - Manufacturer Battery Life vs. App Functionality
+Cameras ​ 
+Camera Decision , ⁠DPReview or Digicamfinder - Compare Cameras
+⁠Camera Size - Camera Size Comparison Tool
+⁠PentaxForums Reviews - Camera Gear Reviews
+PC Hardware / Building ​ 
+ PCPartPicker , BuildCores / / or CGDirector - PC Building Sites
+ r/PCMasterrace Builds , r/BuildaPC Wiki or PC Tiers - PC Building Guides / Video 
+ Open Benchmarking - Hardware Benchmarks
+ CPUBenchmark , Toms GPU Hierarchy or NoteBenchcheck - GPU / CPU Benchmarks
+SuggestALaptop Guide - Laptop Suggestions / / 
+r/buildapc - PC Building Community / 
+r/BuildAPCForMe - PC Building Community
+⁠Mini PC Guide / Comparisons 
+⁠MoboMaps - Motherboard Visualizations / Info
+⁠Cybenetics PSU Benchmarks or PSU Tier List / Document / - PSU Buying Guides / Benchmarks
+CPU Scout - eBay CPU Price Tracker
+⁠WhereIsMyRam - DDR5 RAM Price Tracker
+NewMaxx's SSD Site / Doc , SSD Tester or JohnnyLucky - SSD Buying Comparisons
+Disk Prices , ⁠PricePerGig , List of Disks or ⁠TerabyteDeals - Disk Price Trackers
+EveryMac - Mac Info Database
+TV / Monitors ​ 
+DisplaySpecifications , PC Monitors , TFTCentral , Monitor Hunter , Monitor Spreadsheet or DisplayNinja - Monitor Buying Guides
+sven dpi - Screen / Monitor Size Comparisons
+4K TV Guide - 4K TV Buying Guide
+⁠r/HTBuyingGuides - Home Theater Buying Guides
+Dolby Vision Stuff - Dolby Vision (HDR) Playback Guide
+Audio Equipment ​ 
+AudioScienceReview or ⁠HiFiGuides Forum - Audio Equipment Discussion
+Scarbir , Squiglink , DIY-Audio-Heaven , Crinacle Graphs or Crinacle - Headset / Headphone / Earphone Comparisons
+Consoomer_Guide / 2 - Earphone Shopping Guide
+SpeakerRanking - Speaker Comparisons / Reviews
+Erin's Audio Corner or Equipboard - Audio Equipment Comparisons
+⁠Audio Test Kitchen - Compare Microphone Sounds
+Keyboards / Mice ​ 
+ r/MechanicalKeyboards Wiki , KeebFinder or Alexotos / - Mechanical Keyboard Recommendations
+ ⁠MouseCTRL , Viscose's Friction Sheet or Mousepad Mastersheet - Mousepad Comparison Chart
+EloShapes , Sensor.fyi , RocketJumpNinja or r/MouseReview / - Mouse Buying Guides
+Shwamper's Skate Tierlist - Mouse Dot Skate Recommendations / 
+Gaming Equipment ​ 
+⁠RetroSizer - Compare Sizes of Handhelds
+Gamepadla - Gamepad / Controller Latency Tests
+RetroCatalog or Handheld Emulation Compatibility - Handheld Game Emulation Compatibility / Info
+⁠EmuReady - Mobile Game Emulation Compatibility / Info / / 
+⁠Archcord - DS + GBA Flashcart Comparisons / YSMenu Compatibility
+Consolevariations - Game Console Rarity / Shopping
+Games ​ 
+️ Steam Store Tools 
+ GG.deals - Multi-Store / Multi-Platform / 
+ IsThereAnyDeal - Multi-Store / Extension / 
+ SteamDB - Steam Sales / Extension / 
+⁠Dark Pattern Games - Addictive Mobile Game Mechanic Avoidance Database
+⁠EGData - Epic Store Sales / 
+r/SteamDeals - Steam Sales
+CheapShark - Multi-Store / 
+PSPrices - Multi-Store / Multi-Platform / 
+DekuDeals - Console Game Price Tracker
+AppAgg - Multi-Store / Multi-Platform / / 
+CheapCharts - Switch, Xbox and Playstation Price Tracker
+r/GameDeals - Game Deal Subreddit
+PriceCharting - Game, Comic & Trading Card Price Tracker
+⁠VRDB or QuestStoreDB - VR Game / App Price Tracker
+Apps ​ 
+AppRaven - Apple Platform Apps / Games / / / 
+App Sales - Android Apps
+r/GooglePlayDeals - Android Apps
+r/AppHookup - Multi-Store / Multi Platform
+⁠r/MacAppStoreDeals - Apple Apps
+Books / Audiobooks ​ 
+BookFinder - Online Book Price Comparisons
+⁠r/ebookdeals - Book Deal Tracking Subreddit
+⁠Kobo Price Tracker - Book Price Tracker
+CheapCharts Books - Apple Books Deal Tracking
+CheapCharts Audiobooks - Apple Books Audiobook Deal Tracking
+eReaderIQ - Kindle Book Price Comparisons
+Omnibus Tracker - Comic Sales Tracking
+Toys / Collectibles ​ 
+MyFigureCollection - Japanese Pop-Culture Merch Database
+Misprint - Buy / Sell Pokémon Cards
+⁠ThePriceDex - Pokémon Card Price Tracking
+Dinosaur Toy Blog or Animal Toy Blog - Animal Toy Reviews
+Ty Collector or Beaniepedia - Ty Collectibles Databases
+BreyerHorseRef - Breyer Horse Database
+The Toy Pool - Multi-Brand Toy & Doll Database
+Brickset , ⁠BrickEconomy or Bricklink - LEGO Set Database / Reviews / Marketplaces
+⁠MinifigScan - LEGO Minifigure Blind Box Identification Tool
+⁠Brick Hound - LEGO Deal Alerts
+FigureRealm - Track Action Figure Collection
+Price Tracking ​ 
+ Dupe or wtf.deals - Furniture Duplicate Deals Search
+ Keepa , PriceHistory or CamelCamelCamel - Amazon Price Trackers / App 
+⁠TrackaLacker - Price Tracker
+Vetted or FlipsHope - Price Tracking Extensions
+r/WhatsThisWorth - Online Appraisals
+Music Software Deals - Track Music Software Prices
+Valuta EX or Currency World - Currency Converters
+Useful Sites ​ 
+️ Skills / Hobbies / DIY 
+️ Manual Sites - Repair Articles / Manuals
+️ Mind Mapping 
+️ Presentation / Slideshare Tools 
+️ Data Visualization 
+️ Polling Sites 
+ endoflife.date - Tool / Tech End of Life Index
+Don't Call The Police - Alternative Crisis Response / Police Alternatives
+RANDOM , The One Generator or getrandomgenerator - Random Generators
+Versus , SocialCompare or Diffen - Compare Anything
+Compare Sizes or ⁠SizeR.jp - Compare Sizes of Anything
+The Measure Of Things - Comparative / Relative Quantity Measurements
+Paper Sizes - Common Paper Sizes
+wttr - Simple / Minimal Weather / 
+⁠RetroCast Now , WeatherStar 4000+ / 2 , WeatherStar 80's or WeatherScan - Retro Style Weather / 
+Wheel Decide , SpinWheelPlus , Ultimate Wheel , PickerWheel , SpinWheelify , SpinTheWheel , HeySpinner , SpinTheWheel , TheSpinnerWheel or Wheel of Names - Wheel Randomizers / Spinners
+⁠Date Night Questions - Friend / Date Q&A Cards
+SurveyHeart - Survey Creators
+Label Studio or Cvat - Data Organizing Tools
+colnect - Manage Personal Collections
+Acoustic Gender - Measure Voice Pitch
+Timeline Cascade / , Timeline JS or Time.Graphics - Create Timelines
+Timeliner - Create Personal Digital Timeline
+Familypedia , Gramps , FamilySearch or WikiTree - Find Family Trees
+⁠Family Chart , Family Tree Builder or FamilyEcho - Create Custom Family Tree
+ThistoThat - How to Glue Anything to Anything
+r/CurlyHair Guide - Curly Hair Haircare Guide
+WhyDoCatsAndDogs...? - Pet Q&A Site
+Stolen Drone - Stolen Drone Info
+CacheSleuth - Geocaching Tools
+17Track , Informed Delivery or Parcelsapp - Mail Package Tracking
+TemplateMaker - Package / Box Templates
+⁠FULU Bounties - Console DRM Removal Bounties
+Hots&Cots - Military Reviews of Barracks / DFAC / 
+Multi Tool Sites ​ 
+ Mr Free Tools - Find Free Tools
+ TinyWow - Text / Image / PDF / File
+ ⁠HeyTools - Text / PDF / Image / Code
+ PineTools - Text / Multimedia / Colors / Code
+⁠Ou0.cc - Text / Social Media / Code / Multimedia
+GoOnlineTools - Text / Encode-Decode / Code / Random / Image
+⁠99Tools - Text / Encode-Decode / Code / Random / Image
+⁠Edge Tools - Image / Text / PDF / Code
+Framasoft - Text / Collaboration
+10015.io - Text / Image / Code / Colors
+⁠ClipZeal - Video / Audio / Image / GIF
+⁠VidhyaGen - Image / PDF / Text
+ToolBox - Image / Text / Code / PDF
+Private.coffee - Text / Code
+RandomTools - Social Media / Text / Image / Code
+delphitools - Social Media / Text / Image
+MajorGeeks Tools - Social Media / Text / Image / Code
+OmniTools - Social Media / Text / Image / Code
+⁠ToolKnit - Image / Video / PDF / Audio / File
+IPVoid - Text / IP
+AppsCyborg - File Conversion / Media
+Online Tools - File-Specific Tools
+a.tools - Text / Image / Code / Cryptography
+RakkoTools - Text / Code / Image
+123Apps - Multimedia / File Conversion / PDF
+Webacus - Data / Text / Design / Cryptography / Unit Conversion
+Media.io - Multimedia
+BfoTool - Text / Image / Code / File Conversion
+Ian Coleman - Cryptography and Encoding Tools
+URL Decode - Dev Tools / Web Tools / File Conversion
+Productivity / Time Tracking ​ 
+ ProductivePrivacy - Privacy-Focused Productivity Apps
+ Time and Date - Multiple Time Tracking Tools
+️ To-Do Lists 
+️ Android Productivity / App Blocking 
+ Super Productivity - Time Tracker / Productivity App / To-Do List / 
+ Habitica - Achievement Style Productivity App / 
+ LeechBlock , Plucky , ⁠one sec , Block Site , uBlacklist / or Forest / Chrome - Site Blocking Extensions
+Zoneless , WorldTimeBuddy or EveryTimeZone - Time Zone Visualizers / Comparisons
+⁠FocusTube , UnDistracted or Focus-ToDo - Distraction / Doomscroll Blocking Extensions
+r/GetMotivated - Motivational Community
+Untools - Better Thinking Tools
+Freeter - Work Organizer / 
+VisualizeHabit - Habit Tracking
+Cold Turkey - Site Blocker / Productivity App
+⁠WHPH - Productivity Tracker / 
+⁠ScreenZen - Site / App Blocker
+SelfControlApp - Mac Site Blocker
+ActivityWatch - Device / App Time Tracker / Extensions 
+ProcrastiTracker - Device / App Time Tracker
+Focumon - Pokémon Style Productivity App
+Timer - Time Tracker
+wnr - Time Tracker / Break Reminders
+Pomatez - Time Tracker / Break Reminders
+BreakTimer - Break Reminders
+Stretchly - Break Reminders
+skāl.es - Work Life Balance Tracking
+BreakMessage - Online Break Reminders
+Time Tracker - Browser Time Tracking Extension / 
+Comicsflow - Comic / Manga Project Manager
+Calendars / Events ​ 
+️ To-Do Apps 
+ Cal.com - Business / Work Schedule Calendar / 
+ LettuceMeet , Star Fit , Samay , Pick Time , Event Rallly / , Groop , Cally , Mobilizon or Gancio - Event Planning / Schedule Voting
+Luma , ⁠Heylo , ⁠Eventbrite or Meetup - Search or Post Local Events
+GanttProject - Project Scheduling App
+⁠zcal - Scheduling / Meeting Tool
+Proton Calendar - Calendar / 
+Tuta Calendar - Calendar
+Tweek - Calendar
+Gantt - Calendar
+time.fyi - Calendar / Time Tools
+Office Holidays - World Event Calendars
+Countdowns - Create Custom Countdowns
+StageTimer - Event Timer
+Table Plan - Seating Chart Maker ⁠
+WhoBrings - Party Item Management Tool
+Spliit or KittySplit - Group Expense Splitting Calculator
+Fun Sites ​ 
+Chat / Forums ​ 
+ r/ListOfSubreddits - List of Subreddits
+ Piracy Subs - Piracy Subreddits
+ The Hive Index - Online Communities Index
+️ Multireddit Index 
+️ AI Chatbots 
+ Knockout / , comfy box , SheepishPatio or Macintosh Cafe - General Forums
+ SufficientVelocity , Myth Weavers , ⁠AltHistory , RolePlayer or SpaceBattles - Fanfiction / Roleplaying Communities
+Frantic Fanfic - Fanfiction Chat Game
+bugs or Posting.Cool - Random Topic Forums
+⁠Perfectly Imperfect or ⁠Bliish - Oldschool Internet Style Social Media Sites
+⁠CozyTalk - Minimalist Retro-Style Chat / Forum
+Earth Reviews - Help Improve the Simulation
+Virtual World List - Virtual World List
+⁠late.sh - Command-Line Style Clubhouse / 
+Monkey - Random Chat Rooms
+Wireclub - Topic Chat Rooms
+MyCast - Dream Casting Discussions
+Alchemy Forums - Alchemy Forum
+AnimeSuki , AnimeUKNews or Fanverse - Anime Discussion
+Fora or Discourse - Specialty Forums
+Resetera , RetroGameTalk / or RacketBoy - Gaming Forums
+TheRPF - Movie Costume / Prop Forum
+Airsoft International - Airsoft Guides / Community
+Photonlexicon - Lasers Forum
+Status.Cafe - Share Current Status
+TwoCansAndAString or TellOnMe - Anonymous Q&A
+A Collection of Unsaid Things - Anonymous Unsent Message Archive
+PostSecret - Share Secrets via Postcard
+Earth 2050 - Future Predictions
+MessageToTheFuture or FutureMe - Send Messages to Future Self
+PenPal World or GlobalPenFriends - Pen Pal Community
+WriteAPrisoner - Pen Pals for Inmates
+Image / Video ​ 
+️ YouTube Search / Archives 
+️ Digital Art Collections 
+️ Image Creation 
+️ ASCII Art 
+️ Art / Illustrations 
+️ GIF Tools 
+️ Meme Tools 
+️ 4chan Archives 
+ SakugaBooru - Anime Animation Booru / Enhancements 
+ Floor796 - Ever-Expanding Animated Scene
+loc.alize - Explore Earth via Images
+Newgrounds Auditorium - Newground Flash Animation Archive
+⁠SWF Rodeo or TheBest404 - Random SWFs
+MSPFA - MS Paint Fan Adventures
+GigaMacro - Panoramic Photography
+stringers.live - Live Freelance Journalist Streams
+Retro TV Simulator - Simulate Oldschool TV Channels
+TheOfficeStareMachine - The Office Video Emotion Search
+BumpWorthy - Adult Swim Bumps
+YouTune - Random Low View Songs
+⁠Flipnote Studio Scratch - Web-based Flipnote Studio
+Sudomemo , Flipnote Archive or Kaeru Gallery - DS Flipnote Studio Galleries
+⁠Amiga Graphics Archive - Commodore Amiga Graphics Archive
+Toonami Remastered - Remastered Toonami Content
+ThisXDoesNotExist - Realistic-Looking Fake Versions of Things
+ThisPersonNotExist , ThisPersonDoesNotExist or this-person-does-not-exist - People That Don't Exist
+The Slideshow - Google Image Slideshow
+⁠The Gallery of Babel or babel image archives - Image Version of Library of Babel
+Different Strokes - Online User-Made Art Gallery
+Creative Uncut - Video Game Art
+IndieGameBooru - Indie Game Image Booru
+ASCII Theatre - ASCII Based Movies
+Random Screenshot or Random Prnt.sc - Random Screenshots
+Random Comic Generator 3.0 - Explosm Random Comic Generator
+Pulp-O-Mizer - Vintage Magazine Cover Generator
+Chris Shier - Canvas Animations / GIFs
+r/Place Atlas - r/Place Info
+LameBook - Funny Facebook Statuses
+Kittenwar! - Rate Kittens
+Cataas - Random Cat Images
+procatinator - Cat GIFs & Music
+Open Puppies - Random Dog GIFs
+EveryoneDraw , pixels.land or World of Pixels - Infinite Online Pixel Art
+⁠3place - Infinite Online 3D Pixel Art Globe
+Crayon Town - Infinite Online Drawing Canvas
+Triviart - Infinite Painting Canvas with Trivia
+bomomo - Multi-Brush Painting
+Monsterland - Collaborative Monster Drawing
+JS Kid Pix - Browser JS KidPix
+Paint with Music - Paint with Sound
+JacksonPollock - Blob-Style Painting
+No Paint - Press "Paint" if you like what you see, "No" if you don't
+paint.wtf - Have an AI Judge Your Art
+⁠MagnifiedSand - Microscopic Sand Magnification Database
+Magic Sketchpad - Magical Sketchpad
+Webchemy - Drawing / Sketching
+World Draw - Draw World Together
+Eschersket - Symmetry Drawing Tool
+MakeCoatOfArms - Coat of Arms Generator
+Where Is The Google Car - Google Car Images / Locations
+Web Neko - Nekos on the Web
+Uji or Turtletoy - Minimalist Art Generators
+Random Art - Random Art Generator
+Paper Quilling Art - Paper Quilling Art Generator
+Periodicity - Harmonic Motion Patterns
+Synaptic Spiral or Mandelbrot Explorer / WebGPU - Fractal Visualizers / Creators
+Silk - Create Geometric Silk Art
+MandalaGaba / Pro Version , Mandala App or DigitalDoily - Zen Geometry Tools
+Inspirograph or SpirographN - Spirograph Tool
+myMrLx - Spiral Art Generators
+Remoji - Emoji Painting
+EmojiMix or Emoji Kitchen - Combine Emojis
+EmoteStud , Emoji Factory or Ccclaymoji - Emoji Creators
+pokemon-colorscripts - Terminal Pokémon Sprites
+Pokémon Fusion - Fuse Pokémon
+Poke Palettes - Pokémon Color Palettes
+Star Wars Intro Creator - Create Star Wars Intros
+Mirage Gallery - AI Art Gallery
+Gondola List - Gondola Meme Archive
+Matchbox Dan - Matchbox Car Picture Archive
+Zoomquilt / 2 , Infinite Zoom or Arkadia - Infinite Zooming Paintings
+Blue Ball Machine 2 - Full Page Chain Reaction Image
+YourNameInLandsat - Spell Anything via Satellite Images
+Useless Certifications - Useless Certifications
+Anime Girls Holding Programming Books 
+webgbcam - Game Boy Camera in Browser
+Terminal Video Player - Cursed Terminal Video Player
+Interactive ​ 
+ David.li - Physics Games
+️ Browser Games 
+ The Life Engine - Artificial Life Simulation / Video / 
+ Sandboxels , Powder Game 2 , Powder Toy , sandspiel.club - Falling Sand Physics Sandbox
+ Genetic Cars 2 or geneticars - Random 2D Car Generator
+ Human Benchmark - Brain Games & Cognitive Tests
+⁠your ai slop bores me - Interactive Human AI Roleplaying / 
+DJ3D - Watch YouTube in Virtual World
+⁠Page Rage - Destroy Any Web Page
+The ⁠Museum of All Things / or ⁠The Endless Museum - 3D Virtual Wikipedia Museums
+VentScape or PostSecretVoicemail - Speak into a Void
+AfterTheBeep - Public Voicemail
+1000 Seconds - Test of Patience
+Notpron - Worlds Hardest Internet Riddle
+Frequency2156 - Listen to / Record Survival Messages
+⁠Flipbook - Interactive Topic Expansion AI
+Oracle - Try to Trick an AI
+Moral Machine - Decision-Making AIs
+Cookie Consent Speed.Run - Cookie Disabling Game
+Are You You? - Try to Fool Face Recognition Software
+Word Blanks or Plot Generator - Online Mad Libs
+MagicKeyboard - Try "feross", "hexbin", "rain", or "semi"
+Just Type Stuff - Type Things into Existence
+⁠HammyHome - Interactive Virtual Pet Hamsters
+Nicky Case - Interactive Social Simulations / Puzzles
+Cafe and Diner - Browser Mystery Game
+Pokémon Fossil Museum - Explore Pokémon Fossil Museum
+New Campaign Trail - Presidential Campaign Game / 
+2020 Game - Play Through 2020
+Terminal 00 , corru.observer , lomando or angelangelangel - Cursed Sites / Horror Games
+Windows93 - Windows 93 Emulator
+larsberg , substack or mrdoob - Trippy 3D Experiments
+Hypertranslate - Google Translate Telephone Game
+Google Doodles , 2 - Interactive Google Doodles
+elgooG - Google Easter Eggs
+Quick, Draw - Doodle Game
+Doodle Dash - Let AI Guess Doodles
+Genetic Walkers - Genetic Algorithm Walkers
+A Better World - Interactive History Changing Game
+OpenGeofiction - User-Made Fictional Map
+⁠The Cursed Library - Interactive 3D Short Stories
+MyGrandmothersLingo - Interactive Story
+⁠The HTML Review - Interactive Stories / Poetry Written in Code
+⁠Git City - 3D GitHub City / 
+⁠Web Rewind - Interactive Web History Journey
+What Football Will Look Like - Interactive Future Football Story
+DrivingSimulator - 3D Driving Simulator
+Traffic Simulation - Traffic Flow Simulation
+⁠Stowaway - Live 3D Flight Window Seat Simulator
+OpenScope - Air Traffic Control Simulator
+cnnix-steership - Steer through the Suez Canal
+Jellify - Turn Websites to Jelly / 
+Ballooning - Procedurally Generated Balloon Simulator
+Tamajoji - Browser Tamagotchi
+Our World of Text , TextWall or OurWorldOfText - Infinite Community Text Grid
+This Is Sand - Make Sand Art
+Orb.Farm - Virtual Aquatic Ecosystem
+3DTuning - Build 3D Cars
+Generativeplanets or Planet - Planet Generators
+Townscaper - Town Building Sandbox
+Gravity Points , Hermann or dmilin1 - Gravity Simulators
+Google Gravity - Falling Google
+Origami Simulator - Origami Simulation
+Super Snowflake Maker or Fold & Cut - Make Digital Paper Snowflakes
+Iceberger - Draw an Iceberg, See how it Floats
+Pointer Pointer or PointerPointerClone - Have Your Pointer Pointed At
+BubblesPop , 2 - Pop Bubble Wrap
+Checkbox Life or Checkbox Olympics - Checkbox Games
+Fidget Page - Play with Fidget Spinner
+Keep calm and poke me. - Poke & Pull
+Elastic Man - Elastic Morty
+Screentoys - Photo Morphing Toy
+Smash The Walls - Smash Walls
+Odyssey - Interactive 3D AI Generated Video
+Koalas to the Max - Make Smaller & Smaller Dots
+Popcat - Worldwide Popcat Clicking Competition
+Spherical Trochoids - Experiment with Spherical Trochoids
+⁠DrawAFish - Global Fish Drawing Tank
+gradient.horse - Global Horse Drawing
+DrawAurora - Draw Auroras
+Neonflames - Draw Nebulas
+Leapy Grid - Play with Rainbow Grid
+⁠Beat Battle - Browser Beat Battle Game / 
+Pianos.pub - Find Public Pianos
+danielx or AMS - Mario Paint Composer Ports / Archive 
+Typatone - Play Music by Typing
+Blossom - Create Sounds via Clicks
+Drawing Garden - Create Sounds via Mouse Movement
+Fractal Sound Explorer - Create Sounds via Fractals
+Corruption Loops - Generative Unique Ambient Music
+Abundant Music - Procedural Music Editor
+typedrummer - Drum by Typing
+Soundscape - Builder / Visualizer
+MikuTap - Click to Make Sounds / Graphics
+Patatap - Type to Create Melodies / Moving Shapes
+Touch Pianist - Magical Piano App
+A.I. DUET - AI Piano Duet
+Pianoverse or MultiplayerPiano - Multiplayer Piano
+DJ Phonetic - Historical Speech Beatboxing
+Viola the Bird - Browser Cello
+bongo.cat - Become Bongo Cat
+ambient.garden - 3D Audio Landscape
+audio visual generator - Visual Audio Generator
+Short Trip - Relaxing Cat Game
+Draw a Stickman - Stickman Adventure / 
+Wonder of Wonder Art - Create a Dancing Character
+Emotiguy - Edit Emotiguy
+Cursor Car - Play with Car Cursor
+Interesting ​ 
+️ Learning Sites & Virtual Tours 
+ InfiniteConversation - Never-Ending AI Conversations
+ Ranker , Rank Engine , Topsters , Listography , TheTopsTens or ListVerse - Create / Explore Ranked Lists
+ TierMaker , GOATY or OpenTierBoy / - Create / Explore Tier Lists
+Wiki List of Lists of Lists - Index of Wiki Lists
+The Pudding - Explains Ideas w/ Visual Essays
+Iceberg Charts or ⁠Iceberg Threads - Explore Obscure Topics
+DamnInteresting - Interesting Stories
+⁠MythBusters Results - Tested MythBusters Myth Repository
+Unusual Articles - Unusual Wiki Articles
+HeyFromTheFuture - What People Wish They Knew at Your Age
+spurious correlations - Random Correlations
+FirstVersions - Find First Versions of Anything
+ConWorld - Constructed Worlds Wiki
+Think Labyrinth - Encyclopedia of Maze Algorithms and Resources
+Aesthetics Wiki / or List of Aesthetics - Aesthetics Wikis / Lists
+⁠Internet Checkpoint - Archive of taia777 "Internet OST Checkpoints" / Life Stories / / 
+⁠moltbook - A Social Network for AI Agents
+Chirper - AI Generated X.com
+The Dictionary of Obscure Sorrows - Made Up Words for Sorrows
+⁠Museum of Failure - Failed Products / Services History
+⁠Detective Board - Make / Explore Community Detective Boards
+Game a-b-street - Traffic Simulation
+John Conway’s Game of Life - Cellular Automaton Game / Patterns / Video , 2 
+Judge My Music - Have an AI Judge Your Taste in Music
+Michaelbach or Optical Toys - Optical Illusions
+Strobe Illusion - Hallucination Illusion
+PoliticalTests - Political Alignment Tests
+Emoji to Scale - Emoji Size Scale
+The GIF Pronunciation Page - How to Pronounce "GIF"
+Where's George? or TrackDollar - Dollar Tracking
+WordCount - Most Common Linux Kernel Source Code Words
+Media / Lore ​ 
+ The Lost Media Wiki / Forum / / 
+The Cutting Room Floor - Unused Video Game Content Research
+⁠Confic Wiki - Containment Fiction Wiki
+⁠Tolkien Gateway - J.R.R. Tolkien Content Encyclopedia / Wiki
+Middle-Earth Map - Tolkien's Middle-Earth Map
+QuarterMaester - Game of Thrones Map
+⁠GomiTier - Create Custom Anime Tier Lists w/ AniList or Mal Account
+Pushing Pixels - Imaginary UI from Movies
+⁠Movie Mistakes - Movie Mistakes Database w/ Community Voting
+Nestflix - Fictional Media in Media Database
+BogLeech - Monster Design Reviews
+Projectrho - Fantasy Rocket Encyclopedia
+BreezeWiki / Mirrors or Phantom - Fandom Frontends
+Mysteries / Paranormal ​ 
+ MorbidKuriosity - Dark History, Conspiracies, Crime, Myths, etc.
+Websleuths - Crime Solving Forum
+House Creep - Homes with A Curious or Criminal History
+EnigmaLabs , ⁠UFO Evidence or UFO Casebook - UFO + UAP Sighting Lists / Tracking
+⁠Fern Flower Project - Database of Anomalous / Paranormal Phenomenon
+TheShadowlands - Oldschool Paranormal Research Site
+BFRO - Bigfoot Research Site
+BlackDrago - Dragon Encyclopedia
+FutureTimeline - Timeline of Future Predictions
+Live Cameras ​ 
+ WebcamTaxi 
+ Explore , Mangolinkcam , Africam or AnimalsLife - Animal Cams
+ San Diego Zoo or NationalZoo - Zoo Webcams
+WorldCams 
+OpenCCTV 
+EarthCam 
+WebcamExplore 
+BalticLiveCam 
+EarthCamTv 
+Camscape 
+Worldviewstream 
+CamStreamer 
+SkylineWebcams 
+Webcam Hopper 
+WorldCam 
+⁠Tomarigi 
+Mangolink World 
+Insecam - Public Surveillance Webcams
+CameraFTP 
+WebcamGalore 
+Windy Webcams 
+LiveCam Croatia 
+⁠TrafficVision - Live Traffic Cams
+Project ⁠Alveus Sanctuary - 24/7 Educational Wildlife Live Streams / Conservation Project
+Monterey Bay Aquarium or AquariumOfPacific - Aquarium Webcams
+⁠CCTV-World - South Korea Live Cams
+meow.camera - Chinese Cat Cams / Android / iOS / 
+The Fish Doorbell - Help Fish Migrate
+r/controllablewebcams / 
+snoweye - Ski Resorts
+Airport Webcams / 
+FogCam - The World's Oldest Webcam
+Random ​ 
+️ Random Sites / Discovery 
+ Neal.fun - Toys / Games
+ Copypasta Text - Copypasta Databases
+ CreepyPasta - Creepypasta Database
+ TheOnion - Fake News Articles
+ Uncyclopedia - Wikipedia Parody
+ WhatBeatsRock - Guess What Beats What
+ Library of Babel - Every Book of Past, Present, and Future
+OpenChaos.dev - Evolving Open-Source Project Governed by Community Votes / 
+Grant Kot - Toys / Games
+R74n - Toys / Games
+Oimo - Toys / Games
+AIDN - Toys / Games
+Neave / 2 - Toys / Games
+BoredHumans - Toys / Games
+puissant - Toys / Games
+Mr.doob - Toys / Games
+Bimble Space - Toys / Games
+Creative Tech Guy - Toys / Games
+Just For Fun - Toys / Games
+Andrew Marsh - Toys / Games
+JenniferDewalt - Toys / Games
+Chrome Experiments - Toys / Games
+yezi - Toys / Games
+topster - Toys / Games
+p5aholic - Toys / Games
+vole.wtf - Toys / Games
+WilliamHoza - Toys / Games
+Rinkworks - Toys / Games
+Orteil - Toys / Games
+funwebsite - Toys / Games
+Toms.Toys - Toys / Games
+Pointless Sites - Toys / Games
+The Scientific Place - Toys / Games
+artistaiden - Toys / Games
+ToyBox - Toys / Games
+eieio.games - Experimental Games / Showcases
+⁠IARadio - AI Generated Radio Stations
+The Red Button - Random Video / Song Generator
+Things to Do or TheZen - Activity Suggestions
+Scattergories - Scattergories List Generator
+⁠Jerma Sites or Jerma - Jerma Resources / Content Sites
+Color Arena - Best Color Voting
+ColorNames - Help Name Colors
+Colorword - Word Color Voting
+Gizoogle - Google Shiznit
+Presence - Unwrap Presents Remotely
+Lots of Links - Random Funny Links
+WindowSwap or VisualVacation - Open Random Windows
+MoodLight or Defonic MoodLight - Turn Screen into Strobe / Mood Light
+HYDRA - Live Coding Networked Visuals / 
+The Editing Room - Funny Abridged Movie Scripts
+⁠Roastdit - Reddit Profile Roasting AI
+ShindanMaker - Diagnoses / Fortune AI
+LMGTFY , LMDDGTFY , LMSPTFY or GIYBF - Remind People that Search Engines Exist
+AfterTheTone - Random Answering Machine Messages
+Pink Trombone - Human Pitch Generator
+Purrli - Cat Purr Generator
+WebCassette - Add Cassette Effects to Songs
+The Nicest Place - Internet Hugs
+InspiroBot - Inspirational Quote Generator
+HORG - Holotypic Occlupanid Research Group
+Waifu Labs - Meet Your Waifu
+Skynet - View Websites like they're from the 90s
+CameronsWorld - 90s Themed Website
+Classic GTA Sites - Original GTA Site
+The Death Generator - Video Game Text Generator
+IASIP App - It's Always Sunny Title Generator
+JUST SCREAM! - Screams into the Universe / Archive
+UpJoke - Jokes for Any Topic
+CSS Puns - CSS Puns
+Peter Answers - Create Fake Questions & Answers
+The Santa Tracker - Track Santa during Christmas
+April Fools Day On The Web - Find April Fools' Pranks Played by Websites
+GeekPrank or Pranx - Windows Pranks
+Update Faker or Fake Update - Fake System Update Pranks
+DownloadHardware - Download Computer Hardware
+The Restart Page - Vintage Operating System Reboots
+Windows XP Error Worm - Click & Drag Windows Errors
+HackTyper , HackerTyper , Hoacks or Geektyper - Fake Hacking Screen
+
+ 📝 Edit this page 
+
+PagerPrevious page Non-English 
+Next page System Tools 
+
+Made with ❤ (rev: 0cae6407 )
+© 2026, Estd 2018. 
+ This site does not host any files.
+
+== URL LIST ==

@@ -1,0 +1,1266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Automation Mechanic — Marketing Kit</title>
+<script>window.renderMathInElement = function(){};</script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+@page {
+    size: 720px 1020px;
+    margin: 0;
+}
+:root {
+    --c-dark: #241f1b;        /* cover + ending background (family dark variant) */
+    --c-page: #f6f6f6;        /* XL page background */
+    --c-section: #e9e8e6;     /* XL section band */
+    --c-card: #eceae9;        /* L card background */
+    --c-stripe: #f0eeec;      /* L table stripe */
+    --c-headerfill: #716150;  /* M table header */
+    --c-coverblock: #6e5e4e;  /* M cover decorative block */
+    --c-border: #c5b5a4;      /* S borders */
+    --c-icon: #927354;        /* S icons, bullets, mono labels */
+    --c-accent: #c27426;      /* XS amber accent */
+    --c-text: #1f1d1c;        /* primary text */
+    --c-muted: #8a8581;       /* muted text */
+    --c-on-dark: #f0eeec;     /* text on dark pages */
+    --c-on-dark-muted: #b5aca2; /* muted text on dark */
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 720px;
+    background: #f6f6f6;
+    font-family: 'Inter', 'Noto Sans SC', sans-serif;
+    font-size: 15px;
+    line-height: 1.62;
+}
+body {
+    line-break: strict;
+    word-break: normal;
+    overflow-wrap: break-word;
+}
+@media screen {
+    html {
+        height: auto;
+        display: flex;
+        justify-content: center;
+        background: #f6f6f6;
+    }
+    body {
+        margin: 20px auto;
+        transform: scale(1);
+        transform-origin: top center;
+        box-shadow: 0 8px 40px rgba(0,0,0,0.5);
+    }
+}
+
+/* ============ COVER (fixed page) ============ */
+.front-page {
+    width: 720px;
+    height: 1020px;
+    box-sizing: border-box;
+    break-after: page;
+    overflow: hidden;           /* allowed on cover only */
+    position: relative;
+    background: #241f1b;
+    color: #f0eeec;
+    box-shadow: 0 0 0 1px #241f1b; /* cover sub-pixel edge insurance on light page bg */
+}
+.front-page .bg-layer {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    z-index: 1;
+    background:
+        radial-gradient(circle at 0% 100%, rgba(194,116,38,0) 148px, rgba(194,116,38,0.28) 149px, rgba(194,116,38,0.28) 151px, rgba(194,116,38,0) 152px),
+        radial-gradient(circle at 14% 100%, rgba(146,115,84,0) 88px, rgba(146,115,84,0.35) 89px, rgba(146,115,84,0.35) 90px, rgba(146,115,84,0) 91px);
+}
+.front-page .ghost {
+    position: absolute;
+    right: 8px;
+    top: 136px;
+    font-size: 240px;
+    font-weight: 900;
+    line-height: 0.9;
+    color: rgba(194, 116, 38, 0.07);
+    letter-spacing: -8px;
+}
+.front-page .gear-dot {
+    position: absolute;
+    border-radius: 50%;
+    background: #c27426;
+}
+.front-page .gear-dot.g1 { width: 14px; height: 14px; right: 118px; top: 168px; }
+.front-page .gear-dot.g2 { width: 9px; height: 9px; right: 86px; top: 208px; background: #927354; }
+.front-page .struct-layer {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+}
+.front-page .topline {
+    position: absolute;
+    left: 64px;
+    right: 64px;
+    top: 64px;
+    height: 2px;
+    background: linear-gradient(90deg, #c27426, rgba(194,116,38,0.12));
+}
+.front-page .content-layer {
+    position: absolute;
+    inset: 0;
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 64px;
+    box-sizing: border-box;
+}
+.front-page .kicker {
+    font-family: 'Liberation Mono', 'DejaVu Sans Mono', monospace;
+    font-size: 13px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #c27426;
+    margin-bottom: 26px;
+}
+.front-page .hero {
+    font-size: 62px;
+    font-weight: 900;
+    line-height: 1.08;
+    letter-spacing: -1.5px;
+    color: #f0eeec;
+    max-width: 560px;
+}
+.front-page .hero .amber { color: #c27426; }
+.front-page .subtitle {
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 1.45;
+    color: #d8d2ca;
+    margin-top: 26px;
+    max-width: 480px;
+}
+.front-page .summary {
+    font-size: 15.5px;
+    line-height: 1.7;
+    color: #b5aca2;
+    margin-top: 30px;
+    max-width: 470px;
+}
+.front-page .front-page-meta {
+    position: absolute;
+    left: 64px;
+    right: 64px;
+    bottom: 58px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Liberation Mono', 'DejaVu Sans Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #b5aca2;
+    border-top: 1px solid rgba(146,115,84,0.4);
+    padding-top: 16px;
+}
+.front-page .front-page-meta .site { color: #c27426; }
+
+/* ============ FLOW CONTENT ============ */
+.main-content {
+    background: #f6f6f6;
+    color: #1f1d1c;
+    padding: 56px 65px 44px 65px;
+    /* no fixed height, no overflow rules — content flows */
+}
+.main-content p {
+    margin: 0 0 13px 0;
+}
+.lead {
+    font-size: 16.5px;
+    font-weight: 500;
+    color: #1f1d1c;
+}
+.body-text { color: #1f1d1c; }
+
+.chapter-header {
+    break-after: avoid;
+    break-inside: avoid;
+    margin-top: 28px;
+    margin-bottom: 18px;
+}
+.section-tag {
+    font-family: 'Liberation Mono', 'DejaVu Sans Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #c27426;
+    margin-bottom: 7px;
+}
+.section-title {
+    font-size: 25px;
+    font-weight: 800;
+    letter-spacing: -0.4px;
+    color: #1f1d1c;
+    line-height: 1.2;
+}
+.section-title::after {
+    content: '';
+    display: block;
+    width: 46px;
+    height: 3px;
+    background: #c27426;
+    margin-top: 10px;
+}
+
+h3.sub {
+    font-size: 17px;
+    font-weight: 700;
+    color: #1f1d1c;
+    margin: 20px 0 8px 0;
+    break-after: avoid;
+}
+h4.small-sub {
+    font-size: 14.5px;
+    font-weight: 700;
+    color: #1f1d1c;
+    margin: 14px 0 6px 0;
+    break-after: avoid;
+}
+
+.card {
+    break-inside: avoid;
+    background: #eceae9;
+    border: 1px solid #c5b5a4;
+    border-left: 3px solid #c27426;
+    padding: 14px 17px;
+    margin-bottom: 12px;
+    border-radius: 3px;
+}
+.card .card-label {
+    font-family: 'Liberation Mono', 'DejaVu Sans Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #927354;
+    margin-bottom: 6px;
+}
+.card p:last-child { margin-bottom: 0; }
+
+.warn {
+    break-inside: avoid;
+    background: #eceae9;
+    border: 1px solid #c5b5a4;
+    border-left: 3px solid #716150;
+    padding: 14px 18px;
+    margin: 14px 0;
+    border-radius: 3px;
+    font-size: 14px;
+}
+.warn .card-label { color: #716150; }
+
+/* paste-ready copy blocks */
+.copybox {
+    break-inside: avoid;
+    background: #f0eeec;
+    border: 1px dashed #927354;
+    border-radius: 3px;
+    padding: 15px 17px;
+    margin: 12px 0;
+}
+.copybox.tall { break-inside: auto; }
+.copybox .copy-meta {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Liberation Mono', 'DejaVu Sans Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #927354;
+    margin-bottom: 9px;
+    padding-bottom: 7px;
+    border-bottom: 1px solid #d8d2ca;
+}
+.copybox .copy-body {
+    font-size: 14px;
+    line-height: 1.66;
+    color: #1f1d1c;
+    white-space: pre-wrap;
+}
+.copybox .copy-body .sms {
+    font-family: 'Liberation Mono', 'DejaVu Sans Mono', monospace;
+    font-size: 13px;
+    line-height: 1.6;
+    color: #241f1b;
+}
+
+/* tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12.5px;
+    margin: 10px 0 13px 0;
+    break-inside: avoid;
+}
+thead { display: table-header-group; }
+th {
+    background: #716150;
+    color: #ffffff;
+    text-align: left;
+    font-weight: 700;
+    padding: 7px 9px;
+    font-size: 12px;
+}
+td {
+    padding: 7px 9px;
+    border: 1px solid #c5b5a4;
+    vertical-align: top;
+    color: #1f1d1c;
+}
+tr { break-inside: avoid; }
+tbody tr:nth-child(odd) td { background: #f0eeec; }
+tbody tr:nth-child(even) td { background: #ffffff; }
+td .mono, .mono {
+    font-family: 'Liberation Mono', 'DejaVu Sans Mono', monospace;
+    font-size: 12px;
+}
+
+/* menu service cards */
+.svc {
+    break-inside: avoid;
+    background: #ffffff;
+    border: 1px solid #c5b5a4;
+    border-radius: 3px;
+    padding: 13px 16px;
+    margin-bottom: 11px;
+}
+.svc .svc-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: 4px;
+}
+.svc .svc-num {
+    font-family: 'Liberation Mono', 'DejaVu Sans Mono', monospace;
+    font-size: 11px;
+    color: #c27426;
+    letter-spacing: 1px;
+}
+.svc .svc-name {
+    font-size: 17px;
+    font-weight: 800;
+    color: #1f1d1c;
+    letter-spacing: -0.2px;
+}
+.svc .svc-price {
+    font-size: 12.5px;
+    font-weight: 800;
+    color: #ffffff;
+    background: #c27426;
+    padding: 3px 10px;
+    border-radius: 2px;
+    white-space: nowrap;
+}
+.svc .svc-for {
+    font-family: 'Liberation Mono', 'DejaVu Sans Mono', monospace;
+    font-size: 10.5px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #927354;
+    margin: 2px 0 8px 0;
+}
+.svc p { margin: 0 0 7px 0; font-size: 14px; }
+.svc p:last-child { margin-bottom: 0; }
+.svc .punch {
+    font-size: 13.5px;
+    font-weight: 600;
+    color: #716150;
+    border-top: 1px solid #d8d2ca;
+    padding-top: 7px;
+}
+
+/* gig kit blocks */
+.gig {
+    break-inside: auto;
+}
+.gig-head {
+    break-inside: avoid;
+    break-after: avoid;
+    background: #716150;
+    color: #ffffff;
+    padding: 12px 17px;
+    border-radius: 3px 3px 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+.gig-head .gig-name { font-size: 16.5px; font-weight: 800; letter-spacing: -0.2px; }
+.gig-head .gig-sub {
+    font-family: 'Liberation Mono', 'DejaVu Sans Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #d8d2ca;
+}
+.gig-body {
+    border: 1px solid #c5b5a4;
+    border-top: none;
+    padding: 15px 17px;
+    background: #ffffff;
+    border-radius: 0 0 3px 3px;
+    margin-bottom: 15px;
+}
+.gig-body h4.small-sub { margin-top: 12px; }
+.gig-body h4.small-sub:first-child { margin-top: 0; }
+.gig-body .copybox { margin: 8px 0 10px 0; }
+
+/* misc */
+ul.tight { margin: 6px 0 12px 0; padding-left: 20px; }
+ul.tight li { margin-bottom: 5px; break-inside: avoid; }
+.tag-row { display: flex; flex-wrap: wrap; gap: 6px; max-width: 100%; margin: 6px 0 10px 0; }
+.tag-row .tag {
+    font-family: 'Liberation Mono', 'DejaVu Sans Mono', monospace;
+    font-size: 11px;
+    color: #716150;
+    background: #f0eeec;
+    border: 1px solid #c5b5a4;
+    padding: 2px 8px;
+    border-radius: 10px;
+}
+.checkline {
+    display: flex;
+    gap: 8px;
+    align-items: baseline;
+    margin-bottom: 6px;
+    break-inside: avoid;
+}
+.checkline .tick { color: #c27426; font-weight: 900; }
+.small-note {
+    font-size: 12.5px;
+    color: #6f6a66;
+    line-height: 1.55;
+}
+.kicker-quote {
+    break-inside: avoid;
+    font-size: 16px;
+    font-weight: 600;
+    color: #716150;
+    border-left: 3px solid #c27426;
+    padding: 4px 0 4px 16px;
+    margin: 14px 0;
+    line-height: 1.5;
+}
+
+/* ============ ENDING (fixed page) ============ */
+.ending {
+    width: 720px;
+    height: 1020px;
+    box-sizing: border-box;
+    break-before: page;
+    overflow: hidden;
+    position: relative;
+    background: #241f1b;
+    color: #f0eeec;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 64px;
+    box-shadow: 0 0 0 1px #241f1b; /* ending sub-pixel edge insurance on light page bg */
+}
+.ending .bg-layer {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    z-index: 1;
+    background:
+        radial-gradient(circle at 100% 0%, rgba(194,116,38,0) 148px, rgba(194,116,38,0.25) 149px, rgba(194,116,38,0.25) 151px, rgba(194,116,38,0) 152px),
+        radial-gradient(circle at 86% 0%, rgba(146,115,84,0) 88px, rgba(146,115,84,0.3) 89px, rgba(146,115,84,0.3) 90px, rgba(146,115,84,0) 91px);
+}
+.ending .content { position: relative; z-index: 3; }
+.ending .end-tag {
+    font-family: 'Liberation Mono', 'DejaVu Sans Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #c27426;
+    margin-bottom: 24px;
+}
+.ending .big-text {
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 1.18;
+    letter-spacing: -1px;
+    color: #f0eeec;
+    max-width: 540px;
+}
+.ending .big-text .amber { color: #c27426; }
+.ending .end-sub {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #b5aca2;
+    margin-top: 26px;
+    max-width: 460px;
+}
+.ending .end-meta {
+    position: absolute;
+    left: 64px;
+    right: 64px;
+    bottom: 58px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Liberation Mono', 'DejaVu Sans Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #b5aca2;
+    border-top: 1px solid rgba(146,115,84,0.4);
+    padding-top: 16px;
+    z-index: 3;
+}
+.ending .end-meta .site { color: #c27426; }
+</style>
+</head>
+<body>
+
+<!-- ==================== COVER ==================== -->
+<div class="front-page">
+    <div class="bg-layer">
+        <div class="ghost">2K</div>
+        <div class="gear-dot g1"></div>
+        <div class="gear-dot g2"></div>
+    </div>
+    <div class="struct-layer">
+        <div class="topline"></div>
+    </div>
+    <div class="content-layer">
+        <div class="kicker">Mike Builds &middot; Marketing Kit</div>
+        <div class="hero">The Automation <span class="amber">Mechanic</span></div>
+        <div class="subtitle">Every word that sells the playbook&rsquo;s money moves &mdash; the upsell menu, the gig listings, the posts.</div>
+        <div class="summary">This kit covers the two lanes of the $2K Sprint Playbook that don&rsquo;t have marketing yet: the automation menu that plugs into Charm City sales, and the Fiverr&#8202;/&#8202;Upwork listings that sell while you sleep. Nothing you already made gets touched.</div>
+    </div>
+    <div class="front-meta">
+        <span class="site">mikebuilds.tech</span>
+        <span>Lane A + Lane B</span>
+        <span>September 2026</span>
+    </div>
+</div>
+
+<!-- ==================== FLOW CONTENT ==================== -->
+<div class="main-content">
+
+<!-- ========== SECTION 0 ========== -->
+<div class="chapter-header">
+    <div class="section-tag">Section 00 &middot; Read this first</div>
+    <div class="section-title">How this kit fits what you already built</div>
+</div>
+
+<p class="lead">You didn&rsquo;t double-market anything. You built a two-stage funnel &mdash; and that&rsquo;s exactly why the pieces felt tangled. Let&rsquo;s untangle them once, on paper, so the confusion is gone for good.</p>
+
+<p>The Charm City materials you already made sell the <strong>website</strong>. That&rsquo;s stage one: the door. The playbook services you folded in &mdash; the missed-call texter, the review robot, the AI receptionist &mdash; are stage two: what a business owner buys <em>after</em> they know you. Different stage, different page, different scripts. Your existing materials don&rsquo;t need a single edit. Stage two just needed its own voice, and that&rsquo;s what this kit is.</p>
+
+<p>Same story with the Gig Ladder. Fiverr and Upwork are pure playbook lanes, and they had zero materials. Now they have full ones: three gig listings, a profile, and proposal templates you can send tonight.</p>
+
+<p>So the full estate looks like this &mdash; four doors, one bare front porch, and every visitor only ever sees the door meant for them:</p>
+
+<table>
+    <thead>
+        <tr><th style="width:31%">Address</th><th style="width:22%">Audience</th><th style="width:30%">What it sells</th><th style="width:17%">Status</th></tr>
+    </thead>
+    <tbody>
+        <tr><td><span class="mono">mikebuilds.tech</span></td><td>Everyone</td><td>Nothing, on purpose. A bare front porch.</td><td>Live</td></tr>
+        <tr><td><span class="mono">/plumber</span></td><td>Local trades</td><td>$500&ndash;800 flat-fee websites</td><td>Done &mdash; don&rsquo;t touch</td></tr>
+        <tr><td><span class="mono">/realtor</span></td><td>Real estate agents</td><td>$297/mo content packs</td><td>Done &mdash; don&rsquo;t touch</td></tr>
+        <tr><td><span class="mono">/automation</span></td><td>Trades who know you</td><td>The four add-ons in this kit</td><td><strong>New &mdash; copy inside</strong></td></tr>
+    </tbody>
+</table>
+
+<p>The front page links to nothing. Doors open by invitation only, the way you planned it. A roofer never sees the realtor page. An agent never sees the plumber page. And the automation menu only meets people who arrived through a text from you, a demo video, or an Instagram bio link &mdash; warm traffic, never cold.</p>
+
+<div class="warn">
+    <div class="card-label">The one rule that keeps it clean</div>
+    <p style="margin:0">Your website pitch and your automation pitch never appear in the same message. The site pitch opens the door. The automation pitch walks through it later, as a separate conversation. Stage one sells a thing they can see. Stage two sells a thing they can stop worrying about. Mix them and both get weaker.</p>
+</div>
+
+<!-- ========== SECTION 1 ========== -->
+<div class="chapter-header">
+    <div class="section-tag">Section 01 &middot; Lane A, stage two</div>
+    <div class="section-title">The Automation Mechanic menu</div>
+</div>
+
+<p class="lead">Four products. Each one has a real name a tradesman can repeat to his wife at dinner, a price he can say out loud, and a pain he already feels. No tech words anywhere &mdash; &ldquo;n8n&rdquo; will never come out of your mouth on a sales call.</p>
+
+<p>Positioning line for the whole menu, usable anywhere: <strong>&ldquo;Your back office, while you&rsquo;re on a job.&rdquo;</strong> That&rsquo;s it. That&rsquo;s the brand. Everything below hangs off that one sentence.</p>
+
+<div class="svc">
+    <div class="svc-head">
+        <span><span class="svc-num">01&nbsp;&nbsp;</span><span class="svc-name">The Missed-Call Texter</span></span>
+        <span class="svc-price">$400 once</span>
+    </div>
+    <div class="svc-for">For: any one-man crew whose phone rings while both hands are busy</div>
+    <p><strong>The pain.</strong> Every call he can&rsquo;t take is a customer calling the next name on Google. Sixty seconds. That&rsquo;s all it takes to hand a $400 job to a competitor. He knows it happens. He can&rsquo;t quantify it, which makes it worse.</p>
+    <p><strong>The fix.</strong> The moment a call goes unanswered, the customer gets a text within ten seconds: <em>&ldquo;Hi, this is Dave&rsquo;s Plumbing &mdash; we&rsquo;re on a job right now. Can we call you back in 20?&rdquo;</em> The customer feels seen. They wait. Dave books the job he would&rsquo;ve lost.</p>
+    <div class="punch">Line to remember: &ldquo;It texts every missed caller back before they finish dialing the next guy.&rdquo;</div>
+</div>
+
+<div class="svc">
+    <div class="svc-head">
+        <span><span class="svc-num">02&nbsp;&nbsp;</span><span class="svc-name">The Review Robot</span></span>
+        <span class="svc-price">$300 once</span>
+    </div>
+    <div class="svc-for">For: anyone with great Google reviews and zero replies</div>
+    <p><strong>The pain.</strong> Forty glowing reviews, not one response. To a customer scanning the list, that reads as &ldquo;this shop went quiet.&rdquo; Future buyers notice. It quietly costs him jobs every week and he has no idea.</p>
+    <p><strong>The fix.</strong> Every new review gets a warm, personal reply within the hour &mdash; at 2 a.m., while he&rsquo;s under a sink, on Thanksgiving. Five-star reviews get gratitude. Three-star reviews get a professional answer that shows everyone else watching how he handles problems. That second part is the part that sells the next customer.</p>
+    <div class="punch">Line to remember: &ldquo;Your reviews stop looking abandoned. Reply #41 makes you look open for business.&rdquo;</div>
+</div>
+
+<div class="svc">
+    <div class="svc-head">
+        <span><span class="svc-num">03&nbsp;&nbsp;</span><span class="svc-name">The Invoice Chaser</span></span>
+        <span class="svc-price">$300&ndash;500 once</span>
+    </div>
+    <div class="svc-for">For: anyone who hates the money call more than the crawl space</div>
+    <p><strong>The pain.</strong> Nobody became a plumber to chase checks. So invoices sit. Thirty, sixty, ninety days. The awkward call gets postponed forever, and the &ldquo;good guy&rdquo; reflex quietly bleeds the business dry.</p>
+    <p><strong>The fix.</strong> Polite, escalating reminders that run themselves. Day 3, a friendly nudge. Day 10, firmer. Day 20, a final notice. The owner stays the good guy; the robot plays bad cop. Most small businesses collect tens of thousands in old invoices within the first month of running one of these.</p>
+    <div class="punch">Line to remember: &ldquo;You never make the awkward call again. The robot makes it for you, politely, forever.&rdquo;</div>
+</div>
+
+<div class="svc">
+    <div class="svc-head">
+        <span><span class="svc-num">04&nbsp;&nbsp;</span><span class="svc-name">The 24/7 Receptionist</span></span>
+        <span class="svc-price">$297 / month</span>
+    </div>
+    <div class="svc-for">For: the crew that&rsquo;s outgrown voicemail</div>
+    <p><strong>The pain.</strong> After-hours calls hit voicemail. Eight in ten callers just dial the next company instead of leaving a message. He knows it. He&rsquo;s tired. The phone rings while he&rsquo;s eating dinner with his kids.</p>
+    <p><strong>The fix.</strong> A friendly voice answers every call, any hour. It answers basic questions with his rules &mdash; the service-call fee, the service area, the emergency line. It books them on his calendar. This is the only monthly product on the menu, and that&rsquo;s the pitch: <em>one saved job a month covers her salary.</em></p>
+    <div class="punch">Line to remember: &ldquo;She answers every call you miss, forever, for less than a phone bill.&rdquo;</div>
+</div>
+
+<p>A note on the pricing: these match the ranges the playbook research validated ($300&ndash;600 for local automation builds, $297/mo for an AI front desk). Hold your prices. A $300 &ldquo;yes&rdquo; is cheaper than a free &ldquo;maybe&rdquo; that eats three weeks of evenings. If someone haggles, drop scope before you drop price &mdash; cut the escalation steps out of the Invoice Chaser, don&rsquo;t cut $100 off the top.</p>
+
+<!-- ========== SECTION 2 ========== -->
+<div class="chapter-header">
+    <div class="section-tag">Section 02 &middot; The page itself</div>
+    <div class="section-title">Copy for mikebuilds.tech/automation</div>
+</div>
+
+<p class="lead">This is the hidden page tradesmen land on after your text, your demo video, or your Instagram bio. Written so someone who has never heard of you, or of any of this, gets it in one scroll.</p>
+
+<p>Build notes: one page, no menu, no links out. The page has exactly one job &mdash; get a text sent to <span class="mono">410-575-4192</span>. Every block below is paste-ready. Say the phone number twice; it&rsquo;s the whole conversion.</p>
+
+<div class="copybox">
+    <div class="copy-meta"><span>Paste &middot; page headline block</span><span>automation page</span></div>
+    <div class="copy-body"><strong>FOR BALTIMORE TRADES</strong>
+
+<strong>Your back office runs itself.</strong>
+
+You answer calls, fix pipes, and get home before dark. I build the quiet software that handles everything else &mdash; the missed calls, the reviews nobody replies to, the invoices nobody chases.
+
+One flat price. No monthly fees. You own it outright.</div>
+</div>
+
+<div class="copybox">
+    <div class="copy-meta"><span>Paste &middot; service menu block, part 1</span><span>automation page</span></div>
+    <div class="copy-body"><strong>Pick your leak.</strong>
+
+<strong>The Missed-Call Texter &mdash; $400 once.</strong> Someone calls, you&rsquo;re elbow-deep in a job, they hang up and dial the next name on Google. This texts them back in ten seconds and holds the job for you.
+
+<strong>The Review Robot &mdash; $300 once.</strong> Your Google reviews sit there unanswered, and it makes you look closed. This replies to every one, in your voice, within the hour &mdash; even at 2 a.m.</div>
+</div>
+
+<div class="copybox">
+    <div class="copy-meta"><span>Paste &middot; service menu block, part 2</span><span>automation page</span></div>
+    <div class="copy-body"><strong>The Invoice Chaser &mdash; $300&ndash;500 once.</strong> The polite robot that reminds customers about unpaid invoices on a schedule, so you never make the awkward money call again.
+
+<strong>The 24/7 Receptionist &mdash; $297/month.</strong> A friendly voice that answers every call you miss, quotes your service fee, and books the job on your calendar. She never sleeps and never has a bad Monday.</div>
+</div>
+
+<div class="copybox">
+    <div class="copy-meta"><span>Paste &middot; how it works block</span><span>automation page</span></div>
+    <div class="copy-body"><strong>How it works</strong>
+
+<strong>1.</strong> Text me what&rsquo;s bugging you. One sentence is enough. &ldquo;I miss calls all day&rdquo; counts.
+
+<strong>2.</strong> Within a day you get a 90-second video of it already working, on a fake version of your business. You watch it fix the problem before you&rsquo;ve paid a dollar.
+
+<strong>3.</strong> You like it, I flip it on for real. Most things are live within 48 hours. If it&rsquo;s not running in 7 days, you don&rsquo;t pay.</div>
+</div>
+
+<div class="copybox">
+    <div class="copy-meta"><span>Paste &middot; FAQ block, part 1</span><span>automation page</span></div>
+    <div class="copy-body"><strong>Fair questions</strong>
+
+<strong>Is this AI?</strong> Some of it. It&rsquo;s the boring kind &mdash; it follows your rules exactly and doesn&rsquo;t improvise. You approve the words before a single customer sees them.
+
+<strong>Will it spam my customers?</strong> No. Every message uses your voice, and every message stops the second someone says stop. It&rsquo;s a polite employee, not a marketer.
+
+<strong>I already have a website.</strong> Great &mdash; none of this touches your website. It bolts onto the side of your business, not your site.</div>
+</div>
+
+<div class="copybox">
+    <div class="copy-meta"><span>Paste &middot; FAQ block, part 2</span><span>automation page</span></div>
+    <div class="copy-body"><strong>Why is there no monthly fee?</strong> Because you pay me once and it keeps working. That&rsquo;s the whole point. (The receptionist is the one exception &mdash; she&rsquo;s answering calls around the clock, so she&rsquo;s on salary.)
+
+<strong>What if it breaks?</strong> Text me. Fixes are free for the first 30 days, and fast after that.
+
+<strong>Text Mike &mdash; 410-575-4192.</strong> A human answers.</div>
+</div>
+
+<p>That&rsquo;s the entire page. Short on purpose: a roofer reads it on his tailgate between jobs. The &ldquo;7 days or you don&rsquo;t pay&rdquo; line is the strongest sentence on the page &mdash; keep it even if everything else changes. It flips the risk off his shoulders and onto yours, which is exactly where a stranger needs it before he texts a number off the internet.</p>
+
+<!-- ========== SECTION 3 ========== -->
+<div class="chapter-header">
+    <div class="section-tag">Section 03 &middot; Lane A, the scripts</div>
+    <div class="section-title">Text messages that sell stage two</div>
+</div>
+
+<p class="lead">Three scripts, three situations. All lowercase, all short, all sent as two texts maximum before you offer the video. A paragraph over SMS reads like a bill collector. A sentence reads like a guy.</p>
+
+<h3 class="sub">Script A &mdash; The Day-3 upsell</h3>
+<p>For the tradesman who just bought the website. Send it on day three, while the new-site glow is still on him and the invoice sting has faded. Open with a question he can answer with a number &mdash; every tradesman has a missed-call number, and saying it out loud is half the sale:</p>
+
+<div class="copybox tall">
+    <div class="copy-meta"><span>Paste &middot; text sequence</span><span>day 3 after site purchase</span></div>
+    <div class="copy-body"><span class="sms">dave &mdash; mike here. site&rsquo;s been live 3 days, wanted to ask you something: on a normal tuesday, how many calls do you miss?</span>
+
+<span class="sms">[he&rsquo;ll answer with a number. whatever it is, reply:]</span>
+
+<span class="sms">that&rsquo;s what I figured. I built something that texts every one of those callers back in 10 seconds &mdash; &ldquo;we&rsquo;re on a job, we&rsquo;ll call you right back.&rdquo; keeps them off the next guy&rsquo;s google result. $400 flat, running by tomorrow night. want the 90-second video of it working?</span>
+
+<span class="sms">[send video. then silence. the video closes, not you.]</span></div>
+</div>
+
+<h3 class="sub">Script B &mdash; The pivot after &ldquo;no&rdquo;</h3>
+<p>A &ldquo;no&rdquo; on a $500 website is very often a &ldquo;yes&rdquo; waiting at a lower number. The Review Robot is the cheapest door into a business, so it&rsquo;s the pivot. Wait two days after the no, then:</p>
+
+<div class="copybox">
+    <div class="copy-meta"><span>Paste &middot; text sequence</span><span>2 days after a &ldquo;no&rdquo;</span></div>
+    <div class="copy-body"><span class="sms">no worries man. real talk though &mdash; the website was the expensive thing I do.</span>
+
+<span class="sms">got something smaller. you know how your google reviews never get replies? makes you look closed. I can fix that for $300 flat, takes me a day. want to see it working on a fake company first?</span></div>
+</div>
+
+<p>Why it works: you just told him the thing he rejected was <em>your expensive option</em>. That reframes the no as his budget being respected, not your pitch being rejected. Half of these convert within a week.</p>
+
+<h3 class="sub">Script C &mdash; The Dave question, answered</h3>
+<p>He asked it in your last session and it&rsquo;s the question every buyer asks eventually: <em>&ldquo;How much is the monthly fee?&rdquo;</em> Your sites and flat-fee builds have zero monthly fees &mdash; that&rsquo;s your sharpest edge over every agency in the city. Answer it like this:</p>
+
+<div class="copybox">
+    <div class="copy-meta"><span>Paste &middot; text reply</span><span>when they ask about fees</span></div>
+    <div class="copy-body"><span class="sms">no monthly. $400 once and it&rsquo;s yours. i&rsquo;m not a phone company, man &mdash; i&rsquo;m the guy who fixes the leak.</span></div>
+</div>
+
+<div class="warn">
+    <div class="card-label">Volume rules, same as the playbook</div>
+    <p style="margin:0">Keep new outbound texts under 25 a day, honor every STOP immediately, and send from the number prospects already have &mdash; never blast from a second &ldquo;marketing&rdquo; number. These scripts are for warm contacts and replies. A no-cost demo video does the persuading; you never send a second follow-up to silence. One nudge, then the list moves on.</p>
+</div>
+
+<!-- ========== SECTION 4 ========== -->
+<div class="chapter-header">
+    <div class="section-tag">Section 04 &middot; Lane B, the storefront</div>
+    <div class="section-title">The Fiverr Gig Ladder</div>
+</div>
+
+<p class="lead">Three listings, publishable tonight. Written for buyers who have never heard of you, never heard of n8n, and don&rsquo;t care. They care about the hour of their day you&rsquo;re giving back.</p>
+
+<p>One deliberate exception to plain English: the gig <em>titles</em> carry the search word (&ldquo;n8n&rdquo;) because that&rsquo;s literally what buyers type into Fiverr&rsquo;s search bar. Everything after the title &mdash; description, FAQs, packages &mdash; speaks human. That&rsquo;s the balance: searchable where people search, plain where people read.</p>
+
+<div class="card">
+    <div class="card-label">Platform rules &mdash; the cheat sheet</div>
+    <ul class="tight" style="margin-bottom:0">
+        <li><strong>Title:</strong> 80 characters max. Keyword goes first, not last.</li>
+        <li><strong>Description:</strong> 1,200 characters max. The first two lines show before &ldquo;see more&rdquo; &mdash; spend them on the pain, never on a greeting.</li>
+        <li><strong>Tags:</strong> 5 tags, 20 characters each. Given per gig below.</li>
+        <li><strong>Packages:</strong> 3 tiers. Most orders land in the middle tier &mdash; make it the obvious choice.</li>
+        <li><strong>Images:</strong> up to 3, at 1272&times;762px. One bold sentence per image, before/after style. No walls of text.</li>
+        <li><strong>Video:</strong> a 60&ndash;75 second screen recording lifts clicks noticeably. Record it on day one, not &ldquo;later.&rdquo;</li>
+        <li><strong>The wall rule:</strong> no external links, no phone numbers, no emails anywhere in a gig. Fiverr suspends accounts for it. Everything stays on-platform until delivery is done.</li>
+    </ul>
+</div>
+
+<div class="warn">
+    <div class="card-label">New-account warm-up</div>
+    <p style="margin:0">Fill every profile field the first night &mdash; empty fields read as &ldquo;risk.&rdquo; Keep the Fiverr app open on your phone in the evenings; response time is a ranking factor and a new seller&rsquo;s only weapon. Answer every message within the hour. Expect the scraping gig to convert first (steady demand, fast delivery) &mdash; deliver those orders in under 24 hours and let the reviews stack while the bigger n8n tickets find you.</p>
+</div>
+
+<!-- GIG 1 -->
+<div class="gig">
+<div class="gig-head">
+    <span class="gig-name">Gig 1 &mdash; Workflow Automation</span>
+    <span class="gig-sub">The $600 ticket &middot; publish first</span>
+</div>
+<div class="gig-body">
+    <h4 class="small-sub">Title options (all under 80 characters)</h4>
+    <div class="copybox">
+        <div class="copy-meta"><span>Pick one</span><span>fiverr title</span></div>
+        <div class="copy-body">I will build n8n workflow automation for your business
+I will automate your repetitive tasks using n8n
+I will set up n8n workflows that run while you sleep</div>
+    </div>
+
+    <h4 class="small-sub">Gig description</h4>
+    <div class="copybox tall">
+        <div class="copy-meta"><span>Paste &middot; gig description</span><span id="count-gig1">905 / 1,200 characters</span></div>
+        <div class="copy-body">You do the same three tasks every week. Moving emails into a spreadsheet. Sending the same replies. Copying orders between apps. It eats hours and pays nothing.
+
+I build the software that does it for you.
+
+Here&rsquo;s how it works: you tell me the task, and I turn it into a workflow that runs on its own &mdash; every day, at the exact time you want, without you touching anything. You see a screen recording of it working before you pay a cent.
+
+No jargon. No monthly retainer. You own the workflow outright, and I show you exactly how to pause, restart, or edit it yourself.
+
+BASIC covers one simple task. STANDARD connects your apps and adds error alerts so you know the moment anything needs you. PREMIUM is a full system &mdash; up to three workflows, a walkthrough video, and 14 days of free fixes.
+
+Send me the task that eats your week. If I can&rsquo;t automate it, I&rsquo;ll tell you for free &mdash; before you order, not after.</div>
+    </div>
+
+    <h4 class="small-sub">Packages</h4>
+    <table>
+        <thead><tr><th style="width:16%">Tier</th><th style="width:14%">Price</th><th style="width:14%">Delivery</th><th>What they get</th></tr></thead>
+        <tbody>
+            <tr><td>Basic</td><td>$150</td><td>3 days</td><td>One task automated (up to 5 steps) + screen-recorded demo before approval</td></tr>
+            <tr><td>Standard</td><td>$300</td><td>5 days</td><td>Up to 3 connected apps + error alerts to your email + 7 days of fixes</td></tr>
+            <tr><td>Premium</td><td>$600</td><td>7 days</td><td>Up to 3 workflows + alerts + video walkthrough + 14 days of fixes + backup file</td></tr>
+        </tbody>
+    </table>
+
+    <h4 class="small-sub">Search tags</h4>
+    <div class="tag-row">
+        <span class="tag">n8n</span><span class="tag">automation</span><span class="tag">workflow</span><span class="tag">zapier</span><span class="tag">business automation</span>
+    </div>
+
+    <h4 class="small-sub">FAQ</h4>
+    <div class="copybox">
+        <div class="copy-meta"><span>Paste &middot; FAQ</span><span>3 entries</span></div>
+        <div class="copy-body"><strong>Do I need to know anything technical?</strong>
+No. You get a video showing exactly where to click. If you can order pizza online, you can run this.
+
+<strong>What is n8n?</strong>
+Free software that connects your apps and moves data between them, around the clock. Think of it as a clerk who works for free and never sleeps.
+
+<strong>What if it breaks?</strong>
+Every package includes a fix window (7 or 14 days). After that, repairs are a small flat fee &mdash; and you&rsquo;ll have the backup file either way.</div>
+    </div>
+</div>
+</div>
+
+<!-- GIG 2 -->
+<div class="gig">
+<div class="gig-head">
+    <span class="gig-name">Gig 2 &mdash; AI Chatbot Setup</span>
+    <span class="gig-sub">The 24/7 answerer &middot; $75&ndash;250</span>
+</div>
+<div class="gig-body">
+    <h4 class="small-sub">Title options</h4>
+    <div class="copybox">
+        <div class="copy-meta"><span>Pick one</span><span>fiverr title</span></div>
+        <div class="copy-body">I will build an AI chatbot that answers customers 24/7
+I will create a custom AI chatbot for your website
+I will set up an AI assistant that never sleeps</div>
+    </div>
+
+    <h4 class="small-sub">Gig description</h4>
+    <div class="copybox tall">
+        <div class="copy-meta"><span>Paste &middot; gig description</span><span id="count-gig2">978 / 1,200 characters</span></div>
+        <div class="copy-body">A customer visits your site at 11 p.m., has one question, finds no answer, and leaves. That&rsquo;s the entire story of your lost night sales. It happens every single night.
+
+I build a chatbot that answers them &mdash; trained on your own information. Your prices, your hours, your policies, your tone. And when a question goes past what it knows, it hands the conversation to you with a tidy summary instead of guessing.
+
+How it works: you send me your info (or just your website link &mdash; I&rsquo;ll pull it apart myself). I build the bot, test it with 20 real customer questions, and send you a video of it handling all of them. You approve. It goes live.
+
+BASIC is a chatbot for one page with your 10 most common questions. STANDARD learns your whole site and hands off to your email. PREMIUM adds lead collection, a daily summary of every conversation, and 30 days of tuning.
+
+One revision round on every package. If your customers ask something it can&rsquo;t answer in month one, I teach it &mdash; free.</div>
+    </div>
+
+    <h4 class="small-sub">Packages</h4>
+    <table>
+        <thead><tr><th style="width:16%">Tier</th><th style="width:14%">Price</th><th style="width:14%">Delivery</th><th>What they get</th></tr></thead>
+        <tbody>
+            <tr><td>Basic</td><td>$75</td><td>2 days</td><td>One-page bot, your 10 most common questions, trained on your tone</td></tr>
+            <tr><td>Standard</td><td>$150</td><td>3 days</td><td>Trained on your whole site + handoff to your email with summaries</td></tr>
+            <tr><td>Premium</td><td>$250</td><td>5 days</td><td>Lead collection + daily conversation summaries + 30 days of tuning</td></tr>
+        </tbody>
+    </table>
+
+    <h4 class="small-sub">Search tags</h4>
+    <div class="tag-row">
+        <span class="tag">ai chatbot</span><span class="tag">chatbot</span><span class="tag">customer support</span><span class="tag">ai assistant</span><span class="tag">website chatbot</span>
+    </div>
+
+    <h4 class="small-sub">FAQ</h4>
+    <div class="copybox">
+        <div class="copy-meta"><span>Paste &middot; FAQ</span><span>3 entries</span></div>
+        <div class="copy-body"><strong>Will it sound robotic?</strong>
+It uses your tone &mdash; casual if you&rsquo;re casual, formal if you&rsquo;re formal. I test it with real questions before you ever see it.
+
+<strong>Can it take orders or leads?</strong>
+It collects names, contact info, and what the customer wants. The summary lands in your inbox, ready to follow up.
+
+<strong>What do I need to run it?</strong>
+One free account. I send a short video showing exactly where to click.</div>
+    </div>
+</div>
+</div>
+
+<!-- GIG 3 -->
+<div class="gig">
+<div class="gig-head">
+    <span class="gig-name">Gig 3 &mdash; Lead Lists &amp; Scraping</span>
+    <span class="gig-sub">First orders land here &middot; $100&ndash;400</span>
+</div>
+<div class="gig-body">
+    <h4 class="small-sub">Title options</h4>
+    <div class="copybox">
+        <div class="copy-meta"><span>Pick one</span><span>fiverr title</span></div>
+        <div class="copy-body">I will scrape any website into a clean lead list
+I will gather leads and contacts from any website
+I will build a targeted lead list for your business</div>
+    </div>
+
+    <h4 class="small-sub">Gig description</h4>
+    <div class="copybox tall">
+        <div class="copy-meta"><span>Paste &middot; gig description</span><span id="count-gig3">1,038 / 1,200 characters</span></div>
+        <div class="copy-body">Cold outreach works only when the list is real. Most people give up on outreach not because their pitch is bad, but because they&rsquo;re pitching a list that was stale the day they bought it.
+
+You tell me the exact type of business you&rsquo;re after &mdash; every roofing company in Ohio with a website, every dental clinic in Texas, every wedding venue within 50 miles of Chicago. I go get them: company name, phone, email, website, plus whatever extras you need.
+
+You get a clean spreadsheet, not a copy-paste mess. Deduplicated, obviously junk rows removed, columns labeled like a human did it &mdash; because one did.
+
+I use tools that handle difficult websites, so I can usually reach data that cheaper gigs can&rsquo;t. If a source turns out to be locked down, I&rsquo;ll tell you before you pay, not after.
+
+BASIC is 500 rows from one source. STANDARD is 2,000 rows with phones and emails, junk-filtered. PREMIUM is 5,000 rows with verified emails and one free refresh a month later.
+
+Tell me the niche and the city. I&rsquo;ll confirm what&rsquo;s possible within a few hours.</div>
+    </div>
+
+    <h4 class="small-sub">Packages</h4>
+    <table>
+        <thead><tr><th style="width:16%">Tier</th><th style="width:14%">Price</th><th style="width:14%">Delivery</th><th>What they get</th></tr></thead>
+        <tbody>
+            <tr><td>Basic</td><td>$100</td><td>2 days</td><td>500 rows from one source, clean spreadsheet, labeled columns</td></tr>
+            <tr><td>Standard</td><td>$250</td><td>3 days</td><td>2,000 rows + phones and emails, deduplicated, junk-filtered</td></tr>
+            <tr><td>Premium</td><td>$400</td><td>5 days</td><td>5,000 rows + verified emails + one free refresh after 30 days</td></tr>
+        </tbody>
+    </table>
+
+    <h4 class="small-sub">Search tags</h4>
+    <div class="tag-row">
+        <span class="tag">lead generation</span><span class="tag">web scraping</span><span class="tag">data mining</span><span class="tag">email list</span><span class="tag">b2b leads</span>
+    </div>
+
+    <h4 class="small-sub">FAQ</h4>
+    <div class="copybox">
+        <div class="copy-meta"><span>Paste &middot; FAQ</span><span>3 entries</span></div>
+        <div class="copy-body"><strong>Are the emails verified?</strong>
+On Premium, yes. On Standard they&rsquo;re cleaned of obvious junk. I won&rsquo;t sell you a list I wouldn&rsquo;t use myself.
+
+<strong>Is this legal?</strong>
+I only collect public business information &mdash; pages anyone can open in a browser. No logins, no paid databases, no personal data.
+
+<strong>What if a site blocks you?</strong>
+You pay nothing. I confirm what&rsquo;s reachable before you order, so neither of us wastes time.</div>
+    </div>
+</div>
+</div>
+
+<h3 class="sub">Your Fiverr profile blurb</h3>
+<div class="copybox">
+    <div class="copy-meta"><span>Paste &middot; about section</span><span>profile</span></div>
+    <div class="copy-body">Hi, I&rsquo;m Mike. I build small automations that quietly run whole back offices &mdash; missed-call texters, review replies, invoice reminders, chatbots that answer at 3 a.m.
+
+Local trades in Baltimore buy them from me flat-fee, and every one gets the same treatment: a screen recording of it working before payment, plain-English delivery, and you own everything outright.
+
+If your task is repetitive, it&rsquo;s probably automatable. If it&rsquo;s not, I&rsquo;ll say so before you spend a dollar &mdash; that&rsquo;s the deal.</div>
+</div>
+
+<!-- ========== SECTION 5 ========== -->
+<div class="chapter-header">
+    <div class="section-tag">Section 05 &middot; Lane B, the proposals</div>
+    <div class="section-title">The Upwork kit</div>
+</div>
+
+<p class="lead">Fiverr waits for buyers to come to you. Upwork is where you go to them. Same skills, opposite direction &mdash; and proposals are a different sport than listings. A proposal is read in twenty seconds by someone with forty-nine more to read. Every word fights for its place.</p>
+
+<h3 class="sub">Profile</h3>
+<div class="copybox">
+    <div class="copy-meta"><span>Paste &middot; profile headline + overview</span><span>upwork profile</span></div>
+    <div class="copy-body"><strong>Headline:</strong> Automation Builder | n8n Workflows, AI Chatbots, Lead Lists
+
+<strong>Overview:</strong>
+
+You have a task that eats an hour a day. I turn it into software that costs you zero hours.
+
+I&rsquo;ve built missed-call texters for plumbers, review-reply systems for roofers, invoice chasers for handymen, and chatbots that answer small-business phones at 3 a.m. Flat prices. A screen recording of the finished build before you approve. You own everything outright.
+
+Three ways to start: tell me the task, tell me the outcome, or just send the job post you&rsquo;d normally hand to someone. I&rsquo;ll reply with a plan, a price, and one question that proves I actually read it.</div>
+</div>
+
+<h3 class="sub">The proposal formula &mdash; five lines, never more</h3>
+<div class="card">
+    <div class="card-label">The 5-line structure</div>
+    <ol style="margin:6px 0 0 0; padding-left:20px">
+        <li><strong>Mirror their words.</strong> Quote one line from their job post back at them. It proves you read it.</li>
+        <li><strong>The fix in one sentence.</strong> Plain English. No feature lists.</li>
+        <li><strong>One line of proof.</strong> A specific, similar build. &ldquo;Same bones&rdquo; is the phrase that does the work.</li>
+        <li><strong>Price and days.</strong> Firm numbers. Confidence reads as competence.</li>
+        <li><strong>One smart question.</strong> It starts the conversation before they&rsquo;ve even hired you.</li>
+    </ol>
+</div>
+
+<h3 class="sub">Worked example 1 &mdash; an automation job post</h3>
+<p>The client posted: <em>&ldquo;Need help setting up automation: attachments from Gmail get sorted into Google Drive folders, then notify our Slack.&rdquo;</em></p>
+<div class="copybox">
+    <div class="copy-meta"><span>Paste-ready proposal &middot; adapt names</span><span>~120 words</span></div>
+    <div class="copy-body">Hi Sara,
+
+&ldquo;Attachments pile up in Gmail and nobody sorts them&rdquo; &mdash; that&rsquo;s the whole job, done cleanly: one workflow that filters by sender, saves each attachment into the right Drive folder by date, and pings your Slack with the file name and folder.
+
+I&rsquo;ve built this exact pattern for a plumbing client (invoices, not attachments &mdash; same bones). Two days, $180, and you see a screen recording of it working before you approve.
+
+One question: should files older than 90 days move to an archive folder, or stay where they land?
+
+&mdash; Mike</div>
+</div>
+
+<h3 class="sub">Worked example 2 &mdash; a lead list job post</h3>
+<p>The client posted: <em>&ldquo;Looking for someone to compile a list of dentists in Texas with contact info for our outreach.&rdquo;</em></p>
+<div class="copybox">
+    <div class="copy-meta"><span>Paste-ready proposal &middot; adapt names</span><span>~110 words</span></div>
+    <div class="copy-body">Hi Marco,
+
+Dentists in Texas: from public directories, roughly 3,000+ practices with phone and website, with emails showing up on about 60% of them. The rest simply don&rsquo;t publish one.
+
+You get a clean spreadsheet &mdash; deduplicated, junk rows removed, no duplicate metros. I&rsquo;ll flag the multi-location chains so you can treat them separately.
+
+Three days, $300, and I confirm reachability before you pay anything.
+
+One question: should the list skip the big dental chains entirely, or include them flagged?
+
+&mdash; Mike</div>
+</div>
+
+<div class="warn">
+    <div class="card-label">Upwork rules that protect the account</div>
+    <p style="margin:0">Proposals cost Connects, so spend them like quarters, not confetti: only on jobs posted within the last 24 hours with fewer than 10 proposals, and only when the client has payment verified. Reply to every response within the hour &mdash; response speed moves you up the list. And the same wall rule as Fiverr applies: no phone numbers, no personal emails, no off-platform contact until a contract exists. Upwork suspends accounts for it, and they don&rsquo;t warn twice.</p>
+</div>
+
+<!-- ========== SECTION 6 ========== -->
+<div class="chapter-header">
+    <div class="section-tag">Section 06 &middot; The proof feed</div>
+    <div class="section-title">Two Instagram posts</div>
+</div>
+
+<p class="lead">Instagram is where you stop telling people what you can do and start showing it. One story post, one screen-recorded Reel. Both captions use the full 2,200-character budget because caption length is free real estate &mdash; every line feeds the algorithm a reason to stay.</p>
+
+<div class="card">
+    <div class="card-label">The mechanics, once, quickly</div>
+    <ul class="tight" style="margin-bottom:0">
+        <li><strong>The fold:</strong> only the first ~125 characters show before &ldquo;&hellip;more.&rdquo; The hook line lives there.</li>
+        <li><strong>Hashtags:</strong> 10&ndash;12, posted as the first comment, not in the caption. Sets are below.</li>
+        <li><strong>Bio link:</strong> one link only &mdash; <span class="mono">mikebuilds.tech/automation</span>. Every post points there.</li>
+        <li><strong>Timing:</strong> 6&ndash;9 p.m. local. Trades check their phones after dinner, not during a job.</li>
+        <li><strong>The first hour:</strong> reply to every single comment. The algorithm watches that hour.</li>
+        <li><strong>Format:</strong> Post 1 works as a single image or a 3-slide carousel. Post 2 is a Reel &mdash; screen recording, captions burned in, phone-vertical.</li>
+    </ul>
+</div>
+
+<h3 class="sub">Post 1 &mdash; the story post</h3>
+<p><strong>Visual:</strong> a single bold image &mdash; a phone on a truck dashboard, screen lit with an incoming call no one can answer, and one line of text over it: <em>&ldquo;The most expensive sound in his business.&rdquo;</em> Three slides if you want: the ringing phone / the text landing / the booked calendar.</p>
+
+<div class="copybox tall">
+    <div class="copy-meta"><span>Paste &middot; full caption</span><span id="count-ig1">2,118 / 2,200 characters &middot; 82 left in reserve</span></div>
+    <div class="copy-body">A plumber in Baltimore told me the most expensive sound in his business.
+
+It&rsquo;s not a broken truck. Not a lawsuit. It&rsquo;s a phone ringing in an empty van while he&rsquo;s elbow-deep under someone&rsquo;s sink.
+
+He can&rsquo;t answer. So the caller hangs up, opens Google, and dials the next name on the list. Sixty seconds. That&rsquo;s all it took to hand a $400 job to a competitor. 📞
+
+Here&rsquo;s what I built him: when a call goes unanswered, the customer gets a text within ten seconds. &ldquo;Hi, this is Dave&rsquo;s Plumbing &mdash; we&rsquo;re on a job right now. Can we call you back in 20?&rdquo;
+
+The customer feels seen. They wait. Dave books the job he would&rsquo;ve lost.
+
+His reaction the first time he watched it fire: &ldquo;That&rsquo;s it? That&rsquo;s all it does?&rdquo; Yes, man. That&rsquo;s all it does. And it does it every single time &mdash; 2 p.m., 2 a.m., Thanksgiving, mid-thunderstorm &mdash; without him ever touching it.
+
+Think about how many of those calls happen in a week. Two a day at $400 a job is $3,200 a month walking out the door and straight into somebody else&rsquo;s. No contract, no warning, no way to track it. Just silence where a customer used to be. 🔕
+
+The fix runs itself. No app to learn, no monthly fee, no &ldquo;platform.&rdquo; Every single time it fires, the customer gets a human-sounding answer from a business that supposedly couldn&rsquo;t pick up. 🔧
+
+I&rsquo;m Mike. I build small, quiet software for people who work with their hands &mdash; plumbers, roofers, electricians, HVAC crews, the people who keep this city running. I don&rsquo;t do contracts, retainers, or tech vocabulary. You tell me what&rsquo;s leaking time and money out of your business, and I fix it. Flat price. You own it. It&rsquo;s a lot less fancy than it sounds, and that&rsquo;s exactly why it works.
+
+The missed-call texter is $400, one time. It pays for itself the first week it saves a single job.
+
+Know a tradesman whose phone rings off the hook while his hands are full? Send this to them. It might be the most useful 60 seconds of their day. 🛠️
+
+👇 Tell me in the comments: what&rsquo;s the ONE task you&rsquo;d hand off first if software could take it off your plate tomorrow?
+
+(90-second demo at the link in my bio &mdash; watch it work before you believe it.)</div>
+</div>
+
+<div class="copybox">
+    <div class="copy-meta"><span>Paste &middot; first comment</span><span>hashtag set 1</span></div>
+    <div class="copy-body">#baltimore #smallbusiness #plumber #electrician #hvac #tradesmen #bluecollar #localbusiness #contractor #shoplocal #homerenovation #supportlocalbusiness</div>
+</div>
+
+<h3 class="sub">Post 2 &mdash; the demo Reel</h3>
+<p><strong>Visual (the Reel script):</strong> one take, phone screen recording, captions burned in. 0&ndash;3s: cold open, a call ringing out on screen with the caption &ldquo;nobody&rsquo;s answering.&rdquo; 3&ndash;10s: the text lands on screen: <em>&ldquo;we&rsquo;re on a job &mdash; can we call you back in 20?&rdquo;</em> 10&ndash;20s: the customer replies &ldquo;sounds good.&rdquo; 20&ndash;30s: the calendar fills itself. Final frame: <em>&ldquo;software did this. no human touched it.&rdquo;</em> Under 40 seconds, no cuts, no music needed.</p>
+
+<div class="copybox tall">
+    <div class="copy-meta"><span>Paste &middot; full caption</span><span id="count-ig2">2,178 / 2,200 characters &middot; 22 left in reserve</span></div>
+    <div class="copy-body">POV: you&rsquo;re a one-man roofing company and your office manager is 40 lines of code. 🤖
+
+This is a screen recording of software answering a phone call on its own. No human. Watch the caller ask about a quote, watch the assistant answer with the exact service-call rate, check the calendar, and book the appointment. Elapsed time: 38 seconds. ⏱️
+
+The owner? On a roof. Where he should be.
+
+Skeptical? Good. Half the AI stuff out there makes things up and embarrasses the owner in front of his own customers. This one can&rsquo;t improvise &mdash; it knows his prices, his calendar, and when to hand a call to a human. That&rsquo;s the whole job.
+
+I&rsquo;m building a tiny automation studio out of my apartment in Baltimore, and this is how it works now: every week I build one thing that quietly runs a small business&rsquo;s back office &mdash; missed-call texters, review repliers, invoice chasers, a receptionist that never sleeps. Then I record it working and post it here. No mockups. No concepts. No &ldquo;coming soon.&rdquo; Only things that already run, posted the day they do. ✅
+
+This week&rsquo;s build costs the roofer $297 a month and answers every call he misses, 24/7, in a friendly voice that knows his prices and his calendar. Before it existed, his after-hours calls went to voicemail. And you already know nobody leaves a voicemail anymore &mdash; they just call the next company. Eight out of ten of them, every night.
+
+Here&rsquo;s the part nobody tells you about a real receptionist: salary, desk, lunch breaks, weekends off. This one needs none of that, never has a bad Monday, and the math is stupid &mdash; one saved job a month covers her, and she saves way more than one.
+
+Next week&rsquo;s build: the invoice chaser. The polite robot that reminds customers about unpaid invoices on a schedule, so the owner never has to make that awkward money call again. The good-guy reflex is why small businesses go broke &mdash; the robot doesn&rsquo;t have one. 🧾
+
+Drop a 🧾 if you want to see it built next.
+
+What&rsquo;s a task you&rsquo;d automate tomorrow if it cost less than your phone bill? Comment below &mdash; the most upvoted answer becomes a future build, posted here, working or it doesn&rsquo;t get posted at all. 👇
+
+(Demo link in bio. 90 seconds, worth every one.)</div>
+</div>
+
+<div class="copybox">
+    <div class="copy-meta"><span>Paste &middot; first comment</span><span>hashtag set 2</span></div>
+    <div class="copy-body">#buildinpublic #automation #n8n #aiassistant #solopreneur #smallbusinessowner #sideproject #baltimore #entrepreneur #techbuilder</div>
+</div>
+
+<!-- ========== SECTION 7 ========== -->
+<div class="chapter-header">
+    <div class="section-tag">Section 07 &middot; The honest verdicts</div>
+    <div class="section-title">Substack, Gumroad &mdash; and what to run instead</div>
+</div>
+
+<p class="lead">You asked whether those two platforms fit this play. Straight answer, no hedging: not this quarter. Here&rsquo;s the reasoning, what replaces each, and exactly when the door reopens.</p>
+
+<h3 class="sub">Substack &mdash; skip it</h3>
+<p>Newsletter readers are other builders, writers, and marketers &mdash; not people with plumbing emergencies and $400 checks. A newsletter pays in 6 to 12 months of consistency. Your clock says eight weeks. Publishing weekly would also eat the exact writing hours that should go into gig descriptions and proposals, which reach actual buyers this month. Wrong audience, wrong clock. That&rsquo;s the whole verdict.</p>
+<p>The writing habit doesn&rsquo;t die, though &mdash; it moves. Every week you&rsquo;ll already be writing one Instagram caption and two proposals. That&rsquo;s the same muscle, aimed at people who can pay you now. Revisit Substack in January as the content arm of the 2027 portfolio, when you&rsquo;re selling to builders instead of tradesmen.</p>
+
+<h3 class="sub">Gumroad &mdash; not yet, by your own rule</h3>
+<p>The playbook&rsquo;s Lane C gate: <strong>two paying clients before a product exists.</strong> You set that rule because it&rsquo;s correct. Right now a Gumroad storefront is a shelf with nothing on it, and setting it up would burn a weekend you don&rsquo;t have between WGU, recovery, and the sprint.</p>
+<p>Do this instead: keep a note file called <span class="mono">product-seeds.txt</span>. Every time you build the same thing twice &mdash; the second missed-call texter, the second review robot &mdash; it goes in the file. The moment two plumbers are running the same automation, that build becomes your first $27 template and the store opens in December with something real on the shelf. The trigger is client number two, not a date on a calendar.</p>
+
+<h3 class="sub">What replaces them &mdash; four free lead sources</h3>
+<table>
+    <thead><tr><th style="width:24%">Platform</th><th style="width:38%">Why it fits this play</th><th>The one move</th></tr></thead>
+    <tbody>
+        <tr><td><strong>Google Business Profile</strong></td><td>Free local anchor. Tradesmen google &ldquo;website guy Baltimore&rdquo; the same way you google parts suppliers.</td><td>Create it once, category &ldquo;Internet marketing service.&rdquo; Every happy client gets asked for a review there. Photos of your builds, weekly.</td></tr>
+        <tr><td><strong>Nextdoor</strong></td><td>The audience is homeowners who hire trades &mdash; and their neighbors trust neighbor posts more than any ad.</td><td>Free business page, then answer questions in local threads as Mike-from-the-neighborhood. Helpful first, link never.</td></tr>
+        <tr><td><strong>Craigslist</strong></td><td>Ugly, ancient, still browsed weekly by tradesmen looking for exactly what you sell.</td><td>One post per week in computer services. Plain text, phone number visible. This is the one place your text-first pitch fits perfectly.</td></tr>
+        <tr><td><strong>Facebook local groups</strong></td><td>Every neighborhood has a &ldquo;recommend a plumber&rdquo; thread. Those threads are your lead list reading itself aloud.</td><td>Answer questions, never pitch. When someone needs a website guy, three neighbors will tag you if you&rsquo;ve been useful.</td></tr>
+    </tbody>
+</table>
+
+<h3 class="sub">Two uncommon resources</h3>
+<ul class="tight">
+    <li><strong>The r/n8n workflow gallery.</strong> Free gig ideas forever &mdash; every posted workflow is a product someone, somewhere, would pay to have set up. Answer questions there and your credibility compounds while you sleep. It&rsquo;s also the cheapest research on what businesses actually struggle with.</li>
+    <li><strong>The Fiverr forum&rsquo;s &ldquo;Improve my gig&rdquo; thread.</strong> Senior sellers review your actual listing, line by line, for free. Real feedback on real copy from people who&rsquo;ve processed thousands of orders. Almost nobody new uses it. That&rsquo;s your edge &mdash; post your three gigs there in week two, after you&rsquo;ve got impressions data to share.</li>
+</ul>
+
+<!-- ========== SECTION 8 ========== -->
+<div class="chapter-header">
+    <div class="section-tag">Section 08 &middot; The cadence</div>
+    <div class="section-title">The weekly rhythm</div>
+</div>
+
+<p class="lead">This fits around WGU, recovery, and rest &mdash; 45 minutes a day, never more. Saturday stays where you put it: the realtor lane. Sunday stays empty, because a sprint you burn out of in week three is a sprint you lose.</p>
+
+<p>What the Sunday numbers tell you, and what to change when they go quiet: Fiverr impressions flat after two weeks means the gig image, not the copy &mdash; remake the first image before touching a word. Proposal replies under one in ten means your first line isn&rsquo;t mirroring their words closely enough. Text replies under one in five means the demo video is arriving too late in the conversation &mdash; offer it in message one. Every stall has one specific fix. Change one thing at a time so you know what worked.</p>
+
+<table>
+    <thead><tr><th style="width:14%">Day</th><th style="width:30%">The one job</th><th style="width:16%">Time</th><th>Notes</th></tr></thead>
+    <tbody>
+        <tr><td><strong>Mon</strong></td><td>Fiverr messages + 2 Upwork proposals</td><td>40 min</td><td>Fresh job posts from the weekend are live &mdash; early proposals rank higher</td></tr>
+        <tr><td><strong>Tue</strong></td><td>Reply to every IG comment</td><td>10 min</td><td>WGU-heavy day. Nothing else scheduled on purpose</td></tr>
+        <tr><td><strong>Wed</strong></td><td>5 upsell texts (Script A or B)</td><td>20 min</td><td>Warm list only. Record a 90-second demo if anyone bites</td></tr>
+        <tr><td><strong>Thu</strong></td><td>2 Upwork proposals + refresh Craigslist post</td><td>35 min</td><td>Craigslist post takes 5 minutes, keeps you at the top of the pile</td></tr>
+        <tr><td><strong>Fri</strong></td><td>One IG post, then work the first hour of comments</td><td>45 min</td><td>Post 6&ndash;9 p.m. The kit&rsquo;s two posts cover weeks one and two</td></tr>
+        <tr><td><strong>Sat</strong></td><td>Realtor lane (AssetForge, already covered)</td><td>&mdash;</td><td>Not this kit&rsquo;s job. Keep the lanes separate like you planned</td></tr>
+        <tr><td><strong>Sun</strong></td><td>Off. Three numbers in a note: replies, orders, cash</td><td>5 min</td><td>Tracking is the whole task. If it&rsquo;s not counted, it didn&rsquo;t happen</td></tr>
+    </tbody>
+</table>
+
+<!-- ========== SECTION 9 ========== -->
+<div class="chapter-header">
+    <div class="section-tag">Section 09 &middot; Apprentice training</div>
+    <div class="section-title">Three drills before you publish</div>
+</div>
+
+<p class="lead">Marketing material only works when it sounds like you saying it, not a document agreeing with you. These three drills put the voice in your mouth. Fifteen minutes each, done out loud, not in your head.</p>
+
+<div class="card">
+    <div class="card-label">Drill 1 &middot; De-slop the sentence</div>
+    <p>Read this out loud &mdash; it&rsquo;s the kind of sentence that gets gigs skipped:</p>
+    <p style="font-style:italic; color:#716150">&ldquo;I will utilize premium end-to-end automation solutions engineered for your enterprise requirements.&rdquo;</p>
+    <p style="margin-bottom:4px"><strong>Your turn:</strong> rewrite it so a roofer would nod. Fix it for meaning first, then say your version three times out loud until it&rsquo;s yours.</p>
+    <p class="small-note" style="margin:0"><strong>One fix:</strong> &ldquo;Tell me the task that eats your hour. I&rsquo;ll make it cost zero.&rdquo; Same offer. Ninety percent fewer words. That gap between the two sentences is the entire difference between marketing that gets read and marketing that gets scrolled.</p>
+</div>
+
+<div class="card">
+    <div class="card-label">Drill 2 &middot; The Dave replay, stage two</div>
+    <p>Dave bought the website Tuesday. It&rsquo;s Friday, and you just sent Script A. He replies:</p>
+    <p style="font-style:italic; color:#716150">&ldquo;how does it even work? I miss calls all day lol&rdquo;</p>
+    <p style="margin-bottom:4px"><strong>Your turn:</strong> draft the next text. Rules: under 30 words, no tech words, one question at the end.</p>
+    <p class="small-note" style="margin:0"><strong>One fix:</strong> &ldquo;next call you miss, watch your phone &mdash; the customer gets a text from you in 10 seconds, before they can call anyone else. want me to run it for a week free so you can see it fire?&rdquo; A free week is a $400 sale with training wheels. He watches it save a job, then he pays.</p>
+</div>
+
+<div class="card">
+    <div class="card-label">Drill 3 &middot; The 90-second video</div>
+    <p>Every offer in this kit ends in the same place: a demo video. So record the template one &mdash; a fake plumbing company, one take, phone camera on the screen, no editing:</p>
+    <ul class="tight" style="margin-bottom:4px">
+        <li><strong>0&ndash;5s:</strong> &ldquo;This is what happens when a plumber misses a call.&rdquo; Show the ringing phone. Let it ring out. Silence is the hook.</li>
+        <li><strong>5&ndash;15s:</strong> The money math on screen: &ldquo;one lost job pays for this twice.&rdquo;</li>
+        <li><strong>15&ndash;60s:</strong> The demo. The text lands. The customer replies. The calendar fills. Narrate plainly, no excitement &mdash; deadpan sells machinery.</li>
+        <li><strong>60&ndash;75s:</strong> &ldquo;$400, it&rsquo;s yours, no monthly fee. Text me.&rdquo; Phone number on screen, twice.</li>
+    </ul>
+    <p class="small-note" style="margin:0">This video is the workhorse: it closes texts, fills the Instagram bio link, and becomes the Fiverr gig video with the number cut out. Record it once, use it everywhere. Bad first take beats perfect never-recorded &mdash; every time.</p>
+</div>
+
+<p style="margin-top:18px">That&rsquo;s the whole kit. The menu gives you stage two for every Charm City sale. The gigs give you a storefront that sells while you&rsquo;re in class. The posts give you proof that compounds. The factories are built. Now every word sells.</p>
+
+<div class="card">
+    <div class="card-label">Tonight &middot; the launch checklist</div>
+    <p style="margin-bottom:6px">Everything above is paste-ready. This is the order to paste it in, and the whole thing is one evening:</p>
+    <div class="checkline"><span class="tick">&#10003;</span><span>Create the Fiverr account, fill every profile field, paste the blurb from Section 4.</span></div>
+    <div class="checkline"><span class="tick">&#10003;</span><span>Publish all three gigs &mdash; titles, descriptions, packages, tags, FAQs straight from the kit.</span></div>
+    <div class="checkline"><span class="tick">&#10003;</span><span>Record the 90-second demo video using Drill 3&rsquo;s script. One take. Phone camera. Done beats perfect.</span></div>
+    <div class="checkline"><span class="tick">&#10003;</span><span>Build <span class="mono">mikebuilds.tech/automation</span> from the Section 2 blocks. Hidden page, no menu, phone number twice.</span></div>
+    <div class="checkline"><span class="tick">&#10003;</span><span>Load Post 1 into Instagram as a draft. Caption, first-comment hashtags, bio link set.</span></div>
+    <div class="checkline"><span class="tick">&#10003;</span><span>Set the weekly rhythm from Section 8 into your phone calendar, 45 minutes a day.</span></div>
+    <div class="checkline"><span class="tick">&#10003;</span><span>Create the <span class="mono">product-seeds.txt</span> note. First entry: the missed-call texter you&rsquo;re about to sell twice.</span></div>
+    <p style="margin:8px 0 0 0" class="small-note">When all seven boxes are checked, the sprint has officially started &mdash; and the next thing that happens is a stranger paying you money. That part is on you.</p>
+</div>
+
+</div>
+
+<!-- ==================== ENDING ==================== -->
+<div class="ending">
+    <div class="bg-layer"></div>
+    <div class="content">
+        <div class="end-tag">Mike Builds &middot; Marketing Kit</div>
+        <div class="big-text">The factories are built.<br>Now every word <span class="amber">sells.</span></div>
+        <div class="end-sub">Three gigs tonight. One menu page this week. Two posts before Friday. Everything else keeps its date in December.</div>
+    </div>
+    <div class="end-meta">
+        <span class="site">mikebuilds.tech</span>
+        <span>The $2K Sprint Playbook</span>
+        <span>September 2026</span>
+    </div>
+</div>
+
+</body>
+</html>

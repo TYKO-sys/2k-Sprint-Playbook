@@ -1,0 +1,397 @@
+THE AUTOMATION MECHANIC - MARKETING KIT
+Copy-Paste Companion | mikebuilds.tech | September 2026
+========================================================
+
+Everything in this file is lifted verbatim from the PDF kit. Paste it where
+the section says. Character counts are checked against platform limits:
+Fiverr titles <= 80, descriptions <= 1,200. Instagram captions <= 2,200.
+
+
+========================================================
+SECTION 00 - READ THIS FIRST: THE MAP
+========================================================
+
+mikebuilds.tech        -> bare front porch. links to nothing.
+mikebuilds.tech/plumber   -> Charm City sites (marketing done - don't touch)
+mikebuilds.tech/realtor   -> AssetForge packs (marketing done - don't touch)
+mikebuilds.tech/automation -> the four add-ons (copy below)
+
+
+--------------------------------------------------------
+>> Paste · page headline block  [automation page]
+--------------------------------------------------------
+FOR BALTIMORE TRADES
+
+Your back office runs itself.
+
+You answer calls, fix pipes, and get home before dark. I build the quiet software that handles everything else — the missed calls, the reviews nobody replies to, the invoices nobody chases.
+
+One flat price. No monthly fees. You own it outright.
+
+
+--------------------------------------------------------
+>> Paste · service menu block, part 1  [automation page]
+--------------------------------------------------------
+Pick your leak.
+
+The Missed-Call Texter — $400 once. Someone calls, you’re elbow-deep in a job, they hang up and dial the next name on Google. This texts them back in ten seconds and holds the job for you.
+
+The Review Robot — $300 once. Your Google reviews sit there unanswered, and it makes you look closed. This replies to every one, in your voice, within the hour — even at 2 a.m.
+
+
+--------------------------------------------------------
+>> Paste · service menu block, part 2  [automation page]
+--------------------------------------------------------
+The Invoice Chaser — $300–500 once. The polite robot that reminds customers about unpaid invoices on a schedule, so you never make the awkward money call again.
+
+The 24/7 Receptionist — $297/month. A friendly voice that answers every call you miss, quotes your service fee, and books the job on your calendar. She never sleeps and never has a bad Monday.
+
+
+--------------------------------------------------------
+>> Paste · how it works block  [automation page]
+--------------------------------------------------------
+How it works
+
+1. Text me what’s bugging you. One sentence is enough. “I miss calls all day” counts.
+
+2. Within a day you get a 90-second video of it already working, on a fake version of your business. You watch it fix the problem before you’ve paid a dollar.
+
+3. You like it, I flip it on for real. Most things are live within 48 hours. If it’s not running in 7 days, you don’t pay.
+
+
+--------------------------------------------------------
+>> Paste · FAQ block, part 1  [automation page]
+--------------------------------------------------------
+Fair questions
+
+Is this AI? Some of it. It’s the boring kind — it follows your rules exactly and doesn’t improvise. You approve the words before a single customer sees them.
+
+Will it spam my customers? No. Every message uses your voice, and every message stops the second someone says stop. It’s a polite employee, not a marketer.
+
+I already have a website. Great — none of this touches your website. It bolts onto the side of your business, not your site.
+
+
+--------------------------------------------------------
+>> Paste · FAQ block, part 2  [automation page]
+--------------------------------------------------------
+Why is there no monthly fee? Because you pay me once and it keeps working. That’s the whole point. (The receptionist is the one exception — she’s answering calls around the clock, so she’s on salary.)
+
+What if it breaks? Text me. Fixes are free for the first 30 days, and fast after that.
+
+Text Mike — 410-575-4192. A human answers.
+
+
+--------------------------------------------------------
+>> Paste · text sequence  [day 3 after site purchase]
+--------------------------------------------------------
+dave — mike here. site’s been live 3 days, wanted to ask you something: on a normal tuesday, how many calls do you miss?
+
+[he’ll answer with a number. whatever it is, reply:]
+
+that’s what I figured. I built something that texts every one of those callers back in 10 seconds — “we’re on a job, we’ll call you right back.” keeps them off the next guy’s google result. $400 flat, running by tomorrow night. want the 90-second video of it working?
+
+[send video. then silence. the video closes, not you.]
+
+
+--------------------------------------------------------
+>> Paste · text sequence  [2 days after a “no”]
+--------------------------------------------------------
+no worries man. real talk though — the website was the expensive thing I do.
+
+got something smaller. you know how your google reviews never get replies? makes you look closed. I can fix that for $300 flat, takes me a day. want to see it working on a fake company first?
+
+
+--------------------------------------------------------
+>> Paste · text reply  [when they ask about fees]
+--------------------------------------------------------
+no monthly. $400 once and it’s yours. i’m not a phone company, man — i’m the guy who fixes the leak.
+
+
+--------------------------------------------------------
+>> Pick one  [fiverr title]
+--------------------------------------------------------
+I will build n8n workflow automation for your business
+I will automate your repetitive tasks using n8n
+I will set up n8n workflows that run while you sleep
+
+
+--------------------------------------------------------
+>> Paste · gig description  [905 / 1,200 characters]
+>> length: 905 characters
+--------------------------------------------------------
+You do the same three tasks every week. Moving emails into a spreadsheet. Sending the same replies. Copying orders between apps. It eats hours and pays nothing.
+
+I build the software that does it for you.
+
+Here’s how it works: you tell me the task, and I turn it into a workflow that runs on its own — every day, at the exact time you want, without you touching anything. You see a screen recording of it working before you pay a cent.
+
+No jargon. No monthly retainer. You own the workflow outright, and I show you exactly how to pause, restart, or edit it yourself.
+
+BASIC covers one simple task. STANDARD connects your apps and adds error alerts so you know the moment anything needs you. PREMIUM is a full system — up to three workflows, a walkthrough video, and 14 days of free fixes.
+
+Send me the task that eats your week. If I can’t automate it, I’ll tell you for free — before you order, not after.
+
+
+--------------------------------------------------------
+>> Paste · FAQ  [3 entries]
+--------------------------------------------------------
+Do I need to know anything technical?
+No. You get a video showing exactly where to click. If you can order pizza online, you can run this.
+
+What is n8n?
+Free software that connects your apps and moves data between them, around the clock. Think of it as a clerk who works for free and never sleeps.
+
+What if it breaks?
+Every package includes a fix window (7 or 14 days). After that, repairs are a small flat fee — and you’ll have the backup file either way.
+
+
+--------------------------------------------------------
+>> Pick one  [fiverr title]
+--------------------------------------------------------
+I will build an AI chatbot that answers customers 24/7
+I will create a custom AI chatbot for your website
+I will set up an AI assistant that never sleeps
+
+
+--------------------------------------------------------
+>> Paste · gig description  [978 / 1,200 characters]
+>> length: 978 characters
+--------------------------------------------------------
+A customer visits your site at 11 p.m., has one question, finds no answer, and leaves. That’s the entire story of your lost night sales. It happens every single night.
+
+I build a chatbot that answers them — trained on your own information. Your prices, your hours, your policies, your tone. And when a question goes past what it knows, it hands the conversation to you with a tidy summary instead of guessing.
+
+How it works: you send me your info (or just your website link — I’ll pull it apart myself). I build the bot, test it with 20 real customer questions, and send you a video of it handling all of them. You approve. It goes live.
+
+BASIC is a chatbot for one page with your 10 most common questions. STANDARD learns your whole site and hands off to your email. PREMIUM adds lead collection, a daily summary of every conversation, and 30 days of tuning.
+
+One revision round on every package. If your customers ask something it can’t answer in month one, I teach it — free.
+
+
+--------------------------------------------------------
+>> Paste · FAQ  [3 entries]
+--------------------------------------------------------
+Will it sound robotic?
+It uses your tone — casual if you’re casual, formal if you’re formal. I test it with real questions before you ever see it.
+
+Can it take orders or leads?
+It collects names, contact info, and what the customer wants. The summary lands in your inbox, ready to follow up.
+
+What do I need to run it?
+One free account. I send a short video showing exactly where to click.
+
+
+--------------------------------------------------------
+>> Pick one  [fiverr title]
+--------------------------------------------------------
+I will scrape any website into a clean lead list
+I will gather leads and contacts from any website
+I will build a targeted lead list for your business
+
+
+--------------------------------------------------------
+>> Paste · gig description  [1,038 / 1,200 characters]
+>> length: 1038 characters
+--------------------------------------------------------
+Cold outreach works only when the list is real. Most people give up on outreach not because their pitch is bad, but because they’re pitching a list that was stale the day they bought it.
+
+You tell me the exact type of business you’re after — every roofing company in Ohio with a website, every dental clinic in Texas, every wedding venue within 50 miles of Chicago. I go get them: company name, phone, email, website, plus whatever extras you need.
+
+You get a clean spreadsheet, not a copy-paste mess. Deduplicated, obviously junk rows removed, columns labeled like a human did it — because one did.
+
+I use tools that handle difficult websites, so I can usually reach data that cheaper gigs can’t. If a source turns out to be locked down, I’ll tell you before you pay, not after.
+
+BASIC is 500 rows from one source. STANDARD is 2,000 rows with phones and emails, junk-filtered. PREMIUM is 5,000 rows with verified emails and one free refresh a month later.
+
+Tell me the niche and the city. I’ll confirm what’s possible within a few hours.
+
+
+--------------------------------------------------------
+>> Paste · FAQ  [3 entries]
+--------------------------------------------------------
+Are the emails verified?
+On Premium, yes. On Standard they’re cleaned of obvious junk. I won’t sell you a list I wouldn’t use myself.
+
+Is this legal?
+I only collect public business information — pages anyone can open in a browser. No logins, no paid databases, no personal data.
+
+What if a site blocks you?
+You pay nothing. I confirm what’s reachable before you order, so neither of us wastes time.
+
+
+--------------------------------------------------------
+>> Paste · about section  [profile]
+--------------------------------------------------------
+Hi, I’m Mike. I build small automations that quietly run whole back offices — missed-call texters, review replies, invoice reminders, chatbots that answer at 3 a.m.
+
+Local trades in Baltimore buy them from me flat-fee, and every one gets the same treatment: a screen recording of it working before payment, plain-English delivery, and you own everything outright.
+
+If your task is repetitive, it’s probably automatable. If it’s not, I’ll say so before you spend a dollar — that’s the deal.
+
+
+--------------------------------------------------------
+>> Paste · profile headline + overview  [upwork profile]
+--------------------------------------------------------
+Headline: Automation Builder | n8n Workflows, AI Chatbots, Lead Lists
+
+Overview:
+
+You have a task that eats an hour a day. I turn it into software that costs you zero hours.
+
+I’ve built missed-call texters for plumbers, review-reply systems for roofers, invoice chasers for handymen, and chatbots that answer small-business phones at 3 a.m. Flat prices. A screen recording of the finished build before you approve. You own everything outright.
+
+Three ways to start: tell me the task, tell me the outcome, or just send the job post you’d normally hand to someone. I’ll reply with a plan, a price, and one question that proves I actually read it.
+
+
+--------------------------------------------------------
+>> Paste-ready proposal · adapt names  [~120 words]
+--------------------------------------------------------
+Hi Sara,
+
+“Attachments pile up in Gmail and nobody sorts them” — that’s the whole job, done cleanly: one workflow that filters by sender, saves each attachment into the right Drive folder by date, and pings your Slack with the file name and folder.
+
+I’ve built this exact pattern for a plumbing client (invoices, not attachments — same bones). Two days, $180, and you see a screen recording of it working before you approve.
+
+One question: should files older than 90 days move to an archive folder, or stay where they land?
+
+— Mike
+
+
+--------------------------------------------------------
+>> Paste-ready proposal · adapt names  [~110 words]
+--------------------------------------------------------
+Hi Marco,
+
+Dentists in Texas: from public directories, roughly 3,000+ practices with phone and website, with emails showing up on about 60% of them. The rest simply don’t publish one.
+
+You get a clean spreadsheet — deduplicated, junk rows removed, no duplicate metros. I’ll flag the multi-location chains so you can treat them separately.
+
+Three days, $300, and I confirm reachability before you pay anything.
+
+One question: should the list skip the big dental chains entirely, or include them flagged?
+
+— Mike
+
+
+--------------------------------------------------------
+>> Paste · full caption  [2,118 / 2,200 characters · 82 left in reserve]
+>> length: 2118 characters
+--------------------------------------------------------
+A plumber in Baltimore told me the most expensive sound in his business.
+
+It’s not a broken truck. Not a lawsuit. It’s a phone ringing in an empty van while he’s elbow-deep under someone’s sink.
+
+He can’t answer. So the caller hangs up, opens Google, and dials the next name on the list. Sixty seconds. That’s all it took to hand a $400 job to a competitor. 📞
+
+Here’s what I built him: when a call goes unanswered, the customer gets a text within ten seconds. “Hi, this is Dave’s Plumbing — we’re on a job right now. Can we call you back in 20?”
+
+The customer feels seen. They wait. Dave books the job he would’ve lost.
+
+His reaction the first time he watched it fire: “That’s it? That’s all it does?” Yes, man. That’s all it does. And it does it every single time — 2 p.m., 2 a.m., Thanksgiving, mid-thunderstorm — without him ever touching it.
+
+Think about how many of those calls happen in a week. Two a day at $400 a job is $3,200 a month walking out the door and straight into somebody else’s. No contract, no warning, no way to track it. Just silence where a customer used to be. 🔕
+
+The fix runs itself. No app to learn, no monthly fee, no “platform.” Every single time it fires, the customer gets a human-sounding answer from a business that supposedly couldn’t pick up. 🔧
+
+I’m Mike. I build small, quiet software for people who work with their hands — plumbers, roofers, electricians, HVAC crews, the people who keep this city running. I don’t do contracts, retainers, or tech vocabulary. You tell me what’s leaking time and money out of your business, and I fix it. Flat price. You own it. It’s a lot less fancy than it sounds, and that’s exactly why it works.
+
+The missed-call texter is $400, one time. It pays for itself the first week it saves a single job.
+
+Know a tradesman whose phone rings off the hook while his hands are full? Send this to them. It might be the most useful 60 seconds of their day. 🛠️
+
+👇 Tell me in the comments: what’s the ONE task you’d hand off first if software could take it off your plate tomorrow?
+
+(90-second demo at the link in my bio — watch it work before you believe it.)
+
+
+--------------------------------------------------------
+>> Paste · first comment  [hashtag set 1]
+--------------------------------------------------------
+#baltimore #smallbusiness #plumber #electrician #hvac #tradesmen #bluecollar #localbusiness #contractor #shoplocal #homerenovation #supportlocalbusiness
+
+
+--------------------------------------------------------
+>> Paste · full caption  [2,178 / 2,200 characters · 22 left in reserve]
+>> length: 2178 characters
+--------------------------------------------------------
+POV: you’re a one-man roofing company and your office manager is 40 lines of code. 🤖
+
+This is a screen recording of software answering a phone call on its own. No human. Watch the caller ask about a quote, watch the assistant answer with the exact service-call rate, check the calendar, and book the appointment. Elapsed time: 38 seconds. ⏱️
+
+The owner? On a roof. Where he should be.
+
+Skeptical? Good. Half the AI stuff out there makes things up and embarrasses the owner in front of his own customers. This one can’t improvise — it knows his prices, his calendar, and when to hand a call to a human. That’s the whole job.
+
+I’m building a tiny automation studio out of my apartment in Baltimore, and this is how it works now: every week I build one thing that quietly runs a small business’s back office — missed-call texters, review repliers, invoice chasers, a receptionist that never sleeps. Then I record it working and post it here. No mockups. No concepts. No “coming soon.” Only things that already run, posted the day they do. ✅
+
+This week’s build costs the roofer $297 a month and answers every call he misses, 24/7, in a friendly voice that knows his prices and his calendar. Before it existed, his after-hours calls went to voicemail. And you already know nobody leaves a voicemail anymore — they just call the next company. Eight out of ten of them, every night.
+
+Here’s the part nobody tells you about a real receptionist: salary, desk, lunch breaks, weekends off. This one needs none of that, never has a bad Monday, and the math is stupid — one saved job a month covers her, and she saves way more than one.
+
+Next week’s build: the invoice chaser. The polite robot that reminds customers about unpaid invoices on a schedule, so the owner never has to make that awkward money call again. The good-guy reflex is why small businesses go broke — the robot doesn’t have one. 🧾
+
+Drop a 🧾 if you want to see it built next.
+
+What’s a task you’d automate tomorrow if it cost less than your phone bill? Comment below — the most upvoted answer becomes a future build, posted here, working or it doesn’t get posted at all. 👇
+
+(Demo link in bio. 90 seconds, worth every one.)
+
+
+--------------------------------------------------------
+>> Paste · first comment  [hashtag set 2]
+--------------------------------------------------------
+#buildinpublic #automation #n8n #aiassistant #solopreneur #smallbusinessowner #sideproject #baltimore #entrepreneur #techbuilder
+
+
+========================================================
+APPENDIX - FIVERR TITLES (all under 80 characters)
+========================================================
+
+Gig 1 title options:
+  [54 chars] I will build n8n workflow automation for your business
+  [47 chars] I will automate your repetitive tasks using n8n
+  [52 chars] I will set up n8n workflows that run while you sleep
+
+Gig 2 title options:
+  [54 chars] I will build an AI chatbot that answers customers 24/7
+  [50 chars] I will create a custom AI chatbot for your website
+  [47 chars] I will set up an AI assistant that never sleeps
+
+Gig 3 title options:
+  [48 chars] I will scrape any website into a clean lead list
+  [49 chars] I will gather leads and contacts from any website
+  [51 chars] I will build a targeted lead list for your business
+
+========================================================
+APPENDIX - SEARCH TAGS (5 per gig, all under 20 characters)
+========================================================
+
+Gig 1: n8n, automation, workflow, zapier, business automation
+
+Gig 2: ai chatbot, chatbot, customer support, ai assistant, website chatbot
+
+Gig 3: lead generation, web scraping, data mining, email list, b2b leads
+
+========================================================
+APPENDIX - HASHTAG SETS (post as first comment)
+========================================================
+
+Post 1: #baltimore #smallbusiness #plumber #electrician #hvac #tradesmen #bluecollar #localbusiness #contractor #shoplocal #homerenovation #supportlocalbusiness
+
+Post 2: #buildinpublic #automation #n8n #aiassistant #solopreneur #smallbusinessowner #sideproject #baltimore #entrepreneur #techbuilder
+
+========================================================
+THE 90-SECOND DEMO VIDEO SCRIPT (Drill 3)
+========================================================
+
+0-5s   "This is what happens when a plumber misses a call."
+       Show the ringing phone. Let it ring out. Silence is the hook.
+5-15s  The money math on screen: "one lost job pays for this twice."
+15-60s The demo. The text lands. The customer replies. The calendar fills.
+       Narrate plainly, no excitement - deadpan sells machinery.
+60-75s "$400, it's yours, no monthly fee. Text me."
+       Phone number on screen, twice.
+
+One take. Phone camera on the screen. No editing. This video closes texts,
+fills the Instagram bio link, and becomes the Fiverr gig video with the
+number cut out. Record it once, use it everywhere.

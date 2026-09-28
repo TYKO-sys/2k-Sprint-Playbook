@@ -1,0 +1,940 @@
+TITLE: Linux / macOS
+CHARS: 34220
+URLS: 0
+HTML_HEADINGS: 41
+MD_HEADINGS: 0
+
+== HTML SECTION MAP ==
+Base64 Encoded Link
+Wiki
+Tools
+More
+Linux / macOS
+Linux Guides ​
+CLI Cheat Sheets ​
+Linux Communities ​
+Linux Distros ​
+Linux Apps ​
+Software Sites ​
+Linux System ​
+Linux Video ​
+Linux Audio ​
+Linux Image ​
+Productivity / Calendars ​
+Linux Gaming ​
+Linux Tools ​
+Adblock / Privacy ​
+Linux Internet ​
+Server / Selfhosting ​
+File Tools ​
+Android on Linux ​
+Terminal / Shell ​
+Raspberry Pi ​
+Customization ​
+Desktop Environment ​
+Window Managers ​
+Linux Themes ​
+Mac Apps ​
+Software Sites ​
+Mac Video ​
+Mac Audio ​
+Mac Image ​
+Mac Gaming ​
+Mac Tools ​
+Mac Adblock / Privacy ​
+Mac Internet ​
+System Tools ​
+File Tools ​
+Unix-Like ​
+
+== FULL TEXT ==
+Linux / macOS • freemediaheckyeah
+
+ Base64 Encoded Link 
+ The link you clicked leads to a Base64 encoded string. 
+To decode it, you can use:
+ An online tool: Base64 Decode 
+ A userscript: FMHY Base64 Auto Decoder (using a userscript manager ) 
+ For more options: Base64 Decoders 
+ Don't show again 
+ Cancel Open Link 
+
+Skip to content 
+FMHY 
+
+SearchK
+
+ Main Navigation 📑 Changelog 📖 Glossary 💾 Backups 🌱 Ecosystem🌐 Search 
+❓ FAQs 
+🔖 Bookmarks 
+✅ SafeGuard 
+🚀 Startpage 
+🔎 SearXNG 
+💡 Site Hunting 
+😇 SFW FMHY 
+🏠 Selfhosting 
+🏞 Wallpapers 
+💙 Feedback 
+
+Appearance
+
+MenuReturn to top
+
+ Sidebar Navigation 
+ Beginners Guide
+
+ Posts
+
+ Contribute
+
+Wiki
+
+ Adblocking / Privacy
+
+ Artificial Intelligence
+
+ Movies / TV / Anime
+
+ Music / Podcasts / Radio
+
+ Gaming / Emulation
+
+ Books / Comics / Manga
+
+ Downloading
+
+ Torrenting
+
+ Educational
+
+ Android / iOS
+
+ Linux / macOS
+
+ Non-English
+
+ Miscellaneous
+
+Tools
+
+ System Tools
+
+ File Tools
+
+ Internet Tools
+
+ Social Media Tools
+
+ Text Tools
+
+ Gaming Tools
+
+ Image Tools
+
+ Video Tools
+
+ Audio Tools
+
+ Educational Tools
+
+ Developer Tools
+
+More
+
+ NSFW
+
+ Unsafe Sites
+
+ Recently Removed
+
+ Storage
+
+ Emoji Legend 
+
+Indexes
+
+Section Links
+
+Recommendations
+
+Options
+
+Toggle Starred
+
+Toggle Indexes
+
+Theme:Swarm
+
+On this page
+
+Linux / macOS
+Apps, Software Sites, Gaming
+
+Got feedback?
+ We'd love to know what you think about this page. 
+
+ Share Feedback 
+
+Linux Guides ​ 
+TIP
+Keep in mind that install guides can usually be found on each distro's doc page. You can find doc pages on each distro's site, or through their DistroWatch pages.
+
+ ArchWiki - Linux Guides / Manuals 
+Linux Journey or Tilde - Interactive Linux Guides
+HowToLinux - Linux Desktop Guides
+⁠tony, btw - Linux Tutorials / Guides / 
+Linuxtopia - Linux Guides
+Linux Roadmap - Linux Learning Roadmap
+Erik Dubois - Arch-centric Linux Video Tutorials
+Gentoo Wiki - Gentoo Wikis / Guides
+Debian Wiki - Debian Wiki / Guides
+⁠Fedora Noble Guide - Fedora Setup Guide
+Zero to Nix - Nix Learning Guide
+Vim Tutorials - Vim Tutorial Playlist by Mental Outlaw
+Boot-Repair - Grub Repair Guide for Linux Systems
+⁠Wikiman - Offline Linux Documentation Search
+CLI Cheat Sheets ​ 
+ Linux Command Library - Searchable Linux Command Index / 
+Awesome for One Liner - Curated One-Liner CLI Tools
+You Don't Need GUI - CLI Alts for GUI Tasks
+CommandlineFU - Community-Driven Command Snippets
+cheat.sh or Commands.dev - Terminal Commands
+Bash Academy - Bash Scripting Guide
+ss64 Bash - Alphabetical Command Reference
+Bash Oneliner - Bash One-Liner Collection
+navi - Interactive Cheatsheet Tool
+Linux Communities ​ 
+TIP
+Keep in mind it's usually best to seek specific forums for your Distro if you need help with them.
+
+LinuxQuestions - Linux Q&A Forum
+Linux.Chat - Linux Discord Server
+Linux x Technology - Linux Discord Server
+⁠Neon Genesis Linux - Linux Discord Server
+Discord-Linux - Linux Discord Server
+Arch Linux Community - Arch Discord Server / Fluxer 
+Debian Community or r/debian - Debian Discord Server + Subreddit / Fluxer 
+Linux.org - Linux Forum / Invite Required for Account
+Arch Forums - Linux Forum
+Gentoo Forums - Linux Forum
+⁠phoronix - Linux Forum
+Linux Distros ​ 
+TIP
+We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own. Keep in mind that install guides can usually be found on each distro's doc page. You can find doc pages on each distro's site, or through their DistroWatch pages.
+
+ DistroWatch - Distro Index w/ News + Rankings / Advanced Search 
+ DistroChooser / Beta / / or ⁠Distro Fighter - Quiz-Based Distro Selectors
+Linux Live Kit - Create Live Distros from Installed Systems
+OpenSourceFeed - Open-Source Distros
+OS.click - Fast Distro Downloads
+LinuxTracker - BitTorrent Distro Repo
+Linux Comparisons - Detailed Distro Comparison Charts
+ArchiveOS - Inactive / Open-Source OS Projects
+DistroSea - Test Distros / Cloud Virtual Machine / Allows Browsers
+Linux Apps ​ 
+ GNOME Shell Extensions 
+️ Multi-Platform Readers - Ebook Reader Index
+️ Office Suites 
+ Bottles - Manage Wine containers / / 
+ WineHQ - Wine Compatibility Database
+ Q4Wine - Wine GUI
+ AppImageLauncher , GearLever or ⁠AppManager - Integrate AppImages to App Launchers
+ winetricks - Wine Fixes
+ rofi / Emoji Selector , vicinae / , Fuzzel , Ulauncher or wofi - App Launchers / Keystroke Launchers
+ FreeRDP / , ⁠Remmina or ⁠Apache Guacamole - Remote Desktop Clients
+ shell_gpt or shellgpt - AI Terminal Chatbot / GPT
+Darling - Run macOS Apps on Linux / / 
+innoextract - Windows Installer Unpacker / 
+Autokey - Linux Automation Utility / 
+ProtonTricks - Run Winetricks Commands for Steam Play / Proton Games
+Touchégg - Multi-Touch Gesture Recognizer
+Ghostwriter or Remarkable - Markdown Editor
+taskbook or nb / - Note Apps
+Featherpad or gedit - Text Editors
+Kate Editor - Source Code Editor
+TextPieces - Quick Text Transformations
+clipboard-history - Clipboard Manager
+Durdraw - ASCII Editor
+ly - Display Manager with Console UI
+GammaStep - Adjust Screen Temperature
+Weylus - Use Mobile Device as Trackpad
+AudioSource - Use Mobile Device as Microphone
+Alpaca - Run LLMs on Linux
+nyrna - Suspend Apps / Games
+Solaar - Logitech Device Manager
+bluetuith - Bluetooth Manager
+libimobiledevice - Communicate with iOS Devices
+Linux-PowerToys - PowerToys for Linux
+Railway - Travel Info Manager
+Wike - Wikipedia App
+Komikku , Suwayomi-VaadinUI or Manga Reader - Manga Readers
+Mako or dunst / - Customizable Notification Daemon
+Eloquent or DidYouMean - Grammar Check Apps
+KTouch or typer - Typing Practice
+Software Sites ​ 
+ ArchWiki App Sites or Ultimate Cheatsheet - Linux Software / Site Index
+ Awesome Linux Software - FOSS Linux Software
+ Awesome KDE - FOSS KDE Software
+ Awesome GNOME - FOSS GNOME Software
+ FOSS Software Packages - FOSS Software Packages Index
+ Kapital Sin - Linux Software / Use Translator 
+ The Book of Secret Knowledge 
+ Linux Software CSE - Multi-Site Software Search
+⁠TuxMate - Bulk App Installer / 
+Awesome Linux Minimalism - FOSS Software
+FOSS Torrents - FOSS Software Torrents
+Open Source Linux Programs - FOSS Software Chart
+RUTracker Linux - Linux Software
+Rim's Linux Wiki , 2 - Linux Software / Tool Index / 
+KDE Applications or KDE Store - KDE Apps & Themes
+Flatpak - Sandboxed Package Manager / Manage Permissions 
+SnapCraft - Snap Repository
+Nix / Resources , ⁠Shelly , pkgx or Homebrew - Package Managers
+Nala , apt-fast or APTUI - TUI Frontends for APT Package Manager
+AM - App Image Managers
+Pkgs - Searchable Linux Package Database
+AppImageHub / GUI , AppImages or Get AppImage - Download AppImages
+Apps for GNOME - GNOME Apps
+emplace - System Package Sync
+WTAKO AUR Audit - AUR Package Audits
+⁠Chaotic-AUR - Automated Pre-Built AUR Packages
+Pacstall - AUR-Inspired Package Manager for Ubuntu
+Linux System ​ 
+ Hardware for Linux - Linux Hardware Compatibility Database / 
+ Awesome Fetch - Command-Line Fetch Tool (System Info) Index / 
+ Btop or s-tui - System Resource Monitors
+ MangoHud - System Resource Monitor Overlay / GUI 
+ ⁠LACT - GPU Config + Monitor
+ fastfetch , Archey4 , Anifetch , Hyfetch , Macchina or CPU-X - System Info Displays / Fetch Tools
+ TimeShift or ⁠Snapper - System Restore / Backup / Snapshots
+Impression or Caligula - Create Bootable USB Linux Drives
+anuraOS / Instance - Linux Browser Emulator
+SysmonForLinux - Monitor / Log System Activity
+htop or Zenith - Interactive Process Viewers
+CoolerControl - Cooling Device Monitor / / / 
+⁠TuxManager - Task Manager
+screenFetch - Bash Screenshot Information Tool
+Nanobench - CPU Microbenchmark / Documentation 
+ScanMem - Memory Scanner / Debugger
+pacwall - Live Wallpaper Dependency Graph / Package Status
+keyd or xremap - Keyboard Remapping
+LAN Mouse - Mouse & Keyboard Sharing
+auto-cpufreq - CPU Speed & Power Optimization Automation
+Fan Control - Fan Controller
+⁠WinApps - Run Windows Apps on Linux
+Teleport - Windows App Compatibility Analyzer
+NetBoot - iPXE Network Boot
+CloverBootloader - Windows, Mac & Linux Bootloader / Config 
+zfsBootMenu - ZFS Bootloader
+coreboot , Heads / , ⁠Canoeboot or Libreboot - Replace Proprietary BIOS/UEFI Firmware
+GParted - Partition Manager
+CoreELEC / or LibreELEC / - Kodi-Based Operating System
+Linux-KVM - Virtualization Kernel module
+WebVM - Browser Virtual Machine / / 
+OSX-KVM , OneClick-macOS-Simple-KVM or macOS-Simple-KVM - macOS Virtual Machines
+kmon - Kernel Manager and Activity Monitor
+Kernel Map - Interactive Linux Kernel Map
+KernelNewbies - Kernel Developer Guides
+SystemRescue or Super Grub2 Disk - Bootable System Rescue Toolkits
+bt-dualboot - Dual-Boot Bluetooth Sync Tool
+open-gpu-kernel-modules - NVIDIA Linux Open GPU Kernel Module
+G-Helper Linux - Armoury Crate Replacement for ASUS Laptops
+systemctl-tui - TUI for systemd
+nosystemd or ⁠Init Freedom - Alternatives to systemd
+greetd - Login Manager Daemon
+Linux Video ​ 
+️ Streaming Apps / Torrent Streaming 
+️ Media Servers / Tools 
+ mpv or VLC - Video Players
+ Haruna / , Celluloid or Cine - MPV Frontends
+ Kdenlive / , Pitivi , ⁠davincibox or Flowblade / - Video Editors
+MultiPlex - Torrent Watch Party / Use VPN 
+MPV Shim - Cast Plex to MPV
+Gromit MPX - Screen Annotation
+⁠Spectacle or GPU Screen Recorder - Screen Recorders
+AV Linux - Video / Audio Editor
+REAL Video Enhancer - Video Upscaling / 
+4KTUBE or Video Downloader - Video Downloaders
+Linux-Fake-Background-Webcam - Fake Webcam Background
+Trackma - Anime Tracking App
+LiveCaptions - Real-Time Captions
+Linux Audio ​ 
+ Awesome Linux Audio - Live Audio Resources
+ SpotX-Bash or spotify-adblock - Spotify Adblockers
+ Spicetify - Spotify Themes & Plugins / Improved Lyrics / / / 
+
+ Shortwave / or QMPlay2 - Radio Players
+ SongRec / or Mousai - Song Identifiers
+ ⁠LibrePods - Use AirPod Features on Linux
+puddletag - Metadata Organizer / 
+Tidal Hi-Fi - Hi-Fi Tidal Player
+⁠tuifi - Terminal Audio Player for Hi-Fi Tidal
+⁠Volta - Audio Streaming / Player / 
+BeatBoss - Plugin-Based Streaming / / 
+cmus - Audio Player
+Tauon Music Box - Audio Player / / 
+Lollypop - Audio Player
+Audacious - Audio Player / 
+Amberol - Audio Player
+Fooyin - Audio Player / 
+Gapless - Audio Player
+dopamine - Audio Player
+AudioTube , WAVE , ytermusic , ⁠Mixtapes or Monophony - YouTube Music Clients
+cliamp / , MOC or Kew - TUI Audio Players
+Deezer Linux or DZR - Deezer Clients / 
+
+MusicPod - Podcast / Radio Player
+HeadsetControl - Headset Settings Manager
+Pipewire - Improved Video / Audio Handling / Multimedia API / Effects / TUI Audio Mixer 
+Werman , ⁠HushMic or NoiseTorch - Noise Suppression Software
+Qtractor - Audio Editor
+Calf Studio Gear - Audio Production Plugins
+Ensembles - Musical Performance Arranger
+JDSP4Linux - Audio Processors
+cava - Console Audio Visualizer
+Blanket - Ambient Sound Mixer for Linux
+Linux Image ​ 
+️ Linux Image Editors 
+ Flameshot , ⁠Spectacle , Satty , Gradia / or Scrot - Screenshot Tools
+v4l2loopback - Create Virtual Cameras
+Drawing - Drawing App
+Android Virtual Pen - Use Device as Linux Virtual Pen
+Feh or NSXIV - Image Viewer
+Lightroom Classic on Linux - Scripts to run Lightroom Classic on Linux
+lsix - View Images in Terminal
+Upscaler - Image Upscaler
+Trimage or Curtail - Image Compressor
+Rapid - Quick Linux Photo Importer
+Productivity / Calendars ​ 
+todo or Planify - To-Do Apps
+Mindfulness at the Computer - Productivity Managers
+GNOME Evolution - Desktop Calendar
+dLine or ⁠calcurse - CLI Calendars
+Linux Gaming ​ 
+️ Steam Deck Resources 
+ Linux Gaming Wiki or r/LinuxCrackSupport Wiki - Linux Gaming Guides
+ protondb - Game Compatibility Database / Steam Extension / 
+ Heroic Games Launcher / / , Lutris / / , or ⁠Faugus Launcher - Game Launchers
+ Bottles - Manage Wine Containers / / 
+ SLSsteam / - Steamclient Mod w/ DLC Unlocker and Emulated Achievements / Auto Install / Update 
+ Accela - Steam Game + DLC Unlocker / Setup Guide 
+ ProtonPlus or ProtonUp-QT / - Linux Compatibility Tool Managers
+ GE-Proton - Custom Proton Version / 
+ Kapital Sin - Linux Games / Use Translator 
+ Torrminatorr - Linux Games / Requires Sign-Up
+ johncena141 - Linux Games / Support / Launcher 
+CS.RIN.RU - Linux Games / Sign-Up / PW: cs.rin.ru / csrin.org / 
+RuTracker - Linux Games / Use Translator / Tools 
+Native Linux Games - Linux Games
+⁠GamingOnLinux - Linux Gaming News
+appnetica - Linux Games
+LinUwUx - LD_PRELOAD Library for Hypervisor(-less) Denuvo Bypass
+LuaTools - Steam Game Unlocker w/ Multitool, DLC Unlocker + Auto Online Fix / 
+CreamLinux - Steam DLC Unlockers / Installer 
+winesapOS - Play Games on Storage Devices
+wine-wayland - Play DX9/DX11 / Vulkan Games
+⁠UMU - Run Non-Steam Games Through Proton
+Luxtorpeda or Boxtron - Run Steam Games on Linux
+⁠SteamTinkerLaunch - Steam Wrapper w/ Custom Launcher Options
+AdwSteamGtk - Steam Frontend
+steam-tui - Rust TUI for Steam
+RetroDECK - Emulator for Steam Deck
+CryoUtilities - Steam Deck Utilities
+SamRewritten - Steam Achievement Manager
+Steam for Linux - Steam Linux Beta Issue Tracker
+Minigalaxy - GOG Client
+⁠Online-Fix Linux - Launch Games w/ ⁠Online-Fix Patches
+⁠LVRA Wiki / - Linux VR Gaming Guides
+Vice - Game Clipping App / 
+Sober - Roblox Linux Port / Vinegar (Studio Only) 
+⁠Amethyst Mod Manager or Limo - Mod Managers
+ssprea-nvidia-control , ⁠LACT or CoreCtrl - GPU Overclocking Tools
+⁠LeShade - ReShade Manager
+DXVK - Vulkan-Based Direct3D for Linux / Wine
+⁠D7VK - Vulkan-Based D3D7/6/5 for Linux / Wine
+DLSS5VKLayer - Vulkan DLSS 5 Neural Rendering Layer / 
+⁠dxvk-gplasync or DXVK-Sarek - DXVK Forks w/ Async / Vulkan-Based Direct3D & D3D3-11 / Stutter Reduction
+⁠lsfg-vk - Lossless Scaling for Linux / 
+vkBasalt - Game Post Processing Layer
+Liquorix , Xanmod or Frogging - Linux Gaming Kernels
+Gamemode - Linux System Optimizer
+LibreGaming - Linux Game Package Downloader
+PortMaster - Port Games to Linux Handheld Devices / 
+Gameboy.live - Terminal Game Boy Emulator
+QuickPassthrough - Simplified GPU Passthrough
+⁠WiVRn - Wirelessly Stream PC VR Games from Linux to Standalone VR Headset
+⁠Touhou Linux Guide , 2 - Touhou Game Series Linux Guide / 
+Linux Tools ​ 
+Adblock / Privacy ​ 
+️ Linux 2FA 
+️ Adblocking Tools 
+️ DNS Adblocking 
+ Arch Security Wiki , Linux Hardening / 2 or How to Secure a Linux Server - Linux Security Guides
+ CryptSetup , gocryptfs / or Tomb - File Encryption
+Securely Wipe Disk or SSD Memory Cell Clearing - Linux Disk Wipe Guides
+Lynis - Linux Security Auditing Tool
+Mistborn - Manage Cloud Security Apps
+OpenSnitch - Linux Firewall
+Tracee - Runtime Security and Forensics
+vnStat - Network Monitors
+Howdy - Linux Facial Authentication
+USBGuard - Implement USB Device Authorization Policies
+ShuffleStacks - Create Hidden Volumes
+Collision - Check File Hashes
+WhoAmI Project - Privacy / Anonymity Tool / 
+Yubikey Full Disk Encryption - Use YubiKey to unlock a LUKS Partition
+Firejail or Bubblewrap - Sandboxing Tools
+Googerteller - Google Tracking Notifications
+Linux Internet ​ 
+️ Linux Torrent Clients 
+️ Linux Password Managers 
+ Nicotine+ or Soulseek - File Sharing App
+ Linux WiFi Hotspot - Create WiFi Hotspots
+BTFS - Bittorrent Filesystem
+ElectronMail , Claws Mail or dodo - Email Clients
+Akregator , NewsBoat , NewsFlash , Photon or gorss - RSS Readers
+KGet , ⁠Surge or GabutDM - Download Managers
+GDown - Google Drive Downloader
+google-drive-ocamlfuse - Mount Google Drive
+aMule - eMule-like P2P Client
+⁠OpenWRT , DD-WRT or FreshTomato - Linux Router Firmware
+⁠dae - Linux Router Performance Proxy App / WebUI 
+Linux Router - Set Linux as Router
+Netcat - Networking Tool
+Bandwhich - Terminal Bandwidth Utilization Tool
+iperf - Network Bandwidth Test
+sttr - Base64 Encryption / Decryption TUI
+Netflix Proxy - Streaming Service Proxy
+Teams for Linux - Collaboration Platform
+⁠Brave Origin - Lighter Version of Brave
+Luakit - Lightweight Linux Browser
+browsh - Text-Based Browser
+mx moment - Encrypted Chat Client
+Adium , Polari / , Irssi or Weechat - IRC Clients
+Dino - XMPP Client
+gurk-rs - Signal Client
+ZapZap - WhatsApp Client / 
+YouTube-Viewer , Pipe Viewer or Pipeline - YouTube Clients
+GrayJay - YouTube, Twitch, Rumble, etc. / Guide / Plugins / Add Platforms , 2 , 3 / 
+Discover - Discord Overlay
+dvm - Discord Version Manager
+Server / Selfhosting ​ 
+ Awesome Selfhosted / 2 or Awesome Selfhosted UI - Self-Hosted Software Index / 
+ ⁠Awesome Homelab - Homelab App Index
+ Selfh.st - Self-Hosted Software Index
+ selfhost.directory - Self-Hosted Software Index
+ ⁠RackRat - eBay Rackmount Server Prices / Comparisons
+️ Media Servers / Tools 
+️ Selfhosted Image Galleries 
+ Homepage / , Dashy / , Flame , Homer , Lab Dash , mafl , Homarr / or Organizr - Home Server Startpages / Dashboards
+Glance - Feed Dashboard
+⁠ThingsBoard - IoT Device Manager / Visualizer / Data Collection
+Self Managed Life - FOSS / Self-Hosting Guide / Video , 2 
+r/SelfHosted Wiki - Self-Hosting Guides / Resources / Community / / 
+Server World - Network Server Guides
+HowtoForge / or Comfy.Guide - Linux Server Software Guides
+serverbox , ⁠Termix / , EasyPanel , Webmin / , Cockpit Project , ZimaOS or 1Panel / - Linux Server Managers / Status
+Exo - Run AI Clusters / / 
+⁠LXD UI - Linux Container + Virtual Machine Manager
+Proxmox - Self-Hosted Server Tools / Virtual Environment / Scripts 
+yet another bench script - Server Performance Script
+Docker-Jackett - Docker Jackett Container
+arch-delugevpn - Docker with Torrent client and VPN on Arch Linux base
+swizzin - Seedbox for Ubuntu / Debian
+rtinst - Seedbox Installation Script for Ubuntu / Debian
+SeedSync - Sync your Seedbox
+openmediavault / , SeaFile or Linux Server - Self-Hosted Cloud Storage
+Tube Archivist - Self-Hosted YouTube Media Server / 
+FileBrowser Quantum / or ⁠copyparty - Self-Hosted Web File Managers
+⁠SilverBullet - Self-Hosted Markdown Note-Taking
+Lightning - Self-Hosted Cross-Platform Chatbot Framework
+⁠ConvertX or Transmute / - Self-Hosted File Converters
+omnisearch , SearXNG , 4get , ⁠Hister / / or ZincSearch / - Self-Hosted Search Engines
+iRedMail , Docker Mailserver , Stalwart / , UnInbox or Mail-in a Box - Self-Hosted Email Servers
+⁠AIOStreams - Multi-Source Addon + Debrid Aggregator / / 
+⁠AIOMetadata - Multi-Source Metadata & Catalogs Addon / Public Instances 
+File Tools ​ 
+ Warpinator , rQuickshare , Magic Wormhole , syncthing / Tray Support , portal , Zrok , Cattail or Sharing - File Sync / Transfer
+ lf , ranger / , ⁠broot / , nnn , clifm , Yazi / , fm , superfile / , walk or Joshuto - Terminal File Managers
+ Baobab , Filelight - Disk Usage Analyzers / GUI
+ dut , gdu , NCDU - Disk Usage Analyzers / CLI
+ANGRYsearch , gocatcli , xplr / / , logo-ls or ugrep / - File Explorers / Search
+The Filesystem Hierarchy Standard , 2 , 3 - Linux Filesystem Chart
+Dolphin / or SpaceFM - File Managers
+PeaZip / , pigz / , p7zip or GNU Gzip - File Archivers / Unzippers / Compression
+Collector - File Drag & Drop
+Zoxide - Improved CD Command
+lnav - Log File Viewer / Analyzer / / 
+Pika Backup or RecoverPy - File Backup / Recovery Tools
+fcp - Improved Linux File Copy
+Boxxy - Contain Files / Directories
+Junction - Change File Associations
+Krename - Bulk File / Folder Renaming
+FSLint , kdiff3 or fclones - Duplicate File Finder
+xdg-ninja - Unwanted File Finder
+rcm - Manage Dotfiles
+PDF Mix - PDF Editor
+gscan2pdf - Turn Documents into PDFs
+Android on Linux ​ 
+ Waydroid - Containerized Android on Linux / Scripts / Magisk Installer / 
+Redroid or Docker-Android - Containerized Android on Linux
+Genymotion - Android Emulator
+Android-x86 - Android-Based OS for PC
+adbfs-rootless - Mount Android on Linux via ADB
+Terminal / Shell ​ 
+ Awesome Shell , tldr / or AltBox - Linux Shell Resources
+ Awesome TUI or TerminalTrove - TUI Indexes
+ ⁠Awesome Terminal Recorder - Terminal Recorder Index
+ zsh , bash , fish , Elvish , Es , PowerShell , Ion , Xonsh , Nushell or oils / - Command Line Shells
+ zsh Tools - Plugins / Customization / Theme / Auto Setup / Rich Framework 
+ Alacritty , Kitty , Wezterm / Plugins / , tabby , foot , Simple Terminal , Wave , Ghostty , yakuake or emacs-eat - Linux Terminal Emulators
+ LinuxCommand , Terminal Guide , Command Line Guide or ManKier - Command-Line / Terminal Guides
+⁠WebTerm - Terminal Learning Sandbox
+⁠WTF / - Terminal Dashboards
+Starship or Liquidprompt - Bash / Zsh Prompt
+utils or UsefulLinuxShellScripts - Linux Shell Tool Scripts
+Gum - Shell Script Creator
+ShellCheck - Shell Script Bug Check
+⁠ShellScript or shell-scripting-tutorial - Shell Scripting Tutorials
+Bash Crawl - Linux Command Learning Game
+bash_loading_animations - Bash Loading Animations
+bash-it or Bashly - Bash Frameworks
+zx or dax - Write Complex Scripts
+Basher or bpkg - Bash Package Manager
+Distrobox - Use Distros via Terminal
+explainshell.com - Match Command-Line Arguments to Help Text
+Tmux - Terminal Multiplexer / Cheatsheet 
+Zellij - Terminal Workspace
+atuin - Shell History Management / 
+cbonsai - Generate Bonsai Trees in Terminal
+pipes.sh or pipes-rs - Animated Pipes in Terminal
+Raspberry Pi ​ 
+ Awesome Raspberry Pi - Raspberry Pi Tools / Resources
+ Pi-Apps - Raspberry Pi App Store / 
+Pinn - Raspberry Pi OS Installer
+PiVPN - Raspberry Pi VPN / 
+raspberrypiwireguard - Install WireGuard on Raspberry Pi
+Raspberry Pi Connect - Raspberry Pi Remote Access
+⁠Shairport Sync - AirPlay Audio Receiver for Raspberry Pi
+CaribouLite - Raspberry Pi Tx/Rx 6GHz SDR
+Piper - Raspberry Pi Text-To-Speech
+Pinout - Raspberry Pi GPIO Pins Guide
+Customization ​ 
+ Awesome Ricing , ⁠Awesome Linux Ricing or Pling - Linux Customization Resources
+ Elkowar's Wacky Widgets , Aylur's GTK Shell or ⁠Quickshell - Widgeting Systems
+ unixporn - Customization Community / / / 
+Fetch - Custom 3D Rotating Distro Logo / 
+dotfiles or ~/.config - GitHub Dotfiles
+⁠Chezmoi - Dotfile Managers
+⁠Qylock - Custom Lockscreen Themes for SDDM + Quickshell
+Desktop Environment ​ 
+ Desktop Environment Comparison 
+Extension Manager - GNOME Shell Extension Manager
+Material Shell or Forge - GNOME Tiling Extension
+Pop!_OS Shell - Pop-Shell for GNOME
+Guillotine - Execute Commands from a Customizable Menu / GNOME Extension
+Hardcode Tray - Hardcoded Tray Icon Fix
+Window Managers ​ 
+ ⁠Awesome Wayland - Wayland Resources
+ ⁠Wayland.fyi - Lightweight Wayland Resources
+ Window Manager Index - List of Window Managers
+ Wayland Compositor Index - List of Wayland Compositors
+ We Are Wayland Now - Wayland Ecosystem Components / 
+ i3wm - Manual Tiling Window Manager / Reference Card / 
+ awesomewm / , xmonad , Qtile / or dwm / - Dynamic Tiling Window Managers
+ Hyprland - Dynamic Tiling Wayland Compositor / Resources / Arch Wiki / Simple Config , 2 / Test Configs / / 
+ niri - Scrollable-Tiling Wayland Compositor
+ Sway / Arch Wiki or SwayFx - i3-compatible Wayland Compositors
+Waycheck - Lists Protocols Implemented by a Wayland Compositor
+mangowm - Dynamic Tiling Wayland Compositor / / 
+BSPWM - Hybrid Tiling Window Manager
+herbstluftwm - Manual Tiling Window Manager / 
+river - Wayland Compositor
+LabWC - Wayland Compositor
+wayfire - Wayland Compositor
+⁠wayscriber - Wayland Screen Annotation / 
+picom - Compositor for Standalone X11 Window Managers / Docs / 
+Polybar (X11) / Themes / , Iron Bar (Wayland) or Waybar (Wayland) - Customizable Status Bars
+Linux Themes ​ 
+ xfce-look - XFCE Linux Themes
+ Gnome-Look - GNOME Themes
+Hellwal - Color Palette Generator for Customization
+Themix - Linux Themes / GUI
+Kvantum - Linux QT / KDE Theme Engine
+⁠nwg-look - GTK3 Settings Editor
+Arc - Transparent Linux Theme
+Ant - Light Linux Theme
+AeroThemePlasma / 2 or VistaThemePlasma - Windows 7 / Vista Themes for KDE Plasma
+XScreenSaver - Linux Screensavers
+⁠Waywallen , varietywalls or HydraPaper - Wallpaper Managers
+⁠Wallpiper - Wallpaper Engine Translation Layer for Linux
+Video Wallpaper or Hidamari - Use Videos as Animated Wallpapers
+⁠tint - Recolor Wallpapers for System Scheme / GUI 
+Polychromatic or OpenRazer - Linux System Light Control
+Burn My Windows - Window Closing Effects
+theme.sh , NotCurses / Wiki or Shell Color Scripts - Custom Terminal Themes
+Mac Apps ​ 
+️ Multi-Platform Readers - Ebook Reader Index
+️ Office Suites 
+ gibMacOS or Mist - Download macOS
+ NearDrop - File Sharing App
+ shottr or ⁠Better Shot / - Screenshot Tools
+ Aptonic - Drag-and-Drop Shelf / Quick File Access
+Ghostty - Terminal Emulator / 
+Ice Cubes - Mastodon Client / 
+Sky.app - Bluesky Client
+Beta Profiles - Download Pre-Release Versions macOS
+CloverBootloader / Config , Boot Camp / DL Script or OpenCore / Config / Guide - Bootloaders
+rEFind - Boot Manager
+Tart - Virtual Machine Manager / 
+UTM , LimaVM or VMware - Virtual Machines / Run Linux or Windows on macOS
+VirtualBuddy - Virtualize macOS 12 and later on Apple Silicon
+Docker OSX - Mac VM in Docker
+Linux for T2 - Install Linux on Apple T2 Devices / 
+CrossOver (search) - Run Windows Software on Mac
+PortingKit or PlayOnMac - Run Windows Games / Programs on Mac
+PlayCover - Run iOS Apps on Apple Silicon Macs / 
+SwiftUI Win11 - Windows 11 Desktop Client for macOS
+OrbStack - Docker Client
+Bookshelf - Book Tracker
+Kexts - UEFI Kexts
+Adobe Downloader - Adobe Product Downloader / 
+ss64 macOS - macOS Bash Commands
+Left on Read - iMessage Client
+MacBing , LlamaChat , Osaurus / , ⁠Atomic Chat or Mollama - AI Chatbots
+CodexBar - Menu Bar AI Limit Tracker / 
+ViennaRSS - RSS Feed Reader
+Dialect - Translator
+Drafts , CotEditor , TextMate , Nebo , Strflow , ⁠NotesPlus , Voodoopad , Kyun or Notenik - Text Editors / Notes
+Clearly - Markdown Editor / 
+⁠TypeWhisper - Text to Speech / / 
+Agenda - Date-Focused Note Organizer / Forum 
+Taskpaper - Plain Text To-Do Lists
+BibDesk - Bibliography Manager
+Hammerspoon or Bunch - Desktop Automation via Lua Scripts
+MacScripter - Automation Forum
+pongoOS - Mac Pre-Boot Executor
+Later - Restore App Sessions / 
+MacVim , CodeEdit , AuroraEditor or OpenCode - Code Editors
+CHARL-E - Stable Diffusion App
+ColorSlurp or Material-Colors-native - Color Picker
+Use Contrast - Check Color Contrast Ratios
+Sim Daltonism - Color Blindness Simulator
+AnimeBox - Booru Client
+Hachidori - Automatically Update MAL / Anilist / Kitsu Lists
+Magit! - Git Text-Based UI
+ProperTree - GUI Plist Editor
+Does It Arm? - Apple Silicon App Compatibility Chart
+SelfControlApp - Website Blocker
+Typist - Typing Practice
+Sink It - Improved Reddit Comment Navigation
+Grayscale Mode - Grayscale Control
+macOSicons - macOS App Icons
+equinux - OS X Certificate Fix
+Lilu - Kext / Process Patcher
+TopNotch - Hide the Notch on MacBooks
+Software Sites ​ 
+ Awesome macOS , OpenSourceApple , Awesome Mac or Awesome OS Apps - FOSS App Indexes
+ Mac Menu Bar - Menu Bar App Index
+ Homebrew / GUI / Casks GUI / , Munki , MacApps or Applite - Package Managers
+ AppsTorrent - Downloads (not torrents) / Login Required for some Files
+nMac 
+MacBB 
+Antibiotic's 
+MacKed 
+TorrentMac - Use Adblock
+Macintosh Garden - Oldschool Software
+MacintoshRepository - Oldschool Software
+⁠OldAppleStuff - Oldschool Software + Apple II Software
+ThriftMac - Freeware
+Sindre Sorhus - Freeware
+Latest - Software Updater
+Mac Video ​ 
+️ Streaming Apps / Torrent Streaming 
+️ Media Servers / Tools 
+️ Editing Software 
+IINA - Video Player / 
+⁠Unwatched / or Yattee - YouTube Players
+REAL Video Enhancer - Video Upscaling / 
+Cap / / / , Kap / , ⁠Tight Studio / / / or ScreenTimeLapse - Screen Recorders
+⁠LonelyScreen - AirPlay Receiver for PC + macOS / Infinite Free Trial
+Mac Audio ​ 
+ SpotX-Bash - Spotify Adblockers
+ Spicetify - Spotify Themes & Plugins / Improved Lyrics / / / 
+
+foobar2000 or VOX Mac Music Player - Audio Players
+cliamp - TUI Audio Player / 
+Silicio - Audio Mini Player
+Alfred Spotify Mini Player - Spotify Mini Player
+SoundSeer - Spotify in Menu Bar
+TheBoringNotch - Turn Notch into Audio Controller / Calendar / / 
+⁠Kaset or WAVE - YouTube Music Clients
+⁠Volta - Audio Streaming / Player / 
+Nuage - Soundcloud Client
+Garageband - Audio Editor
+EQMac - Audio Equalizer
+The Levelator - Automatic Audio Level Adjustments
+Guitarix - Virtual Guitar Amplifier / Plugins 
+XLD - Lossless Audio Transcoder
+BlackHole - Pass Audio to Apps
+Cuterdio - Radio
+Playlisty - Transfer Apple Music Playlists to Spotify
+Mac Image ​ 
+️ Editing Software 
+Gifski - Image to GIF Converter / 
+Darkroom - Image / Video Editor
+SeaShore - Image Editor
+ImageOptim - Image Optimization
+Perspec - Correct Perspective of Images
+Draw Things - AI Image Drawing Tool
+Mac Gaming ​ 
+ Torrminatorr - Mac Games / Requires Sign-Up
+ AppsTorrent - Mac Games / Downloads (not torrents) / Login Required for some Files
+ CrossOver (search) - Run Windows Games on Mac
+ AppleGamingWiki or Mac Gaming DB - Mac Game Fixes / Compatibility / 
+CS.RIN.RU - Mac Games / Sign-Up / PW: cs.rin.ru / csrin.org / 
+SCNLOG - Mac Games
+RuTracker - Mac Games / Tools 
+appnetica - Mac Games
+⁠MacSteam - Steam Game + DLC Unlocker
+MacintoshRepository - Oldschool Mac Games
+Mac Source Ports - Run Old Mac Games
+PortingKit - Run Windows Games on Mac
+PlayOnMac - Run Windows Games on Mac
+⁠Highball - Run Windows Games on Apple Silicon
+⁠Sikarugir - Create Wine Wrapped Game Ports for Mac
+Heroic Games Launcher - Epic / GOG / Prime Games Launcher / / 
+Mythic - Epic Games Launcher / 
+⁠MetalGoose - Frame Generation + Upscaling Tool
+r/MacGaming - Mac Gaming Community / 
+cemu.emiyl - CEMU Compatibility List
+Mac Tools ​ 
+Mac Adblock / Privacy ​ 
+ Awesome OSX Security - Mac Security Resources
+️ Mac 2FA 
+️ Adblocking Tools 
+️ DNS Adblocking 
+ Malwarebytes , ESET , BlockBlock or KnockKnock - Antivirus
+⁠uBO Lite Safari / 
+
+, AdGuard Mini / Guide / 2 or wBlock / - Safari Adblockers
+Gas Mask - Block Ads via Host Files
+macOS Privacy Guide - Mac Privacy & Security Guides
+⁠ClashMac - Proxy Client
+DNS Party - Encrypted DNS Profiles
+LuLu - Mac Firewall
+RansomWhere? - Ransomware Blocker
+OverSight - Webcam / Mic Monitor
+SuspiciousPackage - Analyze PKG Files
+Santa - Binary Authorization System
+DHS - Dylib Hijack Scanner
+GPG Suite - Encrypt & Sign Data / Communications
+What's Your Sign? - View File Cryptographic Signatures
+Tracker Zapper - Remove URL Tracking Elements
+LinkLiar - Spoof MAC Address
+Kextviewr - View All Kernel Modules
+mac_apt - Artifact Parsing Tool
+Tunnelblick or Passepartout - VPN Tunnel
+MailTrackerBlocker - Privacy-Based Email Client
+Status - Encrypted Messaging Client
+Mac Internet ​ 
+️ Mac Torrent Clients 
+️ Mac Password Managers 
+What Route - Network Diagnostic Tool
+ElectronMail - Email Client
+Browserino - Browser Prompter
+Orion - Browser with Chrome + Firefox Extension Support / 
+System Tools ​ 
+ AppleDB - Apple Device / Software Info Database
+ Mac Menu Bar - Menu Bar App Directory
+ ⁠Vorssaint - Menu Bar Toolkit / 
+ Alfred , Raycast / FMHY Search , Albert / , Quicksilver , KeyboardCowboy or SOL - Keystroke Launchers / Spotlight Replacements / Alfred Workflows / Themes 
+ CustomShortcuts , Karabiner-Elements or ShortcutKeeper - Custom Keyboard Shortcuts
+⁠Mac Terminal for Humans - macOS Terminal Cheat Sheet
+MuMuPlayer , NoxPlayer or Genymotion - Android on macOS
+Advanced macOS Commands - Advanced Command-Line Tools
+Conky / , Stats / , Mission Center or MacFetch - Hardware / System Monitors / Conky Colors 
+Hot - CPU Monitor
+TaskExplorer - Task Manager / Viewer
+Mole - System Cleanup / Optimization Multi-Tool
+Pearcleaner - System Cleanup / Uninstaller / 
+BetterDisplay - Display Controller / Custom Resolutions / HDR Control
+DisplayPlacer - Dual Monitor Manager
+⁠EasyDMG - Automated DMG Installation Tool
+KeyPad - Connect Mac Keyboard to Mobile Devices
+LinearMouse or MacMouseFix - Mouse Remapping
+Pinch - Trackpad Pinch to Zoom Gesture
+MiddleClick - Middle / Scroll Click via 3 Finger Tap
+Scroll Reverser - Per-Device Scroll Settings
+KeyClu - Shortcut CheatSheet for Current Application
+KeyCastr - Keystroke Visualizer
+⁠FineTune - Volume Mixer / Per App Volume Control / Routing / EQ / Booster
+MonitorControl - External Monitor Brightness / Volume Control
+BackgroundMusic - Volume Mixer / Auto-Pause
+MacThrottle - Menu Bar Thermal Throttling Tracker
+AlDente - Charging Manager
+BatteryBuddy - Cute Battery Indicator
+AirBattery or CoconutBattery - Device Battery Trackers
+Macs Fan Control - Fan Controller
+WhatCable - Cable Capability Identifier / 
+Touché - Touch Bar Simulator
+Sentinel - SwiftUI Gatekeeper Config GUI
+⁠Nigate - NTFS Drive Read-Write Access + Mounting Tool
+USBMap - Map macOS USB Ports
+Actions - Additional Shortcuts App Actions
+Übersicht - System Command Widgets
+Itsycal - Menu Bar Calendar
+Clocker or MeetingBar - Menu Bar Meetings Calendars
+⁠Thaw - Menu Bar Manager
+OnlySwitch - Menu Bar Toggle Switches
+Sloth - Process Manager
+Amphetamine - Prevent Sleep Mode / Highly Configurable
+KeepingYouAwake - Prevent Sleep Mode / Lightweight
+Yabai , Amethyst / , AeroSpace , 1Piece , Loop , Phoenix or Rectangle - Window Managers
+Maccy , ClipBook , ClipPocket - Clipboard Managers
+Pictogram , macOSicons / or IconChamp - Custom App Icons
+Tintd - Change Folder Colors
+MacPaper - Mac Wallpaper Manager
+Dynamic Wallpaper Club - Dynamic Wallpaper App
+wallpapper or Equinox - Dynamic Wallpaper Creators
+Plash - Use Website as Wallpaper
+DarkModeBuddy or ThemeKit - System Dark Mode Apps
+Magic Trace - Performance Analysis with Intel PT
+File Tools ​ 
+ PeaZip / , ⁠ShichiZip , The Unarchiver , unxip or Keka - File Archivers
+ Readdle - Multipurpose File Tool
+Neodisk - Disk Usage Analyzer / 
+OpenMTP - macOS / Android File Transfer / 
+Progress - Show Copied Data Progress
+Bruji - Media Cataloging Software Suite
+superfile - Terminal File Manager / 
+macFUSE - Mac File Integration / 
+JDownloader - File Download Manager / Debloat / Dark Theme , 2 / Dracula Theme 
+Go Speed - File Download Manager / Extension / Plugins / 
+Progressive Downloader - File Download Manager
+Transnomino - Bulk File / Folder Renaming
+fzf , ⁠Television or skim - Fuzzy Finders
+FlyingCarpet - Cross-Platform AirDrop / Guide 
+Unix-Like ​ 
+ Awesome-ttygames - Unix ASCII Games
+ Awesome BSD - BSD Resources
+ Hardware for BSD - BSD Hardware Compatibility Database / 
+UnitedBSD - BSD Forum / Community
+FreeBSD Wiki - FreeBSD Wiki / Guides / Docs 
+Pkgs - Searchable Unix-Like Package Database
+GameShell - Unix Shell Learning Game
+Modern Unix - Unix Shells
+wpgtk - Fully Customizable Unix Color Schemer
+Plan9Port - Unix Port for Plan9 Libraries + Programs / 
+⁠Is OpenBSD Secure? - Learn About OpenBSD Security Flaws
+
+ 📝 Edit this page 
+
+PagerPrevious page Android / iOS 
+Next page Non-English 
+
+Made with ❤ (rev: 0cae6407 )
+© 2026, Estd 2018. 
+ This site does not host any files.
+
+== URL LIST ==
